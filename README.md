@@ -6,7 +6,6 @@ Content:
 - Reason for selected topic
   * Due to rise in inflation we are concerned with housing affordability in San Diego. For this project we are researching what areas in San Diego would benefit from affordable housing development.
 - Description of source data
-    * Census data - Income and housing distribution
     * Built-in R- database 
     * Gas prices
     * Food prices
