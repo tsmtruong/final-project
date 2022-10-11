@@ -1,5 +1,5 @@
 # final-project
-Content:
+#### Content:
 - Selected topic 
     * Affordable housing needs in San Diego
 
@@ -17,7 +17,7 @@ Content:
     * Which areas in San Diego have a need for high-density affordable housing? 
 
 
-Git Hub:
+#### Git Hub:
 - Read me is included
 
 - Describe communication protocols
@@ -27,13 +27,13 @@ Git Hub:
 - One branch for each team member 
     * 4 commits per team member
 
-Machine Learning model:
+#### Machine Learning model:
 - Takes in data from the provisional database
 
 - Output labels for input data
 
 
-Provisional database:
+#### Provisional database:
 - Sample data that mimics the expected final database structure or schema
    * Zip codes
    * Population 
