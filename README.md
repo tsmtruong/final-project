@@ -35,8 +35,8 @@ Machine Learning model:
 
 Provisional database:
 - Sample data that mimics the expected final database structure or schema
-* Zip codes
-* Population 
-* Average incomes
-* Average monthly housing costs
+   * Zip codes
+   * Population 
+   * Average incomes
+   * Average monthly housing costs
 - Draft machine learning module is connected to the provisional database 
