@@ -2,7 +2,7 @@
 
 ## Data Extracting and Cleaning
 A csv file was pulled from census.gov to show the population, income, demophraphics and other San diego statics. Using pandas the CSV is read into a jupyter notebook
-where we will clean and prepare the data to stored.
+where we will clean and prepare the data to be stored.
 ## Database Storage
 PostGres is being used as our relational database to futher connect and disscect the data.
 ## Unsupervised Machine Learning Model
