@@ -1,0 +1,17 @@
+body {
+    background-color: #f7f7f7;
+}
+.jumbotron {
+    background-size: 100% 100%;
+    text-align:center;
+    background-color: rgb(147, 163, 179);
+}
+
+
+#section-1 {
+    background-color: silver;
+}
+
+#section-2 {
+    background-color: silver;
+}
