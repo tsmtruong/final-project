@@ -28,9 +28,8 @@
     * 4 commits per team member
 
 #### Machine Learning model:
-- Takes in data from the provisional database
-
-- Output labels for input data
+- We will be looking to use our cleaned data from a SQL Database to finalize our model
+- Utilizing clustering, we will be plotting our predictions on an axis of median houshold income vs pecentage of income allocated for housing.
 
 
 #### Provisional database:
