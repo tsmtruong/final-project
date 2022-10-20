@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Title</title>
+
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+
+    <!-- css file -->
+    <link href="static/css/styles.css" rel="stylesheet" />
+</head>
+<body class="bg-light">
+    <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+        <a class="navbar-brand" href="index.html">Title Here</a>
+        <div class="links">
+            <ul class="navbar-nav ml-auto my-2 my-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link"  href="#section-1">
+                        Dashboard
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link"  href="#section-2">
+                        Visual
+                    </a>
+                </li>   
+                <li class="nav-item">
+                    <a class="nav-link"  href="#section-2">
+                        Visual
+                    </a>
+                </li>
+                <li class="list-inline-item dropdown">
+                    <a role="button" class="nav-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                    Contributors
+                    </a>
+                    <!--Add contributors names and github links here-->                    
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        <a class="dropdown-item" href="https://github.com/tsmtruong/final-project">Contributor 1</a>
+                        <a class="dropdown-item" href="https://github.com/tsmtruong/final-project">Contributor 1</a>
+                        <a class="dropdown-item" href="https://github.com/tsmtruong/final-project">Contributor 1</a>
+                        <a class="dropdown-item" href="https://github.com/tsmtruong/final-project">Contributor 1</a>
+                    </div>
+                </li>                                             
+                <li class="list-inline-item nav-item">
+                    <a role="button" class="btn btn-outline-light" href="https://github.com/tsmtruong/final-project">
+                        GitHub Repository
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- Header -->
+    <div class="wrapper">
+
+        <div class="jumbotron">
+            <h1 class="display-4">Title Here</h1>
+            <hr />
+            <h2 class="text-muted">
+                Subtitle Here
+            </h2>
+
+            <p class="summary">
+                short summary of the project
+            </p>
+
+        </div>
+    </div>
+
+    <!-- First section -->
+    <div class="container-fluid" id="section-1">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="well">
+                    <h5>Select Household Type:</h5>
+                        <ul class="btn-group btn-group-toggle">
+                            <li class="list-inline-item">
+                                <a role="button" class="btn btn-outline-light" href="index.html">
+                                All Household Data
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a role="button" class="btn btn-outline-light" href="family_data.html">
+                                Family Data
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a role="button" class="btn btn-outline-light" href="nonfamily_data.html">
+                                    Non-Family Data
+                                </a>
+                            </li>
+                        </ul>   
+                </div>
+                <div class="well">    
+                    <h5>Select Zip Code:</h5>
+                    <select id="selZip" onchange="zipChanged(this.value)">
+                        <option disabled hidden selected>Select Zip Code</option>
+                    </select>
+                </div>
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                      <h5 class="panel-title">Census Data</h5>
+                    </div>
+                    <div id="census-data" class="panel-body">
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8" style="height:500px;overflow:scroll">
+                <table class="table">
+                    <thead>
+
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+        <!-- Second section -->
+    <div class="container-fluid" id="section-2">
+        <div class="row">
+            <div class="col-md-6">
+                <h2 class="text-center">
+                    visual here
+                </h2>
+            </div>
+            <div class="col-md-6">
+                <h2 class="text-center">
+                    visual here
+                </h2>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap and JavaScript scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.1.slim.js"   
+        integrity="sha256-tXm+sa1uzsbFnbXt8GJqsgi2Tw+m4BLGDof6eUPjbtk="   
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <script src="static/js/nonfamily_data.js"></script>
+    <script src="static/js/app.js"></script>
+</body>
+</html>
