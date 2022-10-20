@@ -1,5 +1,5 @@
 # final-project
-Content:
+#### Content:
 - Selected topic 
     * Affordable housing needs in San Diego
 
@@ -15,3 +15,27 @@ Content:
 
 - Questions we hope to answer 
     * Which areas in San Diego have a need for high-density affordable housing? 
+
+
+#### Git Hub:
+- Read me is included
+
+- Describe communication protocols
+    * Slack group messaging  
+    * Zoom meetings
+
+- One branch for each team member 
+    * 4 commits per team member
+
+#### Machine Learning model:
+- We will be looking to use our cleaned data from a SQL Database to finalize our model
+- Utilizing clustering, we will be plotting our predictions on an axis of median houshold income vs pecentage of income allocated for housing.
+
+
+#### Provisional database:
+- Sample data that mimics the expected final database structure or schema
+   * Zip codes
+   * Population 
+   * Average incomes
+   * Average monthly housing costs
+- Draft machine learning module is connected to the provisional database 
