@@ -23,7 +23,7 @@ function zipChanged(newZip) {
 function buildDemographics(data, zip) {
     console.log(zip)
     console.log(data[0])
-    var resultArray = data.filter(data => data.Zip_Code == zip)
+    var resultArray = data.filter(data => data['Zip Code'] == zip)
     var result = resultArray[0]
     console.log(result)
     var PANEL = d3.select("#census-data");
