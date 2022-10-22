@@ -9,6 +9,10 @@ __pycache__/
 # Config Files
 Config
 
+
+# Apple iOS files
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
