@@ -1,6 +1,6 @@
 -- Creating tables for San Diego housing data
-CREATE TABLE san_diego_housing(
-	Geographic_Area_Name VARCHAR,
+CREATE TABLE San_Diego_Housing_Data(
+	Zip_Code INT,
 	Households_Total VARCHAR,
 	Households_Total_Less_than_10000 VARCHAR,
 	Households_Total_10000_to_14999 VARCHAR,
@@ -51,10 +51,48 @@ CREATE TABLE san_diego_housing(
 	Nonfamily_households_Total_75000_to_99999 VARCHAR,
 	Nonfamily_households_Total_100000_to_149999	VARCHAR,
 	Nonfamily_households_Total_150000_to_199999	VARCHAR,
-	Nonfamily_households_Total_200000_or_more	VARCHAR,
+	Nonfamily_households_Total_200000_or_more VARCHAR,
 	Nonfamily_households_Median_income_dollars VARCHAR,
 	Nonfamily_households_Mean_income_dollars VARCHAR,
 	Nonfamily_households_PERCENT_ALLOCATED_Nonfamily_income_in_the_past_12_months VARCHAR,
-	PRIMARY KEY (Geographic_Area_Name)
+	PRIMARY KEY (Zip_Code)
 );
+
+-- Creating table for school data 
+CREATE TABLE San_Diego_School_Data (
+	Zip_Code INT,
+	circle_rating_small	INT,
+	scale VARCHAR,
+	name VARCHAR, 
+	address VARCHAR, 
+FOREIGN KEY (Zip_Code) REFERENCES San_Diego_Housing_Data(Zip_Code),
+	PRIMARY KEY (name, address)
+);
+
+-- Creating a table for hospital data
+CREATE TABLE San_Diego_Hospital_Data (
+	Zip_Code INT,
+	hospital_name VARCHAR,
+	address VARCHAR,
+	zipcode VARCHAR,
+	zipcodes VARCHAR,
+FOREIGN KEY (Zip_Code) REFERENCES San_Diego_Housing_Data(Zip_Code)
+);
+
+-- Creating a table for park data
+CREATE TABLE San_Diego_Parks_Data (
+	Zip_Code INT,
+	Number_of_parks INT,
+FOREIGN KEY (Zip_Code) REFERENCES San_Diego_Housing_Data(Zip_Code)
+);
+
+-- Creating a table for market data
+CREATE TABLE San_Diego_Markets_Data (
+	index INT, 
+	business_status VARCHAR,
+	name VARCHAR,
+	lat VARCHAR,
+	lng VARCHAR
+);
+
 
