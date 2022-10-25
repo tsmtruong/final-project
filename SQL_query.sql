@@ -88,11 +88,28 @@ FOREIGN KEY (Zip_Code) REFERENCES San_Diego_Housing_Data(Zip_Code)
 
 -- Creating a table for market data
 CREATE TABLE San_Diego_Markets_Data (
-	index INT, 
+	Zip_Code INT,	
 	business_status VARCHAR,
 	name VARCHAR,
 	lat VARCHAR,
-	lng VARCHAR
+	lng VARCHAR,
+	country_code VARCHAR
 );
+
+SELECT COUNT (*) AS schools_count, Zip_Code
+FROM San_Diego_School_Data
+GROUP BY Zip_Code
+
+SELECT COUNT (*) AS hospitals_count, Zip_Code
+FROM San_Diego_Hospital_Data
+GROUP BY Zip_Code
+
+SELECT COUNT (*) AS parks_count, Zip_Code
+FROM San_Diego_Parks_Data
+GROUP BY Zip_Code
+
+SELECT COUNT (*) AS markets_count, Zip_Code
+FROM San_Diego_Markets_Data
+GROUP BY Zip_Code
 
 
