@@ -96,4 +96,46 @@ CREATE TABLE San_Diego_Markets_Data (
 	country_code VARCHAR
 );
 
+SELECT COUNT (*) AS schools_count, Zip_Code
+INTO schools_count_table
+FROM San_Diego_School_Data
+GROUP BY Zip_Code
+
+SELECT COUNT (*) AS hospitals_count, Zip_Code
+INTO hospitals_count_table
+FROM San_Diego_Hospital_Data
+GROUP BY Zip_Code
+
+SELECT COUNT (*) AS parks_count, Zip_Code
+INTO parks_count_table
+FROM San_Diego_Parks_Data
+GROUP BY Zip_Code
+
+SELECT COUNT (*) AS markets_count, Zip_Code
+INTO markets_count_table
+FROM San_Diego_Markets_Data
+GROUP BY Zip_Code
+
+SELECT Zip_Code, 
+	M.markets_count,
+	P.parks_count,
+	H.hospitals_count,
+	S.schools_count
+	INTO san_diego_count_data
+FROM markets_count_table M
+FULL JOIN parks_count_table P
+USING (Zip_Code)
+FULL JOIN hospitals_count_table H 
+USING (Zip_Code)
+FULL JOIN schools_count_table S 
+USING (Zip_Code);
+
+SELECT * 
+INTO San_Diego_Full_Data
+FROM san_diego_count_data
+FULL JOIN san_diego_housing_data
+USING (Zip_Code)
+ORDER BY Zip_Code ASC;
+
+
 
