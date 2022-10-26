@@ -135,7 +135,7 @@ INTO San_Diego_Full_Data
 FROM san_diego_count_data
 FULL JOIN san_diego_housing_data
 USING (Zip_Code)
-
+ORDER BY Zip_Code ASC;
 
 
 
