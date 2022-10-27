@@ -1,4 +1,5 @@
-# final-project
+# San Diego Housing Project
+
 ## Overview
 The purpose and goal of this project is to determine where is San Diego would residents benefit the most from low-moderate income housing broken down by zipcode. We used deep-learning neural networks to analyze several different categories. The categories that we chose to focus on are accessibility to transit, food(markets), hospitals, and parks. To get this data we obtained census flat files for the population, income, and living percentages, performed web-scraping for the hospital information, utilized the San Diego trasit geoJSON data, as well as used Google's PlacesAPI for the markets and parks. We preprocessed the all data, compiled, trained, and evaluated the data to get our results.
 
