@@ -147,12 +147,17 @@ USING (Zip_Code)
 FULL JOIN transit_count_table T 
 USING (Zip_Code);
 
-SELECT * 
+SELECT sd_housing.*, 
+	sd_count.markets_count,
+	sd_count.parks_count,
+	sd_count.hospitals_count,
+	sd_count.schools_count,
+	sd_count.transit_count
 INTO San_Diego_Full_Data
-FROM san_diego_count_data
-FULL JOIN san_diego_housing_data
-USING (Zip_Code)
-ORDER BY Zip_Code ASC;
+FROM san_diego_count_data sd_count
+INNER JOIN san_diego_housing_data sd_housing
+	ON sd_count.Zip_Code = sd_housing.Zip_Code
+ORDER BY sd_housing.Zip_Code ASC;
 
 
 
