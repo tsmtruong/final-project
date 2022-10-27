@@ -96,31 +96,46 @@ CREATE TABLE San_Diego_Markets_Data (
 	country_code VARCHAR
 );
 
+-- Creating a table for transit data
+CREATE TABLE San_Diego_Transit_Data (
+	Zip_Code INT,	
+	stop_name VARCHAR,
+	lat VARCHAR,
+	lng VARCHAR,
+	county VARCHAR
+);
+
 SELECT COUNT (*) AS schools_count, Zip_Code
 INTO schools_count_table
 FROM San_Diego_School_Data
-GROUP BY Zip_Code
+GROUP BY Zip_Code;
 
 SELECT COUNT (*) AS hospitals_count, Zip_Code
 INTO hospitals_count_table
 FROM San_Diego_Hospital_Data
-GROUP BY Zip_Code
+GROUP BY Zip_Code;
 
 SELECT COUNT (*) AS parks_count, Zip_Code
 INTO parks_count_table
 FROM San_Diego_Parks_Data
-GROUP BY Zip_Code
+GROUP BY Zip_Code;
 
 SELECT COUNT (*) AS markets_count, Zip_Code
 INTO markets_count_table
 FROM San_Diego_Markets_Data
-GROUP BY Zip_Code
+GROUP BY Zip_Code;
+
+SELECT COUNT (*) AS transit_count, Zip_Code
+INTO transit_count_table
+FROM San_Diego_Transit_Data
+GROUP BY Zip_Code;
 
 SELECT Zip_Code, 
 	M.markets_count,
 	P.parks_count,
 	H.hospitals_count,
-	S.schools_count
+	S.schools_count,
+	T.transit_count
 	INTO san_diego_count_data
 FROM markets_count_table M
 FULL JOIN parks_count_table P
@@ -128,6 +143,8 @@ USING (Zip_Code)
 FULL JOIN hospitals_count_table H 
 USING (Zip_Code)
 FULL JOIN schools_count_table S 
+USING (Zip_Code)
+FULL JOIN transit_count_table T 
 USING (Zip_Code);
 
 SELECT * 
