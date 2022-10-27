@@ -1,41 +1,13 @@
 # final-project
-#### Content:
-- Selected topic 
-    * Affordable housing needs in San Diego
+## Overview
+The purpose and goal of this project is to determine where is San Diego would residents benefit the most from low-moderate income housing broken down by zipcode. We used deep-learning neural networks to analyze several different categories. The categories that we chose to focus on are accessibility to transit, food(markets), hospitals, and parks. To get this data we obtained census flat files for the population, income, and living percentages, performed web-scraping for the hospital information, utilized the San Diego trasit geoJSON data, as well as used Google's PlacesAPI for the markets and parks. We preprocessed the all data, compiled, trained, and evaluated the data to get our results.
 
-- Reason for selected topic
-  * Due to rise in inflation we are concerned with housing affordability in San Diego. For this project we are researching what areas in San Diego would benefit from affordable housing development.
-- Description of source data
-    * Census data - Income and housing distribution
-    * Census data - Income and population
-    * Built-in R- database 
-    * Gas prices
-    * Food prices
-    * Zillow API - housing data
+## Website
 
-- Questions we hope to answer 
-    * Which areas in San Diego have a need for high-density affordable housing? 
+All our information can be found on [San Diego Housing Project](https://tsmtruong.github.io/final-project/index.html)
 
 
-#### Git Hub:
-- Read me is included
-
-- Describe communication protocols
-    * Slack group messaging  
-    * Zoom meetings
-
-- One branch for each team member 
-    * 4 commits per team member
-
-#### Machine Learning model:
-- We will be looking to use our cleaned data from a SQL Database to finalize our model
-- Utilizing clustering, we will be plotting our predictions on an axis of median houshold income vs pecentage of income allocated for housing.
+## Results
 
 
-#### Provisional database:
-- Sample data that mimics the expected final database structure or schema
-   * Zip codes
-   * Population 
-   * Average incomes
-   * Average monthly housing costs
-- Draft machine learning module is connected to the provisional database 
+## Conclusion
