@@ -115,10 +115,9 @@ INTO hospitals_count_table
 FROM San_Diego_Hospital_Data
 GROUP BY Zip_Code;
 
-SELECT COUNT (*) AS parks_count, Zip_Code
+SELECT Number_of_parks AS parks_count, Zip_Code
 INTO parks_count_table
-FROM San_Diego_Parks_Data
-GROUP BY Zip_Code;
+FROM San_Diego_Parks_Data;
 
 SELECT COUNT (*) AS markets_count, Zip_Code
 INTO markets_count_table
