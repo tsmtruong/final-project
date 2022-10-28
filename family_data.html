@@ -61,28 +61,34 @@
     </nav>
     <!-- Header -->
     <div class="wrapper">
-
-        <div class="jumbotron">
-            <h1 class="display-4">Affordable Housing in San Diego</h1>
+        <div class="jumbotron" style="border:22px solid #f8f2e0;">
+            <h1 class="display-4" style="color:#283618;" >Affordable Housing in San Diego</h1>
             <hr />
-            <h2 class="text-muted">
+            <h2 class="text-muted" style="color:#606C38;">
                 Identifying Housing Needs Through Machine Learning
             </h2>
 
             <p class="summary">
-                Using a KMeans clustering machine learning model on income and 
-                housing cost data we are able to make predictions <br> to suggest 
-                which areas of San Diego would benefit from high-density
-                low-income housing. After identifying these areas we<br> investigate 
-                which areas have the greatest amenities such as close proximity to 
-                schools, hospitals, supermarkets, and parks. 
+                <h4 class="summary-title" style="color:#283618;">
+                    Purpose and Overview
+                </h4>
+                The purpose and goal of this project is to determine where is San Diego 
+                would residents benefit the most from low-moderate<br> income housing broken 
+                down by zipcode. We used a K-means model to analyze several different 
+                categories. The categories<br> that we chose to focus on are accessibility 
+                to transit, food(markets), hospitals, and parks. To get this data we 
+                obtained census flat files<br> for the population, income, and living 
+                percentages, performed web-scraping for the hospital information, 
+                utilized the San Diego transit<br> geoJSON data, as well as used Google's 
+                PlacesAPI for the markets and parks. We preprocessed the all data, 
+                compiled, trained, and<br> evaluated the data to get our results.
             </p>
 
         </div>
     </div>
 
     <!-- First section DO NOT PASTE OVER -->
-    <div class="container-fluid" id="section-1">
+    <div class="container-fluid" style="border:10px solid #f8f2e0;" id="section-1">
         <div class="row">
             <div class="col-md-4">
                 <div class="well">
@@ -134,16 +140,16 @@
     </div>
 
         <!-- Second section -->
-    <div class="container-fluid" id="section-2">
+    <div class="container-fluid" style="border:10px solid #f8f2e0;" id="section-2">
         <div class="row">
+            <div class="col-md-4" id="tableau1-desc">
+                <h2 class="text-center" style="color:#283618;">
+                    Description of visualization
+                </h2>
+            </div>
             <div class="col-md-8">
                 <h2 class="text-center">
                     <div class='tableauPlaceholder' id='viz1666844073570' style='position: relative'><noscript><a href='#'><img alt='Parks by ZipCode Sheet 8 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Af&#47;Affordablehousingrough&#47;Sheet8&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Affordablehousingrough&#47;Sheet8' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Af&#47;Affordablehousingrough&#47;Sheet8&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1666844073570');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-                </h2>
-            </div>
-            <div class="col-md-4">
-                <h2 class="text-center">
-                    Description of visualization
                 </h2>
             </div>
         </div>
