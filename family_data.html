@@ -25,12 +25,12 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link"  href="#section-2">
-                        Visual
+                        Machine Learning Model
                     </a>
                 </li>   
                 <li class="nav-item">
-                    <a class="nav-link"  href="#section-2">
-                        Visual
+                    <a class="nav-link"  href="#section-3">
+                        Tableau Visuals
                     </a>
                 </li>
                 <li class="list-inline-item dropdown">
@@ -95,17 +95,17 @@
                     <h5>Select Household Type:</h5>
                         <ul class="btn-group btn-group-toggle">
                             <li class="list-inline-item">
-                                <a role="button" class="btn btn-outline-dark" href="index.html">
+                                <a role="button" class="btn btn-outline-dark" href="index.html#section-1">
                                 All Household Data
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a role="button" class="btn btn-outline-dark active" href="family_data.html">
+                                <a role="button" class="btn btn-outline-dark active" href="family_data.html#section-1">
                                 Family Data
                                 </a>
                             </li>
                             <li class="list-inline-item">
-                                <a role="button" class="btn btn-outline-dark" href="nonfamily_data.html">
+                                <a role="button" class="btn btn-outline-dark" href="nonfamily_data.html#section-1">
                                     Non-Family Data
                                 </a>
                             </li>
@@ -126,7 +126,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-8" style="height:500px;overflow:scroll">
+            <div class="col-md-8" style="height:600px;overflow:scroll">
                 <table class="table">
                     <thead>
 
@@ -141,8 +141,345 @@
 
         <!-- Second section -->
     <div class="container-fluid" style="border:10px solid #f8f2e0;" id="section-2">
+        <div class="row" id="ML-header">
+            <div class="col-md-12">
+                <h2  style="color:#283618;">Machine Learning Model</h2>
+                <p>
+                    For our analysis we devised an unsupervised K-Means Machine Learning model
+                </p>
+            </div>
+        </div>
+        <div class="row" style="border:10px solid #f8f2e0;">
+            <div class="col-md-12">
+                <img src="static/images/final_scatter.png" class="img-fluid" alt="Responsive image">
+            </div>
+        </div>
+        <div class="row" style="border:10px solid #f8f2e0;">
+            <div class="col-md-4" style="height:385px;overflow:scroll" id="visual-desc">
+                <h3 class="text-center"  style="color:#283618;">
+                    Description
+                </h3>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Zip Code</th>
+                            <th>Median Income (dollars)</th>
+                            <th>Percent of Income allocated to Housing Cost</th>
+                            <th>Class</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>91910</td>
+                            <td>70283.0</td>
+                            <td>46.8</td>
+                            <td>4</td>
+                            </tr>
+                            <tr>
+                            <td>91911</td>
+                            <td>65074.0</td>
+                            <td>50.9</td>
+                            <td>4</td>
+                            </tr>
+                            <tr>
+                            <td>91950</td>
+                            <td>48359.0</td>
+                            <td>44.8</td>
+                            <td>4</td>
+                            </tr>
+                            <tr>
+                            <td>91977</td>
+                            <td>71396.0</td>
+                            <td>44.8</td>
+                            <td>4</td>
+                            </tr>
+                            <tr>
+                            <td>92020</td>
+                            <td>61830.0</td>
+                            <td>43.0</td>
+                            <td>4</td>
+                            </tr>
+                            <tr>
+                            <td>92021</td>
+                            <td>60510.0</td>
+                            <td>43.7</td>
+                            <td>4</td>
+                            </tr>
+                            <tr>
+                            <td>92105</td>
+                            <td>48072.0</td>
+                            <td>47.2</td>
+                            <td>4</td>
+                            </tr>
+                            <tr>
+                            <td>92113</td>
+                            <td>43958.0</td>
+                            <td>41.9</td>
+                            <td>4</td>
+                            </tr>
+                            <tr>
+                            <td>92114</td>
+                            <td>73090.0</td>
+                            <td>51.2</td>
+                            <td>4</td>
+                            </tr>
+                            <tr>
+                            <td>92115</td>
+                            <td>56137.0</td>
+                            <td>36.2</td>
+                            <td>4</td>
+                            </tr>
+                            <tr>
+                            <td>92126</td>
+                            <td>99376.0</td>
+                            <td>33.0</td>
+                            <td>4</td>
+                            </tr>
+                            <tr>
+                            <td>92154</td>
+                            <td>70846.0</td>
+                            <td>45.2</td>
+                            <td>4</td>
+                            </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-8">
+                <img src="static/images/final_scatter_4.png" class="img-fluid" alt="Responsive image">
+            </div>
+        </div>
+        <div class="row" style="border:10px solid #f8f2e0;">
+            <div class="col-md-8">
+                <img src="static/images/final_scatter_0.png" class="img-fluid" alt="Responsive image">
+            </div>
+            <div class="col-md-4" style="height:385px;overflow:scroll"  id="visual-desc">
+                <h3 class="text-center" style="color:#283618;">
+                    Description
+                </h3>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Zip Code</th>
+                            <th>Median Income (dollars)</th>
+                            <th>Percent of Income allocated to Housing Cost</th>
+                            <th>Class</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>91932</td>
+                            <td>59795.0</td>
+                            <td>39.6</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>91941</td>
+                            <td>94111.0</td>
+                            <td>39.4</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>91942</td>
+                            <td>66551.0</td>
+                            <td>34.1</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>91945</td>
+                            <td>67236.0</td>
+                            <td>44.1</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92008</td>
+                            <td>86046.0</td>
+                            <td>25.8</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92019</td>
+                            <td>85067.0</td>
+                            <td>40.1</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92025</td>
+                            <td>56866.0</td>
+                            <td>40.4</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92026</td>
+                            <td>76534.0</td>
+                            <td>36.3</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92027</td>
+                            <td>70009.0</td>
+                            <td>43.5</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92028</td>
+                            <td>80775.0</td>
+                            <td>37.1</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92040</td>
+                            <td>83692.0</td>
+                            <td>40.3</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92054</td>
+                            <td>63355.0</td>
+                            <td>31.2</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92056</td>
+                            <td>85047.0</td>
+                            <td>34.3</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92057</td>
+                            <td>81339.0</td>
+                            <td>33.8</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92058</td>
+                            <td>57213.0</td>
+                            <td>31.7</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92065</td>
+                            <td>100645.0</td>
+                            <td>34.1</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92069</td>
+                            <td>77618.0</td>
+                            <td>35.7</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92071</td>
+                            <td>85751.0</td>
+                            <td>36.2</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92078</td>
+                            <td>91564.0</td>
+                            <td>33.6</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92081</td>
+                            <td>80584.0</td>
+                            <td>30.3</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92083</td>
+                            <td>68551.0</td>
+                            <td>32.1</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92084</td>
+                            <td>77970.0</td>
+                            <td>39.8</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92102</td>
+                            <td>54862.0</td>
+                            <td>35.3</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92107</td>
+                            <td>84190.0</td>
+                            <td>35.0</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92108</td>
+                            <td>80572.0</td>
+                            <td>26.8</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92110</td>
+                            <td>77579.0</td>
+                            <td>33.7</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92111</td>
+                            <td>77249.0</td>
+                            <td>40.8</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92117</td>
+                            <td>91347.0</td>
+                            <td>34.9</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92120</td>
+                            <td>102597.0</td>
+                            <td>31.4</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92123</td>
+                            <td>90602.0</td>
+                            <td>35.6</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92124</td>
+                            <td>94485.0</td>
+                            <td>30.3</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92139</td>
+                            <td>75576.0</td>
+                            <td>52.7</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92173</td>
+                            <td>48967.0</td>
+                            <td>44.1</td>
+                            <td>0</td>
+                            </tr>
+                            <tr>
+                            <td>92672</td>
+                            <td>89029.0</td>
+                            <td>35.7</td>
+                            <td>0</td>
+                            </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Third section -->
+    <div class="container-fluid" style="border:10px solid #f8f2e0;" id="section-3">
         <div class="row">
-            <div class="col-md-4" id="tableau1-desc">
+            <div class="col-md-4" id="visual-desc">
                 <h2 class="text-center" style="color:#283618;">
                     Description of visualization
                 </h2>
@@ -150,22 +487,6 @@
             <div class="col-md-8">
                 <h2 class="text-center">
                     <div class='tableauPlaceholder' id='viz1666844073570' style='position: relative'><noscript><a href='#'><img alt='Parks by ZipCode Sheet 8 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Af&#47;Affordablehousingrough&#47;Sheet8&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Affordablehousingrough&#47;Sheet8' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Af&#47;Affordablehousingrough&#47;Sheet8&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1666844073570');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-                </h2>
-            </div>
-        </div>
-    </div>
-
-     <!-- Third section -->
-    <div class="container-fluid" id="section-2">
-        <div class="row">
-            <div class="col-md-6">
-                <h2 class="text-center">
-                    Visual
-                </h2>
-            </div>
-            <div class="col-md-6">
-                <h2 class="text-center">
-                    visual here
                 </h2>
             </div>
         </div>
