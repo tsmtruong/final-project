@@ -22,12 +22,20 @@ body {
     background-color: #f8f2e0;
 }
 
+#section-3 {
+    background-color: #f8f2e0;
+}
+
 .table {
     background-color: #CCD5AE;
     background-image: var(--bs-gradient);
 }
 
-#tableau1-desc {
+#visual-desc {
     background-color: #CCD5AE;
     background-image: var(--bs-gradient);
+}
+
+#ML-header {
+    text-align:center;
 }
