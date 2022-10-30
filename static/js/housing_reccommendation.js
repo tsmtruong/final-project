@@ -21,7 +21,7 @@ let baseMaps = {
 // Create the map object with center, zoom level and default layer.
 let map = L.map('mapid', {
     center: [32.98, -116.77],
-    zoom: 8,
+    zoom: 10,
     layers: [street]
 });
 
@@ -29,18 +29,18 @@ let map = L.map('mapid', {
 L.control.layers(baseMaps).addTo(map);
 
 // Add GeoJSON data.
-let sandiegoData = "Resources/RAW/San_Diego_Zip_Codes.geojson"
+let sandiegoData = "https://raw.githubusercontent.com/tsmtruong/final-project/main/Resources/RAW/San_Diego_Zip_Codes.geojson"
 
 // Read JSON Data
 d3.json(sandiegoData).then(function(data) {
     console.log(data);
     //Create GeoJSON layer with retrieved data
     L.geoJSON(data, {
-        color: "blue",
+        color: "black",
         weight: 1,
         fillColor: "Yellow",
         fillOpacity: 0.2,
         onEachFeature: function(feature, layer) {
-            layer.bindPopup("<h3>Neighborhood: " + feature.properties.community + "<h4>Zip Code: " + feature.properties.zip)}
+            layer.bindPopup("<h3>Neighborhood: " + feature.properties.community + "<h4> Zip Code: " + feature.properties.zip)}
     }).addTo(map)
 });
