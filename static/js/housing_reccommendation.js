@@ -30,6 +30,7 @@ L.control.layers(baseMaps).addTo(map);
 
 // Add GeoJSON data.
 let sandiegoData = "https://raw.githubusercontent.com/tsmtruong/final-project/main/Resources/RAW/San_Diego_Zip_Codes.geojson"
+let classdata = "https://raw.githubusercontent.com/tsmtruong/final-project/ATaylor/Resources/Clean/San_Diego_Housing_Classes.json"
 
 // Read JSON Data
 d3.json(sandiegoData).then(function(data) {
@@ -44,3 +45,7 @@ d3.json(sandiegoData).then(function(data) {
             layer.bindPopup("<h3>Neighborhood: " + feature.properties.community + "<h4> Zip Code: " + feature.properties.zip)}
     }).addTo(map)
 });
+
+d3.json(classdata).then(function(data2) {
+    console.log(data2)
+})
