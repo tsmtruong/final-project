@@ -22,6 +22,7 @@ L.control.layers(baseMaps).addTo(map);
 
 // Add GeoJSON data.
 let sandiegoData = "https://raw.githubusercontent.com/tsmtruong/final-project/ATaylor/Resources/RAW/San_Diego_Zip_Codes.geojson"
+let sandiegoAmenities = "https://raw.githubusercontent.com/tsmtruong/final-project/ATaylor/San_Diego_Amenities.geojson"
 
 // Function that will determine the color of a neighborhood based on the class it belongs to
 function chooseColor(houseclass) {
@@ -75,4 +76,13 @@ d3.json(sandiegoData).then(function(data) {
         onEachFeature: function(feature, layer) {
             layer.bindPopup("<h3>Neighborhood: " + feature.properties.community + "<h4>Zip Code: " + feature.properties.zip + "<h4>Housing Class: " + feature.properties.class)}
     }).addTo(map)
+});
+
+// Read Amenities layer
+d3.json(sandiegoAmenities).then(function(data2) {
+  console.log(data2);
+  //Create GeoJSON layer with retrieved data
+  L.geoJSON(data2)
+  // .bindPopup("<h2>Airport Code: " + data.properties.name + "</h2><hr><h3>Airport Name: " + data.properties.name + "</h3>")
+  .addTo(map)
 });
