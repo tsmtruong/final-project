@@ -1,248 +1,593 @@
-zipcode,rating,name,address,lat,lng
-92037,10,Bird Rock Elementary School,"5371 La Jolla Hermosa Ave., La Jolla, CA, 92037",32.8111856,-117.2630648
-92093,9,Preuss School Ucsd,"9500 Gilman Drive, La Jolla, CA, 92093",32.8784541,-117.229467
-92037,9,La Jolla Elementary School,"1111 Marine St., La Jolla, CA, 92037",32.8392364,-117.271699
-92037,9,Torrey Pines Elementary School,"8350 Cliffridge Ave., La Jolla, CA, 92037",32.8592857,-117.2429704
-92037,8,La Jolla High School,"750 Nautilus St., La Jolla, CA, 92037",32.8324085,-117.2647185
-92037,8,Muirlands Middle School,"1056 Nautilus St., La Jolla, CA, 92037",32.8327892,-117.2684383
-92011,9,Pacific Rim Elementary School,"1100 Camino De Las Ondas, Carlsbad, CA, 92011",33.110238,-117.3051656
-92011,9,Aviara Oaks Middle School,"6880 Ambrosia Lane, Carlsbad, CA, 92011",33.1039915,-117.2771642
-92010,9,Sage Creek High School,"3900 Cannon Road, Carlsbad, CA, 92010",33.1587056,-117.2853386
-92011,9,Aviara Oaks Elementary School,"6900 Ambrosia Lane, Carlsbad, CA, 92011",33.1040141,-117.2774714
-92008,9,Kelly Elementary School,"4885 Kelly Drive, Carlsbad, CA, 92008",33.1484278,-117.3114491
-92008,9,Magnolia Elementary School,"1905 Magnolia Avenue, Carlsbad, CA, 92008",33.1594886,-117.326527
-92009,9,La Costa Heights Elementary School,"3035 Levante Street, Carlsbad, CA, 92009",33.0795775,-117.2437053
-92009,9,Olivenhain Pioneer Elementary School,"8000 Calle Acervo, Carlsbad, CA, 92009",33.0616765,-117.2388134
-92009,8,Carrillo Elementary School,"2875 Poinsettia Lane, Carlsbad, CA, 92009",33.1037969,-117.3083003
-92009,8,El Camino Creek Elementary School,"7885 Paseo Aliso, Carlsbad, CA, 92009",33.0758654,-117.2598958
-92009,8,Mission Estancia Elementary School,"3330 Calle Barcelona, Carlsbad, CA, 92009",33.07405019999999,-117.2380785
-92009,8,Poinsettia Elementary School,"2445 Mica Road, Carlsbad, CA, 92009",33.1187474,-117.256467
-92008,8,Carlsbad High School,"3557 Monroe Street, Carlsbad, CA, 92008",33.1618318,-117.3302689
-92010,8,Hope Elementary School,"3010 Tamarack Avenue, Carlsbad, CA, 92010",33.1709862,-117.3054747
-92008,8,Valley Middle School,"1645 Magnolia Avenue, Carlsbad, CA, 92008",33.1584748,-117.3295081
-92009,8,La Costa Meadows Elementary School,"6889 El Fuerte Street, Carlsbad, CA, 92009",33.1035797,-117.2409723
-92010,7,Calavera Hills Elementary School,"4100 Tamarack Avenue, Carlsbad, CA, 92010",33.1721891,-117.2908492
-92008,7,Buena Vista Elementary School,"1330 Buena Vista Way, Carlsbad, CA, 92008",33.1703999,-117.342619
-92008,7,Jefferson Elementary School,"3743 Jefferson Street, Carlsbad, CA, 92008",33.1523085,-117.3403924
-92009,7,La Costa Canyon High School,"1 Maverick Way, Carlsbad, CA, 92009",33.0734532,-117.2299022
-92040,8,River Valley Charter School,"9707 1/2 Marilla Drive, Lakeside, CA, 92040",32.8498407,-116.9409991
-92040,8,Lakeview Elementary School,"9205 Lakeview Road, Lakeside, CA, 92040",32.8477019,-116.9053665
-92040,8,Riverview Elementary School,"9308 Winter Gardens Boulevard, Lakeside, CA, 92040",32.8429479,-116.9327176
-92040,7,Lakeside Farms Elementary School,"11915 Lakeside Avenue, Lakeside, CA, 92040",32.8661155,-116.9349924
-91941,10,Helix High School,"4200 Lowell St, La Mesa, CA, 91941",32.7564647,-117.0362075
-91941,8,La Mesa Arts Academy,"4200 Parks Avenue, La Mesa, CA, 91941",32.7616635,-117.0332828
-91941,8,Murdock Elementary School,"4354 Conrad Drive, La Mesa, CA, 91941",32.7542454,-116.9859264
-91944,7,Grossmont High School,"1100 Murray Dr., La Mesa, CA, 91944",32.7803383,-116.9970138
-92078,9,Double Peak K-8,"111 San Elijo Road, San Marcos, CA, 92078",33.1063804,-117.16595
-92078,8,San Elijo Middle School,"1600 Schoolhouse Way, San Marcos, CA, 92078",33.0989671,-117.1973313
-92078,8,San Elijo Elementary School,"1615 Schoolhouse Way, San Marcos, CA, 92078",33.1001903,-117.1951727
-92078,8,High Tech High North County School,"1420 San Marcos Boulevard, San Marcos, CA, 92078",33.1325317,-117.2024309
-92078,8,Discovery Elementary School,"730 Applewilde Drive, San Marcos, CA, 92078",33.1270219,-117.1856563
-92069,8,Paloma Elementary School,"660 Camino Magnifico, San Marcos, CA, 92069",33.162987,-117.184517
-92069,8,Richland Elementary,"910 Borden Road, San Marcos, CA, 92069",33.1520684,-117.1431222
-92069,7,Knob Hill Elementary School,"1825 Knob Hill Road, San Marcos, CA, 92069",33.1393322,-117.12119
-92078,7,San Marcos High School,"1615 West San Marcos Boulevard, San Marcos, CA, 92078",33.1301162,-117.2050955
-92130,10,Carmel Valley Middle School,"3800 Mykonos Lane, San Diego, CA, 92130",32.9466806,-117.229716
-92129,10,Westview High School,"13500 Camino Del Sur, San Diego, CA, 92129",32.9761376,-117.1460474
-92130,10,Canyon Crest Academy,"5951 Village Center Loop Road, San Diego, CA, 92130",32.9590757,-117.1894334
-92127,10,Del Norte High School,"16601 Nighthawk Lane, San Diego, CA, 92127",33.0151144,-117.1243022
-92123,10,Elevate Elementary,"2285 Murray Ridge Road, San Diego, CA, 92123",32.7952685,-117.1440571
-92130,10,Pacific Trails Middle,"5975 Village Center Loop Road, San Diego, CA, 92130",32.9582266,-117.1864259
-92120,10,Hearst Elementary School,"6230 Del Cerro Boulevard, San Diego, CA, 92120",32.7836995,-117.0642608
-92107,10,Ocean Beach Elementary School,"4741 Santa Monica Avenue, San Diego, CA, 92107",32.7444087,-117.2467368
-92131,10,Scripps Ranch High School,"10410 Falcon Way, San Diego, CA, 92131",32.9090412,-117.1138319
-92130,10,Carmel Creek Elementary School,"4210 Carmel Center Road, San Diego, CA, 92130",32.9514035,-117.2254464
-92117,9,Mt. Everest Academy,"4350 Mount Everest Boulevard, San Diego, CA, 92117",32.8198742,-117.1864886
-92130,9,Sage Canyon School,"5290 Harvest Run Drive, San Diego, CA, 92130",32.9260595,-117.2038092
-92128,9,Creekside Elementary School,"12362 Springhurst Drive, San Diego, CA, 92128",32.9422913,-117.0758466
-92131,9,Scripps Elementary School,"11778 Cypress Canyon Road, San Diego, CA, 92131",32.9280182,-117.0742128
-92130,9,Torrey Hills School,"10830 Calle Mar De Mariposa, San Diego, CA, 92130",32.9137191,-117.2255801
-92130,9,Solana Pacific Elementary School,"3901 Townsgate Drive, San Diego, CA, 92130",32.9507688,-117.2321168
-92111,9,Kearny Digital Media & Design School,"1954 Komet Way, San Diego, CA, 92111",32.8001273,-117.1595911
-92127,9,Stone Ranch Elementary School,"16150 4S Ranch Parkway, San Diego, CA, 92127",33.0215065,-117.1134873
-92130,9,Ocean Air School,"11444 Canter Heights Drive, San Diego, CA, 92130",32.9246064,-117.2118998
-92127,9,Del Sur Elementary School,"15665 Paseo Del Sur, San Diego, CA, 92127",33.0190197,-117.1352819
-92127,9,Willow Grove Elementary School,"14727 Via Azul, San Diego, CA, 92127",32.9924875,-117.1614325
-92130,9,Solana Ranch Elementary,"13605 Pacific Highlands Ranch Parkway, San Diego, CA, 92130",32.9653806,-117.1927029
-92126,9,Jonas Salk Elementary School,"7825 Flanders Drive, San Diego, CA, 92126",32.9059886,-117.1555651
-92130,9,Carmel Del Mar Elementary School,"12345 Carmel Park Drive, San Diego, CA, 92130",32.94221,-117.2286039
-92129,9,Adobe Bluffs Elementary School,"8707 Adobe Bluffs Drive, San Diego, CA, 92129",32.973298,-117.1410896
-92129,9,Canyon View Elementary School,"9225 Adolphia Street, San Diego, CA, 92129",32.9491925,-117.1249077
-92129,9,Deer Canyon Elementary School,"13455 Russet Leaf Lane, San Diego, CA, 92129",32.9618252,-117.1437854
-92129,9,Los Penasquitos Elementary School,"14125 Cuca Street, San Diego, CA, 92129",32.9745486,-117.0957084
-92129,9,Mesa Verde Middle School,"8375 Entreken Way, San Diego, CA, 92129",32.9623107,-117.1461889
-92129,9,Mt. Carmel High School,"9550 Carmel Mountain Road, San Diego, CA, 92129",32.9509174,-117.152022
-92129,9,Park Village Elementary School,"7930 Park Village Road, San Diego, CA, 92129",32.9408444,-117.150786
-92128,9,Rancho Bernardo High School,"13010 Paseo Lucido, San Diego, CA, 92128",32.9963957,-117.0680286
-92129,9,Rolling Hills Elementary School,"15255 Penasquitos Drive, San Diego, CA, 92129",32.9839204,-117.0918985
-92129,9,Sundance Elementary School,"8944 Twin Trails Drive, San Diego, CA, 92129",32.9607016,-117.1345179
-92130,9,Torrey Pines High School,"3710 Del Mar Heights Road, San Diego, CA, 92130",32.9562322,-117.2266166
-92110,9,Bay Park Elementary School,"2433 Denver Street, San Diego, CA, 92110",32.7881164,-117.203695
-92131,9,Dingeman Elementary School,"11840 Scripps Creek Drive, San Diego, CA, 92131",32.9296885,-117.0905445
-92122,9,Doyle Elementary School,"3950 Berino Court, San Diego, CA, 92122",32.8629839,-117.2210364
-92126,9,Ericson Elementary School,"11174 Westonhill Drive, San Diego, CA, 92126",32.9178677,-117.135685
-92119,9,Green Elementary School,"7030 Wandermere Drive, San Diego, CA, 92119",32.7973632,-117.0449975
-92111,9,Holmes Elementary School,"4902 Mount Ararat Drive, San Diego, CA, 92111",32.8109169,-117.1891304
-92131,9,Jerabek Elementary School,"10050 Avenida Magnifica, San Diego, CA, 92131",32.9108175,-117.0782615
-92124,9,Kumeyaay Elementary School,"6475 Antigua Boulevard, San Diego, CA, 92124",32.8361297,-117.0902337
-92120,9,Marvin Elementary School,"5720 Brunswick Avenue, San Diego, CA, 92120",32.7963035,-117.0684213
-92104,9,McKinley Elementary School,"3045 Felton Street, San Diego, CA, 92104",32.7368421,-117.1209602
-92126,9,Mira Mesa High School,"10510 Reagan Road, San Diego, CA, 92126",32.9140506,-117.1493543
-92131,9,Miramar Ranch Elementary School,"10770 Red Cedar Drive, San Diego, CA, 92131",32.9082634,-117.0913931
-92126,9,Sandburg Elementary School,"11230 Avenida Del Gato, San Diego, CA, 92126",32.925308,-117.14817
-92109,9,Sessions Elementary School,"2150 Beryl Street, San Diego, CA, 92109",32.8064953,-117.2420339
-92107,9,Silver Gate Elementary School,"1499 Venice Street, San Diego, CA, 92107",32.7389611,-117.2393106
-92107,9,Sunset View Elementary School,"4365 Hill Street, San Diego, CA, 92107",32.7240411,-117.2509624
-92122,9,University City High School,"6949 Genesee Avenue, San Diego, CA, 92122",32.86146,-117.209113
-92124,9,Vista Grande Elementary School,"5606 Antigua Boulevard, San Diego, CA, 92124",32.8340553,-117.1082889
-92116,8,Garfield Elementary School,"4487 Oregon Street, San Diego, CA, 92116",32.7582951,-117.1347651
-92101,8,San Diego International Studies School,"1405 Park Boulevard, San Diego, CA, 92101",32.7095276,-117.1538759
-92111,8,Kearny SCT School,"1954 Komet Way, San Diego, CA, 92111",32.8001273,-117.1595911
-92111,8,Kearny College Connections,"1954 Komet Way, San Diego, CA, 92111",32.8001273,-117.1595911
-92111,8,Kearny Eng Innov & Design,"1954 Komet Way, San Diego, CA, 92111",32.8001273,-117.1595911
-92127,8,Oak Valley Middle School,"16055 Winecreek Road, San Diego, CA, 92127",33.001092,-117.1149772
-92106,8,High Tech High International School,"2855 Farragut Road, San Diego, CA, 92106",32.7320921,-117.216528
-92120,8,Magnolia Science Academy San Diego,"6525 Estrella Ave, San Diego, CA, 92120",32.7919298,-117.0875192
-92130,8,Sycamore Ridge School,"5333 Old Carmel Valley Road, San Diego, CA, 92130",32.9544246,-117.199215
-92127,8,Monterey Ridge Elementary School,"17117 4S Ranch Parkway, San Diego, CA, 92127",33.0200272,-117.1137053
-92110,8,iHigh Virtual Academy,"3939 Conde Street, San Diego, CA, 92110",32.75087329999999,-117.1946207
-92116,8,San Diego Global Vision Academy,"3430 School Street, San Diego, CA, 92116",32.7626155,-117.1190528
-92110,8,Old Town Academy K-8 Charter,"2120 San Diego Avenue, San Diego, CA, 92110",32.7477551,-117.1913399
-92127,8,Design 39 Campus,"17050 Del Sur Ridge Road, San Diego, CA, 92127",33.0185114,-117.1295025
-92128,8,Bernardo Heights Middle School,"12990 Paseo Lucido, San Diego, CA, 92128",32.9963957,-117.0680286
-92128,8,Highland Ranch Elementary School,"14840 Waverly Downs Way, San Diego, CA, 92128",32.9859408,-117.0713602
-92128,8,Morning Creek Elementary School,"10925 Morning Creek Drive South, San Diego, CA, 92128",32.9542575,-117.0917753
-92127,8,Westwood Elementary School,"17449 Matinal Road, San Diego, CA, 92127",33.0307025,-117.0885985
-92117,8,Alcott Elementary School,"4680 Hidalgo Avenue, San Diego, CA, 92117",32.8326596,-117.2210364
-92109,8,Barnard Elementary School,"2445 Fogg Street, San Diego, CA, 92109",32.802959,-117.2244397
-92119,8,Benchley/Weinberger Elementary School,"6269 Twin Lake Drive, San Diego, CA, 92119",32.7943496,-117.0320546
-92103,8,Birney Elementary School,"4345 Campus Avenue, San Diego, CA, 92103",32.7560981,-117.1484883
-92117,8,Cadman Elementary School,"4370 Kamloop Avenue, San Diego, CA, 92117",32.8218665,-117.2161211
-92126,8,Challenger Middle School,"10810 Parkdale Avenue, San Diego, CA, 92126",32.910168,-117.155293
-92111,8,Chesterton Elementary School,"7335 Wheatley Street, San Diego, CA, 92111",32.7936216,-117.1621821
-92122,8,Curie Elementary School,"4080 Governor Drive, San Diego, CA, 92122",32.855141,-117.2021553
-92120,8,Dailard Elementary School,"6425 Cibola Road, San Diego, CA, 92120",32.805313,-117.0536409
-92110,8,Dewey Elementary School,"3251 Rosecrans Street, San Diego, CA, 92110",32.7479724,-117.2087708
-92103,8,Florence Elementary School,"3914 1st Avenue, San Diego, CA, 92103",32.7487171,-117.1069478
-92103,8,Grant K-8,"1425 Washington Place, San Diego, CA, 92103",32.7496893,-117.1610865
-92124,8,Hancock Elementary School,"3303 Taussig Street, San Diego, CA, 92124",32.8068779,-117.1079991
-92115,8,Hardy Elementary School,"5420 Montezuma Road, San Diego, CA, 92115",32.7707666,-117.076461
-92117,8,Hawthorne Elementary School,"4750 Lehrer Drive, San Diego, CA, 92117",32.8389033,-117.18929
-92120,8,Patrick Henry High School,"6702 Wandermere Drive, San Diego, CA, 92120",32.7978072,-117.0517789
-92126,8,Hickman Elementary School,"10850 Montongo Street, San Diego, CA, 92126",32.9191175,-117.1529562
-92120,8,Lewis Middle School,"5170 Greenbrier Avenue, San Diego, CA, 92120",32.7977162,-117.0795806
-92110,8,Longfellow K-8,"5055 July Street, San Diego, CA, 92110",32.7834318,-117.1887628
-92131,8,Marshall Middle School,"9700 Avenue of Nations, San Diego, CA, 92131",32.8970686,-117.0992804
-92114,8,Nye Elementary School,"981 Valencia Parkway, San Diego, CA, 92114",32.7077893,-117.0730009
-92124,8,Tierrasanta Elementary School,"5450 La Cuenta Drive, San Diego, CA, 92124",32.8297071,-117.0977491
-92154,7,Ocean View Hills School,"4919 Del Sol Boulevard, San Diego, CA, 92154",32.5735263,-117.0454362
-92106,7,High Tech High Media Arts School,"2230 Truxtun Road Third Floor, San Diego, CA, 92106",32.7361386,-117.2175226
-92116,7,Normal Heights Elementary School,"3750 Ward Road, San Diego, CA, 92116",32.761041,-117.1128481
-92123,7,School for Entrepreneurship and Technology,"3540 Aero Court, San Diego, CA, 92123",32.808736,-117.1485386
-92154,7,Vista Del Mar,"4885 Del Sol Boulevard, San Diego, CA, 92154",32.5743074,-117.0652514
-92154,7,Finney (Myrtle S.) Elementary School,"3950 Byrd Street, San Diego, CA, 92154",32.585048,-117.0493422
-92154,7,Silver Wing Elementary School,"3730 Arey Drive, San Diego, CA, 92154",32.5793409,-117.0532861
-92130,7,Ashley Falls Elementary School,"13030 Ashley Falls Drive, San Diego, CA, 92130",32.9524505,-117.2108262
-92129,7,Black Mountain Middle School,"9353 Oviedo Street, San Diego, CA, 92129",32.9701779,-117.1259693
-92128,7,Shoal Creek Elementary School,"11775 Shoal Creek Drive, San Diego, CA, 92128",32.9695706,-117.0812141
-92129,7,Sunset Hills Elementary School,"9291 Oviedo Street, San Diego, CA, 92129",32.9701779,-117.1259693
-92127,7,Turtleback Elementary School,"15855 Turtleback Road, San Diego, CA, 92127",33.0061769,-117.0862453
-92154,7,Nestor Language Academy Charter,"1455 Hollister Street, San Diego, CA, 92154",32.5691699,-117.0840422
-92123,7,Angier Elementary School,"8450 Hurlbut Street, San Diego, CA, 92123",32.8054979,-117.1459149
-92114,7,Bethune K-8,"6835 Benjamin Holt Road, San Diego, CA, 92114",32.6888572,-117.0493652
-92113,7,Chollas/Mead Elementary School,"401 North 45th Street, San Diego, CA, 92113",32.7045494,-117.0980064
-92109,7,Crown Point Jr Music Academy,"4033 Ingraham Street, San Diego, CA, 92109",32.7933521,-117.2386297
-92123,7,Cubberley Elementary School,"3201 Marathon Drive, San Diego, CA, 92123",32.799192,-117.1257341
-92124,7,De Portola Middle School,"11010 Clairemont Mesa Boulevard, San Diego, CA, 92124",32.8327231,-117.146042
-92104,7,Edison Elementary School,"4077 35th Street, San Diego, CA, 92104",32.7049313,-117.1185546
-92117,7,Field Elementary School,"4375 Bannock Avenue, San Diego, CA, 92117",32.8326089,-117.1981024
-92123,7,Fletcher Elementary School,"7666 Bobolink Way, San Diego, CA, 92123",32.7849964,-117.1590689
-92123,7,Jones Elementary School,"2751 Greyling Drive, San Diego, CA, 92123",32.7963771,-117.1423489
-92115,7,Language Academy,"4961 64th Street, San Diego, CA, 92115",32.7681859,-117.0618932
-92106,7,Loma Portal Elementary School,"3341 Browning Street, San Diego, CA, 92106",32.739891,-117.2218633
-92126,7,Mason Elementary School,"10340 San Ramon Drive, San Diego, CA, 92126",32.905472,-117.139473
-92124,7,Miller Elementary School,"4343 Shields Street, San Diego, CA, 92124",32.8171011,-117.1069059
-92103,7,Museum,"211 Maple Street, San Diego, CA, 92103",32.732433,-117.161896
-92105,7,Oak Park Elementary School,"2606 54th Street, San Diego, CA, 92105",32.7096452,-117.0790155
-92114,7,The O'Farrell Charter School,"6130 Skyline Drive, San Diego, CA, 92114",32.7030863,-117.0665595
-92109,7,Pacific Beach Elementary School,"1234 Tourmaline Street, San Diego, CA, 92109",32.8077065,-117.2549981
-92106,7,Point Loma High School,"2335 Chatsworth Boulevard, San Diego, CA, 92106",32.7385096,-117.2294415
-92115,7,Rolando Park Elementary School,"6620 Marlowe Drive, San Diego, CA, 92115",32.7474902,-117.0549282
-92105,7,Rowan Elementary School,"1755 Rowan Street, San Diego, CA, 92105",32.7246134,-117.1126511
-92139,7,San Diego Scpa School,"2425 Dusk Drive, San Diego, CA, 92139",32.6767192,-117.048489
-92124,7,Serra High School,"5156 Santo Road, San Diego, CA, 92124",32.8258111,-117.1050115
-92122,7,Spreckels Elementary School,"6033 Stadium Street, San Diego, CA, 92122",32.8501811,-117.2129743
-92122,7,Standley Middle School,"6298 Radcliffe Drive, San Diego, CA, 92122",32.8522717,-117.206313
-92117,7,Toler Elementary School,"3350 Baker Street, San Diego, CA, 92117",32.8014101,-117.210149
-92126,7,Wangenheim Middle School,"9230 Gold Coast Drive, San Diego, CA, 92126",32.9057249,-117.1359997
-92139,7,Zamorano Elementary School,"2655 Casey Street, San Diego, CA, 92139",32.6791347,-117.0364214
-91978,8,Steele Canyon High School,"12440 Campo Road, Spring Valley, CA, 91978",32.7439748,-116.9736545
-92065,9,Mountain Valley Academy,"1010 Ramona Street, Ramona, CA, 92065",33.0262478,-116.8775298
-92065,7,James Dukes Elementary School,"24908 Abalar Way, Ramona, CA, 92065",33.0078939,-116.7917014
-92065,7,Ramona High School,"1401 Hanson Lane, Ramona, CA, 92065",33.0264873,-116.8691467
-92020,9,Literacy First Charter School,"799 East Washington Avenue, El Cajon, CA, 92020",32.7869548,-116.951506
-92020,9,Grossmont Middle College High School,"8800 Grossmont College Drive, El Cajon, CA, 92020",32.8167823,-117.0062922
-92020,8,Fuerte Elementary School,"11625 Fuerte Drive, El Cajon, CA, 92020",32.7616368,-116.9466072
-92019,8,Valhalla High School,"1725 Hillsdale Road, El Cajon, CA, 92019",32.7621611,-116.9154563
-92020,8,Fletcher Hills Elementary School,"2330 Center Place, El Cajon, CA, 92020",32.8004245,-116.9963942
-92021,7,Los Coches Creek Middle School,"9669 Dunbar Lane, El Cajon, CA, 92021",32.8648049,-116.8211951
-92021,7,Blossom Valley Elementary School,"9863 Oakmont Terrace, El Cajon, CA, 92021",32.8620993,-116.8463428
-92019,7,Rancho San Diego Elementary School,"12151 Calle Albara, El Cajon, CA, 92019",32.7558816,-116.9346573
-92075,10,Solana Vista Elementary School,"780 Santa Victoria, Solana Beach, CA, 92075",33.0046023,-117.248069
-92075,8,Earl Warren Middle School,"155 Stevens Avenue, Solana Beach, CA, 92075",32.9950318,-117.2631337
-92075,8,Skyline Elementary School,"606 Lomas Santa Fe Drive, Solana Beach, CA, 92075",32.996827,-117.2609521
-92057,10,Mission Vista High School,"1306 Melrose Drive, Oceanside, CA, 92057",33.2560039,-117.2641671
-92058,9,Mary Fay Pendleton Elementary School,"110 Marine Drive, Oceanside, CA, 92058",33.3252731,-117.3034887
-92057,8,Bonsall West Elementary School,"5050 El Mirlo Drive, Oceanside, CA, 92057",33.2636268,-117.2951146
-92057,8,Ivey Ranch Elementary School,"4275 Via Rancho Road, Oceanside, CA, 92057",33.2185566,-117.3009976
-92058,8,North Terrace Elementary School,"141 Santa Rosa Drive, Oceanside, CA, 92058",33.2171702,-117.3796416
-92058,8,Santa Margarita Elementary School,"1 Carnes Road, Oceanside, CA, 92058",33.2309379,-117.3789967
-92056,8,Empresa Elementary School,"4850 Avenida Empresa, Oceanside, CA, 92056",33.2234272,-117.2887713
-92057,7,Alamosa Park Elementary School,"5130 Alamosa Park Drive, Oceanside, CA, 92057",33.2399295,-117.2816512
-92025,9,Classical Academy High School,"207 East Pennsylvania Avenue, Escondido, CA, 92025",33.1236671,-117.0823743
-92029,9,Del Lago Academy - Campus Of Applied Science,"1740 Scenic Trail Way, Escondido, CA, 92029",33.09956770000001,-117.1040922
-92027,7,Heritage K-8 Charter School,"1855 East Valley Parkway, Escondido, CA, 92027",33.1360214,-117.0542897
-92029,7,Bernardo Elementary School,"1122 Mountain Heights Drive, Escondido, CA, 92029",33.085634,-117.0918195
-92027,7,Quantum Academy,"420 Falconer Road, Escondido, CA, 92027",33.1436802,-117.0349973
-92025,7,L. R. Green Elementary School,"3115 Las Palmas Avenue, Escondido, CA, 92025",33.0848713,-117.0603531
-92027,7,Escondido Charter High School,"1868 East Valley Parkway, Escondido, CA, 92027",33.1370257,-117.0547673
-91911,10,Parkview Elementary School,"575 Juniper Street, Chula Vista, CA, 91911",32.6137299,-117.0311977
-91915,9,Arroyo Vista Charter School,"2491 School House Road, Chula Vista, CA, 91915",32.6391019,-116.9532309
-91913,9,Heritage Elementary School,"1450 Santa Lucia Road, Chula Vista, CA, 91913",32.6287309,-116.9931676
-91914,9,Salt Creek Elementary School,"1055 Hunte Parkway, Chula Vista, CA, 91914",32.6426919,-116.954742
-91910,9,Discovery Charter School,"1100 Camino Biscay, Chula Vista, CA, 91910",32.6421369,-117.0147214
-91913,9,Eastlake Elementary School,"1955 Hillside Drive, Chula Vista, CA, 91913",32.6549418,-116.9831919
-91915,9,Eastlake High School,"1120 Eastlake Parkway, Chula Vista, CA, 91915",32.6316379,-116.966015
-91914,8,Marshall (Thurgood) Elementary School,"2295 Mackenzie Creek Road, Chula Vista, CA, 91914",32.6605646,-116.966673
-91913,8,Hedenkamp (Anne And William) Elementary School,"930 East Palomar Street, Chula Vista, CA, 91913",32.6180951,-117.0132919
-91914,8,Eastlake Middle School,"900 Duncan Ranch Road, Chula Vista, CA, 91914",32.6597267,-116.9505766
-91913,8,Otay Ranch Senior High School,"1250 Olympic Parkway, Chula Vista, CA, 91913",32.6054283,-117.0372656
-91914,8,Liberty Elementary School,"2175 Proctor Valley Road, Chula Vista, CA, 91914",32.6649419,-116.978953
-91913,8,Veterans Elementary School,"1550 Magdalena Avenue, Chula Vista, CA, 91913",32.6069752,-116.9749326
-91913,8,Olympian High School,"1925 Magdalena Avenue, Chula Vista, CA, 91913",32.6168483,-116.9789619
-91913,8,Wolf Canyon Elementary School,"1950 Wolf Canyon Loop, Chula Vista, CA, 91913",32.6124917,-116.9733533
-91915,8,Camarena (Enrique S.) Elementary,"1650 Explr Falls Dr., Chula Vista, CA, 91915",32.6400541,-117.0841955
-91913,8,Muraoka (Saburo) Elementary,"1644 Santa Alexia Avenue, Chula Vista, CA, 91913",32.6150065,-116.9915469
-91910,8,Casillas (Joseph) Elementary School,"1130 East J Street, Chula Vista, CA, 91910",32.6309855,-117.0613984
-91910,8,Clear View,"455 Windrose Way, Chula Vista, CA, 91910",32.6459408,-117.0450664
-91915,8,Olympic View Elementary School,"1220 South Greensview Drive, Chula Vista, CA, 91915",32.6332829,-116.9609208
-91913,8,Bonita Vista Senior High School,"751 Otay Lakes Road, Chula Vista, CA, 91913",32.6461246,-116.9982109
-91913,7,McMillin (Corky) Elementary School,"1201 Santa Cora Avenue, Chula Vista, CA, 91913",32.6335918,-116.9850279
-91915,7,High Tech High Chula Vista School,"1945 Discovery Falls Drive, Chula Vista, CA, 91915",32.6187074,-116.9581325
-91910,7,Chula Vista Hills Elementary School,"980 Buena Vista Way, Chula Vista, CA, 91910",32.6369939,-117.0029148
-91910,7,Feaster (Mae L.) Charter School,"670 Flower Street, Chula Vista, CA, 91910",32.6418889,-117.0973814
-91913,7,Tiffany (Burton C.) Elementary School,"1691 Elmhurst Street, Chula Vista, CA, 91913",32.6445587,-116.9918135
-91910,7,Hilltop Senior High School,"555 Claire Avenue, Chula Vista, CA, 91910",32.6377505,-117.0585574
-91910,7,Rancho Del Rey Middle School,"1174 East J Street, Chula Vista, CA, 91910",32.631687,-117.059563
-92081,8,Breeze Hill Elementary School,"1111 Melrose Way, Vista, CA, 92081",33.184499,-117.260478
-92083,8,Casita Center For Science/Math/Technology,"260 Cedar Road, Vista, CA, 92083",33.18608,-117.2839142
-92084,7,"Vista Magnet Middle School Of Technology, Science, And Math","151 Civic Center Drive, Vista, CA, 92084",33.2036366,-117.2366086
-92081,7,Joli Ann Leichtag Elementary School,"653 Poinsettia Avenue, Vista, CA, 92081",33.1564048,-117.2115272
-92081,7,Rancho Buena Vista High School,"1601 Longhorn Drive, Vista, CA, 92081",33.1616553,-117.2508306
-92024,8,Flora Vista Elementary School,"1690 Wandering Road, Encinitas, CA, 92024",33.0561311,-117.2535575
-92024,8,Diegueno Middle School,"2150 Village Park Way, Encinitas, CA, 92024",33.0466276,-117.2481918
-92024,8,San Dieguito High Academy,"800 Santa Fe Drive, Encinitas, CA, 92024",33.0373396,-117.2744546
-92024,7,Ocean Knoll Elementary School,"910 Melba Road, Encinitas, CA, 92024",33.0398458,-117.2771314
-92024,7,Paul Ecke-Central Elementary School,"185 Union Street, Encinitas, CA, 92024",33.0579753,-117.2980473
-92024,7,Oak Crest Middle School,"675 Balour Drive, Encinitas, CA, 92024",33.0431765,-117.265476
-91901,7,The Heights Charter,"2710 Alpine Boulevard, Suite E, Alpine, CA, 91901",32.8353009,-116.7552158
+zipcode,circle-rating--small,scale,name,address,lat,lng
+91901,7.0,Above average,The Heights Charter,"2710 Alpine Boulevard, Suite E, Alpine, CA, 91901",32.8353009,-116.7552158
+91901,6.0,Average,Boulder Oaks Elementary School,"2320 Tavern Road, Alpine, CA, 91901",32.8186122,-116.7776816
+91901,6.0,Average,Joan Macqueen Middle School,"2001 Tavern Road, Alpine, CA, 91901",32.8198612,-116.7780268
+91901,6.0,Average,Shadow Hills Elementary School,"8770 Harbison Canyon Road, Alpine, CA, 91901",32.8325018,-116.8170948
+91901,4.0,Below average,Alpine Elementary School,"1850 Alpine Boulevard, Alpine, CA, 91901",32.8431784,-116.7980632
+91910,8.0,Above average,Casillas (Joseph) Elementary School,"1130 East J Street, Chula Vista, CA, 91910",32.6309855,-117.0613984
+91910,8.0,Above average,Clear View,"455 Windrose Way, Chula Vista, CA, 91910",32.6459408,-117.0450664
+91910,7.0,Above average,Chula Vista Hills Elementary School,"980 Buena Vista Way, Chula Vista, CA, 91910",32.6369939,-117.0029148
+91910,7.0,Above average,Feaster (Mae L.) Charter School,"670 Flower Street, Chula Vista, CA, 91910",32.6418889,-117.0973814
+91910,7.0,Above average,Hilltop Senior High School,"555 Claire Avenue, Chula Vista, CA, 91910",32.6377505,-117.0585574
+91910,7.0,Above average,Rancho Del Rey Middle School,"1174 East J Street, Chula Vista, CA, 91910",32.631687,-117.059563
+91910,5.0,Average,Vista Square Elementary School,"540 G Street, Chula Vista, CA, 91910",32.6348106,-117.0885329
+91910,4.0,Below average,Howard Gardner Community Charter,"647 E Street, Chula Vista, CA, 91910",32.641275,-117.0954508
+91910,6.0,Average,Halecrest Elementary School,"475 East J Street, Chula Vista, CA, 91910",32.6347744,-117.0451814
+91910,4.0,Below average,Chula Vista Middle School,"415 5th Avenue, Chula Vista, CA, 91910",32.6351823,-117.0845567
+91910,6.0,Average,Hilltop Drive Elementary School,"30 Murray Street, Chula Vista, CA, 91910",32.6320422,-117.0640999
+91910,4.0,Below average,Hilltop Middle School,"44 J Street, Chula Vista, CA, 91910",32.6302195,-117.063939
+91910,3.0,Below average,San Diego Virtual,"296 H Street, Suite 200, Chula Vista, CA, 91910",32.6342477,-117.076788
+91910,3.0,Below average,Sweetwater Secondary,"3252 Bonita Road, Chula Vista, CA, 91910",32.648763,-117.0533421
+91910,6.0,Average,Mueller Charter (Robert L.) School,"715 I Street, Chula Vista, CA, 91910",32.6270051,-117.0930146
+91910,6.0,Average,Rosebank Elementary School,"80 Flower Street, Chula Vista, CA, 91910",32.649716,-117.0728345
+91910,6.0,Average,Bonita Vista Middle School,"650 Otay Lakes Road, Chula Vista, CA, 91910",32.6490773,-117.0064309
+91910,9.0,Above average,Discovery Charter School,"1100 Camino Biscay, Chula Vista, CA, 91910",32.6421369,-117.0147214
+91911,6.0,Average,Kellogg (Karl H.) Elementary School,"229 East Naples Street, Chula Vista, CA, 91911",32.6213805,-117.0485951
+91911,6.0,Average,Cook (Hazel Goes) Elementary School,"875 Cuyamaca Avenue, Chula Vista, CA, 91911",32.6260718,-117.0547673
+91911,6.0,Average,Chula Vista Learning Community Charter School,"590 K Street, Chula Vista, CA, 91911",32.6210222,-117.0836095
+91911,6.0,Average,Lauderbach (J. Calvin) Elementary School,"390 Palomar Street, Chula Vista, CA, 91911",32.6066888,-117.070559
+91911,6.0,Average,Castle Park Elementary School,"25 Emerson Street, Chula Vista, CA, 91911",32.613531,-117.0568361
+91911,6.0,Average,Loma Verde Elementary School,"1450 Loma Lane, Chula Vista, CA, 91911",32.599613,-117.048828
+91911,6.0,Average,Montgomery (John J.) Elementary School,"1601 4th Avenue, Chula Vista, CA, 91911",32.6298077,-117.0799446
+91911,6.0,Average,Otay Elementary School,"1651 Albany Avenue, Chula Vista, CA, 91911",32.598041,-117.0581108
+91911,6.0,Average,Rice (Lilian J.) Elementary School,"915 4th Avenue, Chula Vista, CA, 91911",32.6504267,-117.0877497
+91911,6.0,Average,Valle Lindo Elementary School,"1515 Oleander Avenue, Chula Vista, CA, 91911",32.6278603,-117.0367298
+91911,6.0,Average,Castle Park Middle School,"160 Quintard Street, Chula Vista, CA, 91911",32.6053897,-117.0553828
+91911,5.0,Average,Hawking S.T.E.A.M. Charter,"489 E St, Chula Vista, CA, 91911",32.6430029,-117.0892454
+91911,1.0,Below average,Maac Community Charter School,"1385 Third Avenue, Chula Vista, CA, 91911",32.638425,-117.0785356
+91911,4.0,Below average,Chula Vista Senior High School,"820 4th Avenue, Chula Vista, CA, 91911",32.6208261,-117.0791458
+91911,4.0,Below average,Rohr (Fred H.) Elementary School,"1540 Malta Avenue, Chula Vista, CA, 91911",32.6016928,-117.0403606
+91911,4.0,Below average,Harborside Elementary School,"681 Naples Street, Chula Vista, CA, 91911",32.6075709,-117.0852117
+91911,5.0,Average,Castle Park Senior High School,"1395 Hilltop Drive, Chula Vista, CA, 91911",32.6414325,-117.0663694
+91911,5.0,Average,Rogers (Greg) Elementary School,"510 East Naples Street, Chula Vista, CA, 91911",32.6220023,-117.0347099
+91911,5.0,Average,Palomar Elementary School,"300 East Palomar Street, Chula Vista, CA, 91911",32.6127818,-117.0431354
+91911,5.0,Average,Leonardo Da Vinci Health Sciences Charter School,"229 East Naples, Chula Vista, CA, 91911",32.6213805,-117.0485951
+91911,10.0,Above average,Parkview Elementary School,"575 Juniper Street, Chula Vista, CA, 91911",32.6137299,-117.0311977
+91913,7.0,Above average,Tiffany (Burton C.) Elementary School,"1691 Elmhurst Street, Chula Vista, CA, 91913",32.6445587,-116.9918135
+91913,7.0,Above average,McMillin (Corky) Elementary School,"1201 Santa Cora Avenue, Chula Vista, CA, 91913",32.6335918,-116.9850279
+91913,8.0,Above average,Bonita Vista Senior High School,"751 Otay Lakes Road, Chula Vista, CA, 91913",32.6461246,-116.9982109
+91913,9.0,Above average,Eastlake Elementary School,"1955 Hillside Drive, Chula Vista, CA, 91913",32.6549418,-116.9831919
+91913,8.0,Above average,Muraoka (Saburo) Elementary,"1644 Santa Alexia Avenue, Chula Vista, CA, 91913",32.6150065,-116.9915469
+91913,9.0,Above average,Heritage Elementary School,"1450 Santa Lucia Road, Chula Vista, CA, 91913",32.6287309,-116.9931676
+91913,8.0,Above average,Hedenkamp (Anne And William) Elementary School,"930 East Palomar Street, Chula Vista, CA, 91913",32.6180951,-117.0132919
+91913,8.0,Above average,Wolf Canyon Elementary School,"1950 Wolf Canyon Loop, Chula Vista, CA, 91913",32.6124917,-116.9733533
+91913,8.0,Above average,Otay Ranch Senior High School,"1250 Olympic Parkway, Chula Vista, CA, 91913",32.6054283,-117.0372656
+91913,8.0,Above average,Olympian High School,"1925 Magdalena Avenue, Chula Vista, CA, 91913",32.6168483,-116.9789619
+91913,8.0,Above average,Veterans Elementary School,"1550 Magdalena Avenue, Chula Vista, CA, 91913",32.6069752,-116.9749326
+91914,8.0,Above average,Eastlake Middle School,"900 Duncan Ranch Road, Chula Vista, CA, 91914",32.6597267,-116.9505766
+91914,8.0,Above average,Marshall (Thurgood) Elementary School,"2295 Mackenzie Creek Road, Chula Vista, CA, 91914",32.6605646,-116.966673
+91914,9.0,Above average,Salt Creek Elementary School,"1055 Hunte Parkway, Chula Vista, CA, 91914",32.6426919,-116.954742
+91914,8.0,Above average,Liberty Elementary School,"2175 Proctor Valley Road, Chula Vista, CA, 91914",32.6649419,-116.978953
+91915,6.0,Average,High Tech Elementary Chula Vista School,"1949 Discovery Falls Drive, Chula Vista, CA, 91915",32.6187074,-116.9581325
+91915,9.0,Above average,Eastlake High School,"1120 Eastlake Parkway, Chula Vista, CA, 91915",32.6316379,-116.966015
+91915,8.0,Above average,Camarena (Enrique S.) Elementary,"1650 Explr Falls Dr., Chula Vista, CA, 91915",32.6400541,-117.0841955
+91915,8.0,Above average,Olympic View Elementary School,"1220 South Greensview Drive, Chula Vista, CA, 91915",32.6332829,-116.9609208
+91915,9.0,Above average,Arroyo Vista Charter School,"2491 School House Road, Chula Vista, CA, 91915",32.6391019,-116.9532309
+91915,4.0,Below average,High Tech Middle Chula Vista School,"1949 Discovery Falls Drive, Chula Vista, CA, 91915",32.6187074,-116.9581325
+91915,7.0,Above average,High Tech High Chula Vista School,"1945 Discovery Falls Drive, Chula Vista, CA, 91915",32.6187074,-116.9581325
+91941,8.0,Above average,La Mesa Arts Academy,"4200 Parks Avenue, La Mesa, CA, 91941",32.7616635,-117.0332828
+91941,5.0,Average,Avocado Elementary School,"3845 Avocado School Road, La Mesa, CA, 91941",32.7506666,-116.9597623
+91941,5.0,Average,Sparrow Academy,"4207 Spring Gardens Road, La Mesa, CA, 91941",32.7547339,-117.0126728
+91941,5.0,Average,Learning Choice Academy,"4215 Spring Street, La Mesa, CA, 91941",32.761759,-117.01845
+91941,6.0,Average,Lemon Avenue Elementary School,"8787 Lemon Avenue, La Mesa, CA, 91941",32.7680305,-117.0086727
+91941,6.0,Average,La Mesa Dale Elementary School,"4370 Parks Avenue, La Mesa, CA, 91941",32.7616635,-117.0332828
+91941,8.0,Above average,Murdock Elementary School,"4354 Conrad Drive, La Mesa, CA, 91941",32.7542454,-116.9859264
+91941,5.0,Average,Vista La Mesa Academy,"3900 Violet Street, La Mesa, CA, 91941",32.7482134,-117.0466296
+91941,10.0,Above average,Helix High School,"4200 Lowell St, La Mesa, CA, 91941",32.7564647,-117.0362075
+91942,6.0,Average,Murray Manor Elementary School,"8305 El Paso Street, La Mesa, CA, 91942",32.7875071,-117.0195018
+91942,6.0,Average,Northmont Elementary School,"9405 Gregory Street, La Mesa, CA, 91942",32.7909382,-116.9941354
+91942,6.0,Average,Parkway Middle School,"9009 Park Plaza Drive, La Mesa, CA, 91942",32.7912093,-117.0038184
+91942,4.0,Below average,Rolando Elementary School,"6925 Tower Street, La Mesa, CA, 91942",32.7627231,-117.0483308
+91942,6.0,Average,Maryland Avenue Elementary School,"5400 Maryland Avenue, La Mesa, CA, 91942",32.77638,-117.0387258
+91977,5.0,Average,Monte Vista High School,"3230 Sweetwater Springs Boulevard, Spring Valley, CA, 91977",32.7370307,-116.9738364
+91977,6.0,Average,"Science, Technology, Engineering, Arts, And Math Academy At La Presa","1001 Leland Street, Spring Valley, CA, 91977",32.710494,-117.0060403
+91977,6.0,Average,Sweetwater Springs Elementary School,"10129 Austin Drive, Spring Valley, CA, 91977",32.731771,-116.9771903
+91977,5.0,Average,Avondale Elementary School,"8401 Stansbury Street, Spring Valley, CA, 91977",32.7185393,-117.0178464
+91977,1.0,Below average,Quest Academy,"8805 Tyler Street, Spring Valley, CA, 91977",32.7300436,-117.0069943
+91977,5.0,Average,Rancho Elementary School,"8845 Noeline Avenue, Spring Valley, CA, 91977",32.7045952,-117.01503
+91977,4.0,Below average,Casa De Oro Elementary School,"10227 Ramona Drive, Spring Valley, CA, 91977",32.7478546,-116.9739393
+91977,4.0,Below average,La Presa Elementary School,"519 La Presa Avenue, Spring Valley, CA, 91977",32.70642460000001,-116.9921865
+91977,3.0,Below average,Mount Miguel High School,"8585 Blossom Lane, Spring Valley, CA, 91977",32.7228683,-117.0169728
+91977,3.0,Below average,Bancroft Elementary School,"8805 Tyler Street, Spring Valley, CA, 91977",32.7300436,-117.0069943
+91977,3.0,Below average,Kempton Street Elementary School,"740 Kempton Street, Spring Valley, CA, 91977",32.7001348,-117.0020829
+91977,3.0,Below average,Spring Valley Middle School,"3900 Conrad Drive, Spring Valley, CA, 91977",32.7500381,-116.9888524
+91977,5.0,Average,Highlands Elementary School,"3131 South Barcelona Street, Spring Valley, CA, 91977",32.7374074,-116.9807236
+91978,8.0,Above average,Steele Canyon High School,"12440 Campo Road, Spring Valley, CA, 91978",32.7439748,-116.9736545
+91978,3.0,Below average,Loma Elementary School,"10355 Loma Lane, Spring Valley, CA, 91978",32.7366668,-116.9693932
+92008,9.0,Above average,Magnolia Elementary School,"1905 Magnolia Avenue, Carlsbad, CA, 92008",33.1594886,-117.326527
+92008,9.0,Above average,Kelly Elementary School,"4885 Kelly Drive, Carlsbad, CA, 92008",33.1484278,-117.3114491
+92008,4.0,Below average,Audeo Charter School II,"2525 El Camino Real, Suite 156, Carlsbad, CA, 92008",33.0592979,-117.2623146
+92008,2.0,Below average,Carlsbad Village Academy,"3557 Monroe Street, Carlsbad, CA, 92008",33.1618318,-117.3302689
+92008,6.0,Average,Carlsbad Seaside Academy,"3557 Monroe Street, Carlsbad, CA, 92008",33.1618318,-117.3302689
+92008,7.0,Above average,Jefferson Elementary School,"3743 Jefferson Street, Carlsbad, CA, 92008",33.1523085,-117.3403924
+92008,7.0,Above average,Buena Vista Elementary School,"1330 Buena Vista Way, Carlsbad, CA, 92008",33.1703999,-117.342619
+92008,8.0,Above average,Carlsbad High School,"3557 Monroe Street, Carlsbad, CA, 92008",33.1618318,-117.3302689
+92008,8.0,Above average,Valley Middle School,"1645 Magnolia Avenue, Carlsbad, CA, 92008",33.1584748,-117.3295081
+92009,9.0,Above average,Olivenhain Pioneer Elementary School,"8000 Calle Acervo, Carlsbad, CA, 92009",33.0616765,-117.2388134
+92009,9.0,Above average,La Costa Heights Elementary School,"3035 Levante Street, Carlsbad, CA, 92009",33.0795775,-117.2437053
+92009,8.0,Above average,Carrillo Elementary School,"2875 Poinsettia Lane, Carlsbad, CA, 92009",33.1037969,-117.3083003
+92009,8.0,Above average,El Camino Creek Elementary School,"7885 Paseo Aliso, Carlsbad, CA, 92009",33.0758654,-117.2598958
+92009,8.0,Above average,Mission Estancia Elementary School,"3330 Calle Barcelona, Carlsbad, CA, 92009",33.07405019999999,-117.2380785
+92009,7.0,Above average,La Costa Canyon High School,"1 Maverick Way, Carlsbad, CA, 92009",33.0734532,-117.2299022
+92009,8.0,Above average,Poinsettia Elementary School,"2445 Mica Road, Carlsbad, CA, 92009",33.1187474,-117.256467
+92009,8.0,Above average,La Costa Meadows Elementary School,"6889 El Fuerte Street, Carlsbad, CA, 92009",33.1035797,-117.2409723
+92010,9.0,Above average,Sage Creek High School,"3900 Cannon Road, Carlsbad, CA, 92010",33.1587056,-117.2853386
+92010,8.0,Above average,Hope Elementary School,"3010 Tamarack Avenue, Carlsbad, CA, 92010",33.1709862,-117.3054747
+92010,6.0,Average,Calavera Hills Middle School,"4104 Tamarack Avenue, Carlsbad, CA, 92010",33.1723193,-117.2902982
+92010,7.0,Above average,Calavera Hills Elementary School,"4100 Tamarack Avenue, Carlsbad, CA, 92010",33.1721891,-117.2908492
+92011,9.0,Above average,Pacific Rim Elementary School,"1100 Camino De Las Ondas, Carlsbad, CA, 92011",33.110238,-117.3051656
+92011,9.0,Above average,Aviara Oaks Elementary School,"6900 Ambrosia Lane, Carlsbad, CA, 92011",33.1040141,-117.2774714
+92011,9.0,Above average,Aviara Oaks Middle School,"6880 Ambrosia Lane, Carlsbad, CA, 92011",33.1039915,-117.2771642
+92019,8.0,Above average,Valhalla High School,"1725 Hillsdale Road, El Cajon, CA, 92019",32.7621611,-116.9154563
+92019,7.0,Above average,Rancho San Diego Elementary School,"12151 Calle Albara, El Cajon, CA, 92019",32.7558816,-116.9346573
+92019,6.0,Average,Hillsdale Middle School,"1301 Brabham Street, El Cajon, CA, 92019",32.750046,-116.9266628
+92019,6.0,Average,Jamacha Elementary School,"2962 Jamul Drive, El Cajon, CA, 92019",32.7348027,-116.8906118
+92019,4.0,Below average,Montgomery Middle School,"1570 Melody Lane, El Cajon, CA, 92019",32.7964646,-116.9277334
+92019,6.0,Average,Vista Grande Elementary School,"1908 Vista Grande Road, El Cajon, CA, 92019",32.7756963,-116.9071623
+92019,6.0,Average,Granite Hills High School,"1719 East Madison Avenue, El Cajon, CA, 92019",32.8003032,-116.9536088
+92019,5.0,Average,Madison Avenue Elementary School,"1615 East Madison Avenue, El Cajon, CA, 92019",32.8003074,-116.9548407
+92019,4.0,Below average,Methodschools,"24620 Jefferson Avenue, Murrieta, CA 92562, El Cajon, CA, 92019",33.549661,-117.197901
+92019,4.0,Below average,Mosaica Online Academy Of Southern California,"4612 Dehesa Road, El Cajon, CA, 92019",32.7815517,-116.8508866
+92019,4.0,Below average,Inspire Charter School - South,"4612 Dehesa Road, El Cajon, CA, 92019",32.7815517,-116.8508866
+92019,4.0,Below average,Dehesa School,"4612 Dehesa Road, El Cajon, CA, 92019",32.7815517,-116.8508866
+92019,3.0,Below average,Lexington Elementary School,"1145 Redwood Avenue, El Cajon, CA, 92019",32.7913042,-116.9428478
+92019,3.0,Below average,Meridian Elementary School,"651 South 3rd Street, El Cajon, CA, 92019",32.7874281,-116.925976
+92020,9.0,Above average,Literacy First Charter School,"799 East Washington Avenue, El Cajon, CA, 92020",32.7869548,-116.951506
+92020,9.0,Above average,Grossmont Middle College High School,"8800 Grossmont College Drive, El Cajon, CA, 92020",32.8167823,-117.0062922
+92020,8.0,Above average,Fuerte Elementary School,"11625 Fuerte Drive, El Cajon, CA, 92020",32.7616368,-116.9466072
+92020,8.0,Above average,Fletcher Hills Elementary School,"2330 Center Place, El Cajon, CA, 92020",32.8004245,-116.9963942
+92020,6.0,Average,Eje Elementary Academy Charter,"851 South Johnson Avenue, El Cajon, CA, 92020",32.7855109,-116.970088
+92020,6.0,Average,Eje Middle Academy,"851 South Johnson Avenue, El Cajon, CA, 92020",32.7855109,-116.970088
+92020,3.0,Below average,Cajon Valley Middle School,"550 East Park Avenue, El Cajon, CA, 92020",32.7997589,-116.9568876
+92020,2.0,Below average,Chase Avenue Elementary School,"195 East Chase Avenue, El Cajon, CA, 92020",32.7796953,-116.9605442
+92020,3.0,Below average,Johnson Elementary School,"500 West Madison Avenue, El Cajon, CA, 92020",32.8011996,-116.9689152
+92020,3.0,Below average,Emerald Middle School,"1221 Emerald Avenue, El Cajon, CA, 92020",32.778705,-116.9679953
+92020,3.0,Below average,Idea Center,"1600 Cuyamaca Street, El Cajon, CA, 92020",32.8179066,-116.9806892
+92020,4.0,Below average,Pacific Coast Academy,"353 East Park Avenue Suite 201, El Cajon, CA, 92020",32.7976775,-116.9579794
+92020,3.0,Below average,Grossmont Secondary,"111 Fletcher Parkway, El Cajon, CA, 92020",32.8073216,-116.9630168
+92020,5.0,Average,Flying Hills Elementary School,"1251 Finch Street, El Cajon, CA, 92020",32.811995,-116.9818849
+92020,5.0,Average,Anza Elementary School,"1005 South Anza Street, El Cajon, CA, 92020",32.7812698,-116.9473892
+92021,7.0,Above average,Los Coches Creek Middle School,"9669 Dunbar Lane, El Cajon, CA, 92021",32.8648049,-116.8211951
+92021,5.0,Average,Crest Elementary School,"2000 Suncrest Boulevard, El Cajon, CA, 92021",32.8012361,-116.8711403
+92021,2.0,Below average,Diego Valley East Public Charter,"511 North 2nd Street, El Cajon, CA, 92021",32.8007028,-116.9354294
+92021,2.0,Below average,Cajon Valley Home School,"1384 Broadway, El Cajon, CA, 92021",32.8077404,-116.9581515
+92021,3.0,Below average,Greenfield Middle School,"1495 Greenfield Drive, El Cajon, CA, 92021",32.8133361,-116.9582464
+92021,3.0,Below average,W. D. Hall Elementary School,"1376 Pepper Drive, El Cajon, CA, 92021",32.8250993,-116.9592076
+92021,6.0,Average,Pepper Drive Elementary School,"1935 Marlinda Way, El Cajon, CA, 92021",32.828945,-116.954086
+92021,3.0,Below average,Magnolia Elementary School,"650 Greenfield Drive, El Cajon, CA, 92021",32.81365359999999,-116.9546033
+92021,2.0,Below average,Naranca Elementary School,"1030 Naranca Avenue, El Cajon, CA, 92021",32.803949,-116.9389589
+92021,6.0,Average,Bostonia Elementary School,"1390 Broadway, El Cajon, CA, 92021",32.8077439,-116.957535
+92021,3.0,Below average,Rios Elementary School,"14314 Rios Canyon Road, El Cajon, CA, 92021",32.8341643,-116.8611445
+92021,7.0,Above average,Blossom Valley Elementary School,"9863 Oakmont Terrace, El Cajon, CA, 92021",32.8620993,-116.8463428
+92021,3.0,Below average,El Cajon Valley High School,"1035 East Madison Avenue, El Cajon, CA, 92021",32.8000485,-116.9341529
+92024,6.0,Average,Park Dale Lane Elementary School,"2050 Park Dale Lane, Encinitas, CA, 92024",33.0462491,-117.2439872
+92024,6.0,Average,Capri Elementary School,"941 Capri Road, Encinitas, CA, 92024",33.0760217,-117.2895722
+92024,8.0,Above average,Flora Vista Elementary School,"1690 Wandering Road, Encinitas, CA, 92024",33.0561311,-117.2535575
+92024,8.0,Above average,Diegueno Middle School,"2150 Village Park Way, Encinitas, CA, 92024",33.0466276,-117.2481918
+92024,4.0,Below average,Sunset High (Continuation) School,"684 Requeza Street, Encinitas, CA, 92024",33.0438281,-117.2775545
+92024,7.0,Above average,Oak Crest Middle School,"675 Balour Drive, Encinitas, CA, 92024",33.0431765,-117.265476
+92024,7.0,Above average,Paul Ecke-Central Elementary School,"185 Union Street, Encinitas, CA, 92024",33.0579753,-117.2980473
+92024,7.0,Above average,Ocean Knoll Elementary School,"910 Melba Road, Encinitas, CA, 92024",33.0398458,-117.2771314
+92024,8.0,Above average,San Dieguito High Academy,"800 Santa Fe Drive, Encinitas, CA, 92024",33.0373396,-117.2744546
+92025,9.0,Above average,Classical Academy High School,"207 East Pennsylvania Avenue, Escondido, CA, 92025",33.1236671,-117.0823743
+92025,7.0,Above average,L. R. Green Elementary School,"3115 Las Palmas Avenue, Escondido, CA, 92025",33.0848713,-117.0603531
+92025,6.0,Average,Classical Academy,"2950 South Bear Valley Parkway, Escondido, CA, 92025",33.1057646,-117.0517458
+92025,6.0,Average,Miller Elementary School,"1975 Miller Avenue, Escondido, CA, 92025",33.0968947,-117.0798679
+92025,6.0,Average,San Pasqual High School,"3300 Bear Valley Parkway, Escondido, CA, 92025",33.076998,-117.0563304
+92025,4.0,Below average,Felicita Elementary School,"737 West 13th Avenue, Escondido, CA, 92025",33.1053598,-117.0834305
+92025,4.0,Below average,Mission Middle School,"939 East Mission Avenue, Escondido, CA, 92025",33.1299581,-117.0855077
+92025,3.0,Below average,Central Elementary School,"122 West 4th Avenue, Escondido, CA, 92025",33.1188418,-117.0803276
+92025,3.0,Below average,Epiphany Prep Charter,"725 North Escondido Boulevard, Escondido, CA, 92025",33.1279387,-117.0891764
+92025,5.0,Average,Bear Valley Middle School,"3003 Bear Valley Parkway, Escondido, CA, 92025",33.0841874,-117.0576177
+92025,4.0,Below average,Juniper Elementary School,"1809 South Juniper Street, Escondido, CA, 92025",33.1054504,-117.06895
+92025,1.0,Below average,Audeo Charter School III,"200 East Via Rancho Parkway, Escondido, CA, 92025",33.0693162,-117.0694309
+92026,3.0,Below average,Rock Springs Elementary School,"1155 Deodar Road, Escondido, CA, 92026",33.1377745,-117.1066661
+92026,3.0,Below average,Lincoln Elementary School,"1029 North Broadway, Escondido, CA, 92026",33.1344813,-117.0877285
+92026,6.0,Average,Community Montessori Charter,"1441 Montiel Road, Escondido, CA, 92026",33.1294263,-117.1120897
+92026,4.0,Below average,Rincon Middle School,"925 Lehner Avenue, Escondido, CA, 92026",33.1575899,-117.0829422
+92026,5.0,Average,Reidy Creek Elementary School,"2869 North Broadway, Escondido, CA, 92026",33.1319693,-117.086761
+92026,5.0,Average,North Broadway Elementary School,"2301 North Broadway, Escondido, CA, 92026",33.1247967,-117.0830655
+92026,5.0,Average,Escondido High School,"1535 North Broadway, Escondido, CA, 92026",33.150191,-117.0936505
+92026,4.0,Below average,Dehesa Charter School,"1441 Montiel Road, Suite 143, Escondido, CA, 92026",33.1294971,-117.1122031
+92026,4.0,Below average,Farr Avenue Elementary School,"933 Farr Avenue, Escondido, CA, 92026",33.1392467,-117.076749
+92027,5.0,Average,Rose Elementary School,"906 North Rose Street, Escondido, CA, 92027",33.1307868,-117.0574406
+92027,6.0,Average,Glen View Elementary School,"2201 East Mission Avenue, Escondido, CA, 92027",33.12993850000001,-117.085499
+92027,6.0,Average,San Pasqual Union Elementary School,"15305 Rockwood Road, Escondido, CA, 92027",33.1112753,-117.0110562
+92027,5.0,Average,Conway Elementary School,"1325 Conway Drive, Escondido, CA, 92027",33.1460874,-117.0742481
+92027,7.0,Above average,Escondido Charter High School,"1868 East Valley Parkway, Escondido, CA, 92027",33.1370257,-117.0547673
+92027,4.0,Below average,Hidden Valley Middle School,"2700 Reed Road, Escondido, CA, 92027",33.1349525,-117.0297568
+92027,4.0,Below average,Oak Hill Elementary School,"1820 Oak Hill Drive, Escondido, CA, 92027",33.1308545,-117.0492273
+92027,4.0,Below average,Orange Glen Elementary School,"2861 Valley Parkway, Escondido, CA, 92027",33.1281157,-117.0711691
+92027,4.0,Below average,Pioneer Elementary School,"980 North Ash Street, Escondido, CA, 92027",33.1272031,-117.0655242
+92027,4.0,Below average,Orange Glen High School,"2200 Glenridge Road, Escondido, CA, 92027",33.1294273,-117.0380055
+92027,7.0,Above average,Quantum Academy,"420 Falconer Road, Escondido, CA, 92027",33.1436802,-117.0349973
+92027,7.0,Above average,Heritage K-8 Charter School,"1855 East Valley Parkway, Escondido, CA, 92027",33.1360214,-117.0542897
+92028,4.0,Below average,James E. Potter Intermediate School,"1743 Reche Road, Fallbrook, CA, 92028",33.3677434,-117.2219092
+92028,4.0,Below average,Fallbrook Street Elementary School,"405 West Fallbrook Street, Fallbrook, CA, 92028",33.377214,-117.2548206
+92028,5.0,Average,Fallbrook High School,"2400 South Stage Coach Lane, Fallbrook, CA, 92028",33.3764473,-117.2277737
+92028,6.0,Average,William H. Frazier Elementary School,"1835 Gum Tree Lane, Fallbrook, CA, 92028",33.3863403,-117.2242061
+92028,5.0,Average,Oasis High (Alternative) School,"2208 South Stage Coach Lane, Fallbrook, CA, 92028",33.365791,-117.227667
+92028,6.0,Average,La Paloma Elementary School,"300 Heald Lane, Fallbrook, CA, 92028",33.3793983,-117.2350469
+92028,5.0,Average,Maie Ellis Elementary,"400 West Elder Street, Fallbrook, CA, 92028",33.3794417,-117.2543154
+92028,2.0,Below average,Ivy High (Continuation) School,"1056 Winter Haven Road, Fallbrook, CA, 92028",33.3477658,-117.2364249
+92028,4.0,Below average,Live Oak Elementary School,"1978 Reche Road, Fallbrook, CA, 92028",33.3707274,-117.2164886
+92029,9.0,Above average,Del Lago Academy - Campus Of Applied Science,"1740 Scenic Trail Way, Escondido, CA, 92029",33.09956770000001,-117.1040922
+92029,7.0,Above average,Bernardo Elementary School,"1122 Mountain Heights Drive, Escondido, CA, 92029",33.085634,-117.0918195
+92029,5.0,Average,Del Dios Middle School,"1400 West 9th Avenue, Escondido, CA, 92029",33.1105611,-117.1011045
+92040,4.0,Below average,Lemon Crest Elementary School,"12463 Lemon Crest Drive, Lakeside, CA, 92040",32.8515895,-116.9207202
+92040,4.0,Below average,Tierra Del Sol Middle School,"9611 Petite Lane, Lakeside, CA, 92040",32.8543526,-116.9116942
+92040,2.0,Below average,Barona Indian Charter School,"1095 Barona Road, Lakeside, CA, 92040",32.942251,-116.8559716
+92040,8.0,Above average,Lakeview Elementary School,"9205 Lakeview Road, Lakeside, CA, 92040",32.8477019,-116.9053665
+92040,8.0,Above average,River Valley Charter School,"9707 1/2 Marilla Drive, Lakeside, CA, 92040",32.8498407,-116.9409991
+92040,7.0,Above average,Lakeside Farms Elementary School,"11915 Lakeside Avenue, Lakeside, CA, 92040",32.8661155,-116.9349924
+92040,6.0,Average,El Capitan High School,"10410 Ashwood Street, Lakeside, CA, 92040",32.8644208,-116.9181555
+92040,5.0,Average,Lakeside Middle School,"11833 Woodside Avenue, Lakeside, CA, 92040",32.8546825,-116.9379134
+92040,5.0,Average,Lindo Park Elementary School,"12824 Lakeshore Drive, Lakeside, CA, 92040",32.859505,-116.9146518
+92040,8.0,Above average,Riverview Elementary School,"9308 Winter Gardens Boulevard, Lakeside, CA, 92040",32.8429479,-116.9327176
+92054,5.0,Average,Oceanside High School,"1 Pirates Cove Way, Oceanside, CA, 92054",33.19887569999999,-117.3729399
+92054,3.0,Below average,San Luis Rey Elementary School,"3535 Hacienda Drive, Oceanside, CA, 92054",33.2198034,-117.3355947
+92054,3.0,Below average,Laurel Elementary School,"1410 Laurel Street, Oceanside, CA, 92054",33.2073844,-117.3731694
+92054,4.0,Below average,South Oceanside Elementary School,"1806 South Horne Street, Oceanside, CA, 92054",33.1771124,-117.3568734
+92054,5.0,Average,Lincoln Middle School,"2000 California Street, Oceanside, CA, 92054",33.1867907,-117.3541598
+92054,5.0,Average,Palmquist Elementary School,"1999 California Street, Oceanside, CA, 92054",33.1875985,-117.3509973
+92056,1.0,Below average,SIATech School,"2611 Temple Heights Drive, Suite A, Oceanside, CA, 92056",33.2197556,-117.2708865
+92056,4.0,Below average,Christa Mcauliffe Elementary School,"3701 Kelton Drive, Oceanside, CA, 92056",33.1994478,-117.3070359
+92056,5.0,Average,T.H.E Leadership Academy,"1550 Temple Heights Drive, Oceanside, CA, 92056",33.2187067,-117.2701376
+92056,5.0,Average,Madison Middle School,"4930 Lake Boulevard, Oceanside, CA, 92056",33.1746541,-117.2585638
+92056,6.0,Average,Lake Elementary School,"4950 Lake Boulevard, Oceanside, CA, 92056",33.1743998,-117.2565429
+92056,2.0,Below average,Pacific View Charter School,"3670 Ocean Ranch Boulevard, Oceanside, CA, 92056",33.2113498,-117.3134413
+92056,6.0,Average,Coastal Academy Charter,"4096 Calle Platino, Oceanside, CA, 92056",33.2073874,-117.2927779
+92056,2.0,Below average,San Diego Neighborhood Homeschools,"3548 Seagate Way, Suite 140, Oceanside, CA, 92056",33.2080024,-117.3030377
+92056,8.0,Above average,Empresa Elementary School,"4850 Avenida Empresa, Oceanside, CA, 92056",33.2234272,-117.2887713
+92057,6.0,Average,Mission Meadows Elementary School,"5657 Spur Avenue, Oceanside, CA, 92057",33.2487406,-117.2524035
+92057,10.0,Above average,Mission Vista High School,"1306 Melrose Drive, Oceanside, CA, 92057",33.2560039,-117.2641671
+92057,3.0,Below average,Roosevelt Middle School,"850 Sagewood Drive, Oceanside, CA, 92057",33.235547,-117.280726
+92057,8.0,Above average,Bonsall West Elementary School,"5050 El Mirlo Drive, Oceanside, CA, 92057",33.2636268,-117.2951146
+92057,4.0,Below average,Libby Elementary School,"423 West Redondo Drive, Oceanside, CA, 92057",33.2517607,-117.305338
+92057,4.0,Below average,Del Rio Elementary School,"5200 North River Road, Oceanside, CA, 92057",33.2552923,-117.2861999
+92057,8.0,Above average,Ivey Ranch Elementary School,"4275 Via Rancho Road, Oceanside, CA, 92057",33.2185566,-117.3009976
+92057,4.0,Below average,Nichols Elementary School,"4250 Old Grove Road, Oceanside, CA, 92057",33.2381494,-117.3154558
+92057,7.0,Above average,Alamosa Park Elementary School,"5130 Alamosa Park Drive, Oceanside, CA, 92057",33.2399295,-117.2816512
+92057,5.0,Average,Reynolds Elementary School,"4575 Douglas Drive, Oceanside, CA, 92057",33.256478,-117.3126837
+92057,6.0,Average,Scholarship Prep - Oceanside,"4070 Mission Avenue, Oceanside, CA, 92057",33.2320764,-117.3176197
+92057,6.0,Average,El Camino High School,"400 Rancho Del Oro Drive, Oceanside, CA, 92057",33.2179065,-117.3164936
+92057,6.0,Average,Martin Luther King Jr. Middle School,"1290 Ivey Ranch Road, Oceanside, CA, 92057",33.2151122,-117.3097221
+92057,4.0,Below average,Cesar Chavez Middle School,"202 Oleander Drive, Oceanside, CA, 92057",33.242004,-117.29911
+92058,4.0,Below average,Louise Foussat Elementary School,"3800 Pala Road, Oceanside, CA, 92058",33.2388482,-117.3294655
+92058,6.0,Average,Stuart Mesa Elementary School,"100 Yamanako Way, Oceanside, CA, 92058",33.2540587,-117.4080981
+92058,8.0,Above average,Santa Margarita Elementary School,"1 Carnes Road, Oceanside, CA, 92058",33.2309379,-117.3789967
+92058,8.0,Above average,North Terrace Elementary School,"141 Santa Rosa Drive, Oceanside, CA, 92058",33.2171702,-117.3796416
+92058,3.0,Below average,Mission Elementary School,"2100 Mission Avenue, Oceanside, CA, 92058",33.1945759,-117.3819135
+92058,9.0,Above average,Mary Fay Pendleton Elementary School,"110 Marine Drive, Oceanside, CA, 92058",33.3252731,-117.3034887
+92058,4.0,Below average,Jefferson Middle School,"823 Acacia Avenue, Oceanside, CA, 92058",33.2098676,-117.3626114
+92065,7.0,Above average,Ramona High School,"1401 Hanson Lane, Ramona, CA, 92065",33.0264873,-116.8691467
+92065,7.0,Above average,James Dukes Elementary School,"24908 Abalar Way, Ramona, CA, 92065",33.0078939,-116.7917014
+92065,9.0,Above average,Mountain Valley Academy,"1010 Ramona Street, Ramona, CA, 92065",33.0262478,-116.8775298
+92065,2.0,Below average,Montecito High (Continuation) School,"720 9th Street, Ramona, CA, 92065",33.0393217,-116.8637162
+92065,2.0,Below average,Future Bound Independent Study Secondary School,"720 9th Street, Ramona, CA, 92065",33.0393217,-116.8637162
+92065,3.0,Below average,Ramona Elementary School,"415 8th Street, Ramona, CA, 92065",33.0423129,-116.8651979
+92065,4.0,Below average,Hanson Elementary School,"2520 Boundary Avenue, Ramona, CA, 92065",33.0185816,-116.885181
+92065,5.0,Average,Olive Peirce Middle School,"1521 Hanson Lane, Ramona, CA, 92065",33.0266324,-116.8712029
+92065,5.0,Average,Barnett Elementary School,"23925 Couna Way, Ramona, CA, 92065",33.0181346,-116.811844
+92065,4.0,Below average,Mt. Woodson Elementary School,"17427 Archie Moore Road, Ramona, CA, 92065",33.0326524,-116.9565656
+92065,6.0,Average,Ramona Community Montessori,"1010 Ramona Street, Ramona, CA, 92065",33.0262478,-116.8775298
+92069,2.0,Below average,Twin Oaks High School,"158 Cassou Road, San Marcos, CA, 92069",33.180276,-117.158879
+92069,2.0,Below average,Foothills High School,"158 Cassou Road, San Marcos, CA, 92069",33.180276,-117.158879
+92069,4.0,Below average,Community Collaborative Charter,"100 East San Marcos Boulevard, San Marcos, CA, 92069",33.1415217,-117.1624578
+92069,5.0,Average,San Marcos Middle School,"650 West Mission Road, San Marcos, CA, 92069",33.1317065,-117.1247905
+92069,6.0,Average,Woodland Park Middle School,"1270 Rock Springs Road, San Marcos, CA, 92069",33.1480221,-117.1313009
+92069,6.0,Average,Twin Oaks Elementary School,"1 Cassou Road, San Marcos, CA, 92069",33.1786271,-117.1568747
+92069,6.0,Average,Mission Hills High School,"1 Mission Hills Court, San Marcos, CA, 92069",33.145325,-117.1446402
+92069,5.0,Average,San Marcos Elementary School,"1 Tiger Way, San Marcos, CA, 92069",33.1412485,-117.1682934
+92069,7.0,Above average,Knob Hill Elementary School,"1825 Knob Hill Road, San Marcos, CA, 92069",33.1393322,-117.12119
+92069,8.0,Above average,Richland Elementary,"910 Borden Road, San Marcos, CA, 92069",33.1520684,-117.1431222
+92069,8.0,Above average,Paloma Elementary School,"660 Camino Magnifico, San Marcos, CA, 92069",33.162987,-117.184517
+92075,8.0,Above average,Skyline Elementary School,"606 Lomas Santa Fe Drive, Solana Beach, CA, 92075",32.996827,-117.2609521
+92075,8.0,Above average,Earl Warren Middle School,"155 Stevens Avenue, Solana Beach, CA, 92075",32.9950318,-117.2631337
+92075,10.0,Above average,Solana Vista Elementary School,"780 Santa Victoria, Solana Beach, CA, 92075",33.0046023,-117.248069
+92078,6.0,Average,High Tech Middle North County School,"1460 West San Marcos Boulevard, San Marcos, CA, 92078",33.1330494,-117.2024769
+92078,7.0,Above average,San Marcos High School,"1615 West San Marcos Boulevard, San Marcos, CA, 92078",33.1301162,-117.2050955
+92078,9.0,Above average,Double Peak K-8,"111 San Elijo Road, San Marcos, CA, 92078",33.1063804,-117.16595
+92078,8.0,Above average,San Elijo Middle School,"1600 Schoolhouse Way, San Marcos, CA, 92078",33.0989671,-117.1973313
+92078,3.0,Below average,La Mirada Academy,"3697 La Mirada Drive, San Marcos, CA, 92078",33.1431218,-117.2034646
+92078,8.0,Above average,High Tech High North County School,"1420 San Marcos Boulevard, San Marcos, CA, 92078",33.1325317,-117.2024309
+92078,8.0,Above average,Discovery Elementary School,"730 Applewilde Drive, San Marcos, CA, 92078",33.1270219,-117.1856563
+92078,5.0,Average,Community Collaborative Virtual - Keppel Partnership Academy,"1782 La Costa Meadows Drive, San Marcos, CA, 92078",33.10422520000001,-117.2188281
+92078,5.0,Average,High Tech Elementary North County,"1480 West San Marcos Boulevard, San Marcos, CA, 92078",33.1339839,-117.2017877
+92078,6.0,Average,Community Collaborative Virtual - Sage Oak Charter,"1782 La Costa Meadows Drive, Suite 102, San Marcos, CA, 92078",33.1042592,-117.2188835
+92078,8.0,Above average,San Elijo Elementary School,"1615 Schoolhouse Way, San Marcos, CA, 92078",33.1001903,-117.1951727
+92081,7.0,Above average,Joli Ann Leichtag Elementary School,"653 Poinsettia Avenue, Vista, CA, 92081",33.1564048,-117.2115272
+92081,7.0,Above average,Rancho Buena Vista High School,"1601 Longhorn Drive, Vista, CA, 92081",33.1616553,-117.2508306
+92081,8.0,Above average,Breeze Hill Elementary School,"1111 Melrose Way, Vista, CA, 92081",33.184499,-117.260478
+92083,8.0,Above average,Casita Center For Science/Math/Technology,"260 Cedar Road, Vista, CA, 92083",33.18608,-117.2839142
+92083,3.0,Below average,Bobier Elementary School,"220 West Bobier Drive, Vista, CA, 92083",33.2212162,-117.2520255
+92083,3.0,Below average,Vista Academy Of Visual And Performing Arts,"600 North Santa Fe Avenue, Vista, CA, 92083",33.2099439,-117.2467138
+92083,6.0,Average,Guajome Learning Center,"2000 North Santa Fe Avenue, Vista, CA, 92083",33.2233028,-117.2462401
+92083,6.0,Average,Guajome Park Academy Charter,"2000 North Santa Fe Avenue, Vista, CA, 92083",33.2233028,-117.2462401
+92083,6.0,Average,Vista Innovation and Design Academy,"740 Olive Avenue, Vista, CA, 92083",33.2031616,-117.2592441
+92083,5.0,Average,Grapevine Elementary School,"630 Grapevine Road, Vista, CA, 92083",33.1998286,-117.2745924
+92083,4.0,Below average,Hannalei Elementary School,"120 Hannalei Drive, Vista, CA, 92083",33.1784262,-117.2174073
+92083,3.0,Below average,Maryland Elementary School,"700 North Avenue, Vista, CA, 92083",33.214821,-117.2606306
+92083,4.0,Below average,North County Trade Tech High School,"1126 North Melrose Drive, Suite 301, Vista, CA, 92083",33.2126765,-117.2540627
+92083,4.0,Below average,Bella Mente Montessori Academy,"1737 West Vista Way, Vista, CA, 92083",33.1896284,-117.2784041
+92083,2.0,Below average,Major General Raymond Murray High School,"215 North Melrose Drive, Vista, CA, 92083",33.1958047,-117.2545208
+92084,4.0,Below average,Monte Vista Elementary School,"1720 Monte Vista Drive, Vista, CA, 92084",33.1910903,-117.2126297
+92084,3.0,Below average,Rancho Minerva Middle School,"2245 Foothill Drive, Vista, CA, 92084",33.206982,-117.208035
+92084,3.0,Below average,Vista Visions Academy,"305 East Bobier Drive, Vista, CA, 92084",33.2207079,-117.2414546
+92084,7.0,Above average,"Vista Magnet Middle School Of Technology, Science, And Math","151 Civic Center Drive, Vista, CA, 92084",33.2036366,-117.2366086
+92084,4.0,Below average,Beaumont Elementary School,"550 Beaumont Drive, Vista, CA, 92084",33.1981474,-117.2238845
+92084,4.0,Below average,Vista High School,"1 Panther Way, Vista, CA, 92084",33.223897,-117.2413627
+92084,4.0,Below average,Foothill Oak Elementary School,"1370 Oak Drive, Vista, CA, 92084",33.2174759,-117.2228739
+92084,1.0,Below average,Alta Vista High (Continuation) School,"1575 Bonair Road, Vista, CA, 92084",33.2226771,-117.2192449
+92101,4.0,Below average,San Diego Science and Technology School,"1405 Park Boulevard, San Diego, CA, 92101",32.7095276,-117.1538759
+92101,2.0,Below average,King-Chavez Community High School,"201 A Street, San Diego, CA, 92101",32.7188606,-117.1587509
+92101,5.0,Average,e3 Civic High School,"395 11th Avenue, San Diego, CA, 92101",32.7091498,-117.1546479
+92101,3.0,Below average,Urban Discovery Academy Charter,"840 14th Street, San Diego, CA, 92101",32.7142159,-117.1523484
+92101,8.0,Above average,San Diego International Studies School,"1405 Park Boulevard, San Diego, CA, 92101",32.7095276,-117.1538759
+92101,5.0,Average,Washington Elementary School,"1789 State Street, San Diego, CA, 92101",32.7134773,-117.1663626
+92101,6.0,Average,East Village High,"1405 Park Boulevard, San Diego, CA, 92101",32.7095276,-117.1538759
+92101,3.0,Below average,San Diego Business,"1405 Park Boulevard, San Diego, CA, 92101",32.7095276,-117.1538759
+92101,6.0,Average,KIPP Adelante Preparatory Academy,"426 Euclid Avenue, San Diego, CA, 92101",32.7086254,-117.0888357
+92102,5.0,Average,Webster Elementary School,"4801 Elm Street, San Diego, CA, 92102",32.7240139,-117.0928882
+92102,2.0,Below average,Millennial Tech Middle School,"1110 Carolina Lane, San Diego, CA, 92102",32.7157648,-117.0881864
+92102,6.0,Average,Einstein Academy,"3035 Ash Street, San Diego, CA, 92102",32.7195904,-117.1305196
+92102,5.0,Average,America's Finest Charter,"730 45th Street, San Diego, CA, 92102",32.6980944,-117.098232
+92102,5.0,Average,Gompers Preparatory Academy,"1005 47th Street, San Diego, CA, 92102",32.7042169,-117.093725
+92102,4.0,Below average,Golden Hill K-8,"1240 33rd Street, San Diego, CA, 92102",32.7060469,-117.1228214
+92102,5.0,Average,Albert Einstein Academy Charter Middle,"458 26th Street, San Diego, CA, 92102",32.7102657,-117.1384702
+92102,3.0,Below average,Health Sciences Middle,"3910 University Avenue, Suite 100, San Diego, CA, 92102",32.750001,-117.1099606
+92102,4.0,Below average,King-Chavez Athletics Academy,"415 31st Street, San Diego, CA, 92102",32.709512,-117.1261076
+92102,2.0,Below average,King-Chavez Arts Academy,"415 31st Street, San Diego, CA, 92102",32.709512,-117.1261076
+92102,3.0,Below average,King-Chavez Preparatory Academy,"500 30th Street, San Diego, CA, 92102",32.7109041,-117.1304737
+92102,3.0,Below average,Kimbrough Elementary School,"321 Hoitt Street, San Diego, CA, 92102",32.7098613,-117.1324958
+92102,5.0,Average,Sherman Elementary School,"301 22nd Street, San Diego, CA, 92102",32.7088378,-117.1430197
+92102,4.0,Below average,Mcgill School Of Success,"3025 Fir Street, San Diego, CA, 92102",32.7251423,-117.1296464
+92102,3.0,Below average,Holly Drive Leadership Academy,"4801 Elm Street, San Diego, CA, 92102",32.7240139,-117.0928882
+92103,8.0,Above average,Birney Elementary School,"4345 Campus Avenue, San Diego, CA, 92103",32.7560981,-117.1484883
+92103,8.0,Above average,Florence Elementary School,"3914 1st Avenue, San Diego, CA, 92103",32.7487171,-117.1069478
+92103,8.0,Above average,Grant K-8,"1425 Washington Place, San Diego, CA, 92103",32.7496893,-117.1610865
+92103,7.0,Above average,Museum,"211 Maple Street, San Diego, CA, 92103",32.732433,-117.161896
+92103,5.0,Average,Roosevelt International Middle School,"3366 Park Boulevard, San Diego, CA, 92103",32.7046205,-117.1584227
+92104,9.0,Above average,McKinley Elementary School,"3045 Felton Street, San Diego, CA, 92104",32.7368421,-117.1209602
+92104,6.0,Average,Jefferson Elementary School,"3770 Utah Street, San Diego, CA, 92104",32.74784200000001,-117.1331392
+92104,7.0,Above average,Edison Elementary School,"4077 35th Street, San Diego, CA, 92104",32.7049313,-117.1185546
+92105,4.0,Below average,Wilson Middle School,"3838 Orange Avenue, San Diego, CA, 92105",32.7539114,-117.1111245
+92105,4.0,Below average,Rosa Parks Elementary School,"4510 Landis Street, San Diego, CA, 92105",32.7465272,-117.0969907
+92105,4.0,Below average,Carver Elementary School,"3251 Juanita Street, San Diego, CA, 92105",32.7399552,-117.0697775
+92105,4.0,Below average,Joyner Elementary School,"4271 Myrtle Avenue, San Diego, CA, 92105",32.7416829,-117.1028052
+92105,3.0,Below average,Clark Middle School,"4388 Thorn Street, San Diego, CA, 92105",32.7406957,-117.0996796
+92105,4.0,Below average,Cherokee Point Elementary School,"3735 38th Street, San Diego, CA, 92105",32.7474314,-117.1110785
+92105,4.0,Below average,City Heights Preparatory Charter,"3770 Altadena Avenue, San Diego, CA, 92105",32.7464425,-117.085753
+92105,5.0,Average,Euclid Elementary School,"4166 Euclid Avenue, San Diego, CA, 92105",32.7526533,-117.092509
+92105,3.0,Below average,Central Elementary School,"4063 Polk Avenue, San Diego, CA, 92105",32.7503681,-117.108022
+92105,7.0,Above average,Rowan Elementary School,"1755 Rowan Street, San Diego, CA, 92105",32.7246134,-117.1126511
+92105,7.0,Above average,Oak Park Elementary School,"2606 54th Street, San Diego, CA, 92105",32.7096452,-117.0790155
+92105,6.0,Average,Health Sciences High School,"3910 University Avenue, Suite 100, San Diego, CA, 92105",32.750001,-117.1099606
+92105,6.0,Average,Marshall Elementary School,"3550 Altadena Avenue, San Diego, CA, 92105",32.7435175,-117.0872918
+92105,6.0,Average,Hamilton Elementary School,"2807 Fairmount Avenue, San Diego, CA, 92105",32.7564526,-117.1008201
+92105,3.0,Below average,Fay Elementary School,"4080 52nd Street, San Diego, CA, 92105",32.7511017,-117.0839132
+92106,5.0,Average,High Tech Elementary,"2150 Cushing Road, San Diego, CA, 92106",32.7343081,-117.214861
+92106,6.0,Average,Explorer Elementary School,"2230 Truxtun Road 1st Floor, San Diego, CA, 92106",32.7361386,-117.2175226
+92106,6.0,Average,High Tech Middle School,"2359 Truxtun Road, San Diego, CA, 92106",32.7361386,-117.2175226
+92106,6.0,Average,High Tech Middle Media Arts School,"2230 Truxtun Road, 2nd Floor, San Diego, CA, 92106",32.7361386,-117.2175226
+92106,4.0,Below average,Cabrillo Elementary School,"3120 Talbot Street, San Diego, CA, 92106",32.7216772,-117.2334392
+92106,6.0,Average,Dana,"1775 Chatsworth Boulevard, San Diego, CA, 92106",32.7307047,-117.2431178
+92106,6.0,Average,High Tech High,"2861 Womble Road, San Diego, CA, 92106",32.7356015,-117.2172269
+92106,8.0,Above average,High Tech High International School,"2855 Farragut Road, San Diego, CA, 92106",32.7320921,-117.216528
+92106,7.0,Above average,High Tech High Media Arts School,"2230 Truxtun Road Third Floor, San Diego, CA, 92106",32.7361386,-117.2175226
+92106,7.0,Above average,Loma Portal Elementary School,"3341 Browning Street, San Diego, CA, 92106",32.739891,-117.2218633
+92106,7.0,Above average,Point Loma High School,"2335 Chatsworth Boulevard, San Diego, CA, 92106",32.7385096,-117.2294415
+92107,6.0,Average,Correia Middle School,"4302 Valeta Street, San Diego, CA, 92107",32.7480725,-117.2318774
+92107,10.0,Above average,Ocean Beach Elementary School,"4741 Santa Monica Avenue, San Diego, CA, 92107",32.7444087,-117.2467368
+92107,9.0,Above average,Sunset View Elementary School,"4365 Hill Street, San Diego, CA, 92107",32.7240411,-117.2509624
+92107,9.0,Above average,Silver Gate Elementary School,"1499 Venice Street, San Diego, CA, 92107",32.7389611,-117.2393106
+92109,8.0,Above average,Barnard Elementary School,"2445 Fogg Street, San Diego, CA, 92109",32.802959,-117.2244397
+92109,9.0,Above average,Sessions Elementary School,"2150 Beryl Street, San Diego, CA, 92109",32.8064953,-117.2420339
+92109,7.0,Above average,Pacific Beach Elementary School,"1234 Tourmaline Street, San Diego, CA, 92109",32.8077065,-117.2549981
+92109,7.0,Above average,Crown Point Jr Music Academy,"4033 Ingraham Street, San Diego, CA, 92109",32.7933521,-117.2386297
+92109,6.0,Average,Pacific Beach Middle School,"4676 Ingraham Street, San Diego, CA, 92109",32.8013239,-117.241845
+92109,6.0,Average,Mission Bay High School,"2475 Grand Avenue, San Diego, CA, 92109",32.7943546,-117.25594
+92110,1.0,Below average,Urban Corps Of San Diego County Charter,"3127 Jefferson Street, San Diego, CA, 92110",32.7554804,-117.2035335
+92110,8.0,Above average,iHigh Virtual Academy,"3939 Conde Street, San Diego, CA, 92110",32.75087329999999,-117.1946207
+92110,8.0,Above average,Dewey Elementary School,"3251 Rosecrans Street, San Diego, CA, 92110",32.7479724,-117.2087708
+92110,9.0,Above average,Bay Park Elementary School,"2433 Denver Street, San Diego, CA, 92110",32.7881164,-117.203695
+92110,8.0,Above average,Old Town Academy K-8 Charter,"2120 San Diego Avenue, San Diego, CA, 92110",32.7477551,-117.1913399
+92110,8.0,Above average,Longfellow K-8,"5055 July Street, San Diego, CA, 92110",32.7834318,-117.1887628
+92111,5.0,Average,Lindbergh/Schweitzer Elementary School,"4133 Mount Albertine Avenue, San Diego, CA, 92111",32.8189995,-117.1690861
+92111,4.0,Below average,Montgomery Middle School,"2470 Ulric Street, San Diego, CA, 92111",32.7713308,-117.1632424
+92111,8.0,Above average,Kearny SCT School,"1954 Komet Way, San Diego, CA, 92111",32.8001273,-117.1595911
+92111,8.0,Above average,Kearny Eng Innov & Design,"1954 Komet Way, San Diego, CA, 92111",32.8001273,-117.1595911
+92111,4.0,Below average,Linda Vista Elementary School,"2772 Ulric Street, San Diego, CA, 92111",32.7713308,-117.1632424
+92111,4.0,Below average,Carson Elementary School,"6905 Kramer Street, San Diego, CA, 92111",32.7756403,-117.1711242
+92111,8.0,Above average,Kearny College Connections,"1954 Komet Way, San Diego, CA, 92111",32.8001273,-117.1595911
+92111,5.0,Average,Ross Elementary School,"7470 Bagdad Street, San Diego, CA, 92111",32.811745,-117.1609179
+92111,6.0,Average,Kavod Charter,"6991 Balboa. Ave., San Diego, CA, 92111",32.8187228,-117.1681326
+92111,9.0,Above average,Holmes Elementary School,"4902 Mount Ararat Drive, San Diego, CA, 92111",32.8109169,-117.1891304
+92111,9.0,Above average,Kearny Digital Media & Design School,"1954 Komet Way, San Diego, CA, 92111",32.8001273,-117.1595911
+92111,4.0,Below average,San Diego Cooperative Charter School,"7260 Linda Vista Road, San Diego, CA, 92111",32.7915711,-117.1679029
+92111,6.0,Average,Empower Charter,"2230 East Jewett Street, San Diego, CA, 92111",32.7862935,-117.1719718
+92111,4.0,Below average,San Diego Metro Career and Tech School,"7250 Mesa College Drive, San Diego, CA, 92111",32.8047563,-117.1690578
+92111,8.0,Above average,Chesterton Elementary School,"7335 Wheatley Street, San Diego, CA, 92111",32.7936216,-117.1621821
+92113,3.0,Below average,Perkins Elementary School,"1770 Main Street, San Diego, CA, 92113",32.7951366,-116.9718518
+92113,3.0,Below average,King-Chavez Academy Of Excellence,"2716 Marcy Avenue, San Diego, CA, 92113",32.6975608,-117.1338147
+92113,3.0,Below average,Memorial Scholars & Athletes School,"2850 Logan Avenue, San Diego, CA, 92113",32.70499849999999,-117.1492381
+92113,2.0,Below average,Knox Middle,"1098 South 49th Street, San Diego, CA, 92113",32.6968047,-117.0894589
+92113,3.0,Below average,Burbank Elementary School,"2146 Julian Avenue, San Diego, CA, 92113",32.701153,-117.1399082
+92113,3.0,Below average,Chavez Elementary School,"1404 South 40th Street, San Diego, CA, 92113",32.7021699,-117.1082505
+92113,3.0,Below average,Emerson/Bandini Elementary School,"3510 Newton Avenue, San Diego, CA, 92113",32.6949463,-117.1253345
+92113,3.0,Below average,Porter Elementary School,"4800 T Street, San Diego, CA, 92113",32.6989559,-117.0923252
+92113,5.0,Average,Balboa Elementary School,"1844 South 40th Street, San Diego, CA, 92113",32.6966689,-117.1083828
+92113,4.0,Below average,Lincoln High School,"4777 Imperial Avenue, San Diego, CA, 92113",32.703428,-117.0894293
+92113,7.0,Above average,Chollas/Mead Elementary School,"401 North 45th Street, San Diego, CA, 92113",32.7045494,-117.0980064
+92113,4.0,Below average,Rodriguez Elementary School,"825 South 31st Street, San Diego, CA, 92113",32.6980184,-117.1268889
+92113,4.0,Below average,Baker Elementary School,"4041 T Street, San Diego, CA, 92113",32.6982968,-117.106264
+92113,4.0,Below average,Logan K-8,"2875 Ocean View Boulevard, San Diego, CA, 92113",32.7012709,-117.1128811
+92114,4.0,Below average,Keiller Leadership Academy,"7270 Lisbon Street, San Diego, CA, 92114",32.7137984,-117.0428595
+92114,7.0,Above average,The O'Farrell Charter School,"6130 Skyline Drive, San Diego, CA, 92114",32.7030863,-117.0665595
+92114,6.0,Average,Valencia Park Elementary School,"5880 Skyline Drive, San Diego, CA, 92114",32.702328,-117.0713175
+92114,5.0,Average,Encanto Elementary School,"822 65th Street, San Diego, CA, 92114",32.7133941,-117.0586751
+92114,6.0,Average,Morse High School,"6905 Skyline Drive, San Diego, CA, 92114",32.701281,-117.0485606
+92114,4.0,Below average,Audubon K-8,"8111 San Vicente Street, San Diego, CA, 92114",32.7098519,-117.0303764
+92114,4.0,Below average,Boone Elementary School,"7330 Brookhaven Road, San Diego, CA, 92114",32.6956658,-117.0363996
+92114,6.0,Average,Freese Elementary School,"8140 Greenlawn Drive, San Diego, CA, 92114",32.7043267,-117.0276865
+92114,8.0,Above average,Nye Elementary School,"981 Valencia Parkway, San Diego, CA, 92114",32.7077893,-117.0730009
+92114,4.0,Below average,Fulton K-8,"7055 Skyline Drive, San Diego, CA, 92114",32.7020479,-117.0465549
+92114,2.0,Below average,Ingenuity Charter,"6130 Skyline Drive, San Diego, CA, 92114",32.7030863,-117.0665595
+92114,4.0,Below average,Horton Elementary School,"5050 Guymon Street, San Diego, CA, 92114",32.7126,-117.0872228
+92114,5.0,Average,Johnson Elementary School,"1355 Kelton Road, San Diego, CA, 92114",32.7187331,-117.0749371
+92114,7.0,Above average,Bethune K-8,"6835 Benjamin Holt Road, San Diego, CA, 92114",32.6888572,-117.0493652
+92115,7.0,Above average,Language Academy,"4961 64th Street, San Diego, CA, 92115",32.7681859,-117.0618932
+92115,1.0,Below average,Diego Hills Central Public Charter,"4585 College Avenue, San Diego, CA, 92115",32.7607264,-117.0665824
+92115,8.0,Above average,Hardy Elementary School,"5420 Montezuma Road, San Diego, CA, 92115",32.7707666,-117.076461
+92115,4.0,Below average,Crawford High School,"4191 Colts Way, San Diego, CA, 92115",32.7521974,-117.0758686
+92115,7.0,Above average,Rolando Park Elementary School,"6620 Marlowe Drive, San Diego, CA, 92115",32.7474902,-117.0549282
+92115,4.0,Below average,Iftin Charter School,"5465 El Cajon Boulevard, San Diego, CA, 92115",32.7573075,-117.0836113
+92115,5.0,Average,Hoover High School,"4474 El Cajon Boulevard, San Diego, CA, 92115",32.7575872,-117.0977951
+92115,5.0,Average,Harriet Tubman Village Charter School,"6880 Mohawk Street, San Diego, CA, 92115",32.7702603,-117.0504227
+92115,5.0,Average,Ibarra Elementary School,"4877 Orange Avenue, San Diego, CA, 92115",32.7524652,-117.0891075
+92115,4.0,Below average,Darnall Charter School,"6020 Hughes Street, San Diego, CA, 92115",32.746459,-117.0674904
+92115,4.0,Below average,Mann Middle School,"4345 54th Street, San Diego, CA, 92115",32.7559439,-117.0787187
+92115,5.0,Average,Clay Elementary School,"6506 Solita Avenue, San Diego, CA, 92115",32.7632953,-117.0586061
+92116,8.0,Above average,Garfield Elementary School,"4487 Oregon Street, San Diego, CA, 92116",32.7582951,-117.1347651
+92116,4.0,Below average,Franklin Elementary School,"4481 Copeland Avenue, San Diego, CA, 92116",32.758288,-117.1032878
+92116,7.0,Above average,Normal Heights Elementary School,"3750 Ward Road, San Diego, CA, 92116",32.761041,-117.1128481
+92116,5.0,Average,Adams Elementary School,"4672 35th Street, San Diego, CA, 92116",32.7614015,-117.1185702
+92116,8.0,Above average,San Diego Global Vision Academy,"3430 School Street, San Diego, CA, 92116",32.7626155,-117.1190528
+92117,8.0,Above average,Alcott Elementary School,"4680 Hidalgo Avenue, San Diego, CA, 92117",32.8326596,-117.2210364
+92117,7.0,Above average,Field Elementary School,"4375 Bannock Avenue, San Diego, CA, 92117",32.8326089,-117.1981024
+92117,8.0,Above average,Cadman Elementary School,"4370 Kamloop Avenue, San Diego, CA, 92117",32.8218665,-117.2161211
+92117,9.0,Above average,Mt. Everest Academy,"4350 Mount Everest Boulevard, San Diego, CA, 92117",32.8198742,-117.1864886
+92117,5.0,Average,John Muir School,"4431 Mount Herbert Avenue, San Diego, CA, 92117",32.8233884,-117.1938626
+92117,8.0,Above average,Hawthorne Elementary School,"4750 Lehrer Drive, San Diego, CA, 92117",32.8389033,-117.18929
+92117,4.0,Below average,"Creative, Performing, and Media Arts School","5050 Conrad Avenue, San Diego, CA, 92117",32.8363948,-117.1823419
+92117,4.0,Below average,Sequoia Elementary School,"4690 Limerick Avenue, San Diego, CA, 92117",32.8287126,-117.179298
+92117,3.0,Below average,Whitman Elementary School,"4050 Appleton Street, San Diego, CA, 92117",32.8364918,-117.2033727
+92117,5.0,Average,Clairemont High School,"4150 Ute Drive, San Diego, CA, 92117",32.8083016,-117.2040963
+92117,3.0,Below average,Innovation Middle School,"5095 Arvinels Avenue, San Diego, CA, 92117",32.8380635,-117.1743835
+92117,4.0,Below average,Madison High School,"4833 Doliva Drive, San Diego, CA, 92117",32.8311331,-117.1742668
+92117,7.0,Above average,Toler Elementary School,"3350 Baker Street, San Diego, CA, 92117",32.8014101,-117.210149
+92117,5.0,Average,Lafayette Elementary School,"6125 Printwood Way, San Diego, CA, 92117",32.8271255,-117.1692584
+92117,5.0,Average,Marston Middle School,"3799 Clairemont Drive, San Diego, CA, 92117",32.8083773,-117.2005933
+92119,6.0,Average,Pershing Middle School,"8204 San Carlos Drive, San Diego, CA, 92119",32.8023166,-117.0195478
+92119,9.0,Above average,Green Elementary School,"7030 Wandermere Drive, San Diego, CA, 92119",32.7973632,-117.0449975
+92119,6.0,Average,Gage Elementary School,"6811 Bisby Lake Avenue, San Diego, CA, 92119",32.8063092,-117.0138689
+92119,8.0,Above average,Benchley/Weinberger Elementary School,"6269 Twin Lake Drive, San Diego, CA, 92119",32.7943496,-117.0320546
+92120,5.0,Average,Foster Elementary School,"6550 51st Street, San Diego, CA, 92120",32.7922583,-117.0849245
+92120,8.0,Above average,Dailard Elementary School,"6425 Cibola Road, San Diego, CA, 92120",32.805313,-117.0536409
+92120,8.0,Above average,Magnolia Science Academy San Diego,"6525 Estrella Ave, San Diego, CA, 92120",32.7919298,-117.0875192
+92120,8.0,Above average,Patrick Henry High School,"6702 Wandermere Drive, San Diego, CA, 92120",32.7978072,-117.0517789
+92120,9.0,Above average,Marvin Elementary School,"5720 Brunswick Avenue, San Diego, CA, 92120",32.7963035,-117.0684213
+92120,10.0,Above average,Hearst Elementary School,"6230 Del Cerro Boulevard, San Diego, CA, 92120",32.7836995,-117.0642608
+92120,8.0,Above average,Lewis Middle School,"5170 Greenbrier Avenue, San Diego, CA, 92120",32.7977162,-117.0795806
+92121,4.0,Below average,Audeo Charter School,"10170 Huennekens Street, San Diego, CA, 92121",32.9018887,-117.1817989
+92121,3.0,Below average,Charter School of San Diego,"10170 Huennekens Street, San Diego, CA, 92121",32.9018887,-117.1817989
+92122,9.0,Above average,University City High School,"6949 Genesee Avenue, San Diego, CA, 92122",32.86146,-117.209113
+92122,8.0,Above average,Curie Elementary School,"4080 Governor Drive, San Diego, CA, 92122",32.855141,-117.2021553
+92122,9.0,Above average,Doyle Elementary School,"3950 Berino Court, San Diego, CA, 92122",32.8629839,-117.2210364
+92122,7.0,Above average,Spreckels Elementary School,"6033 Stadium Street, San Diego, CA, 92122",32.8501811,-117.2129743
+92122,7.0,Above average,Standley Middle School,"6298 Radcliffe Drive, San Diego, CA, 92122",32.8522717,-117.206313
+92123,5.0,Average,Taft Middle School,"9191 Gramercy Drive, San Diego, CA, 92123",32.8025093,-117.1341017
+92123,4.0,Below average,Wegeforth Elementary School,"3443 Ediwhar Avenue, San Diego, CA, 92123",32.8065052,-117.1365132
+92123,7.0,Above average,Angier Elementary School,"8450 Hurlbut Street, San Diego, CA, 92123",32.8054979,-117.1459149
+92123,7.0,Above average,Cubberley Elementary School,"3201 Marathon Drive, San Diego, CA, 92123",32.799192,-117.1257341
+92123,10.0,Above average,Elevate Elementary,"2285 Murray Ridge Road, San Diego, CA, 92123",32.7952685,-117.1440571
+92123,7.0,Above average,Fletcher Elementary School,"7666 Bobolink Way, San Diego, CA, 92123",32.7849964,-117.1590689
+92123,6.0,Average,Juarez Elementary School,"2633 Melbourne Drive, San Diego, CA, 92123",32.794988,-117.1253603
+92123,7.0,Above average,School for Entrepreneurship and Technology,"3540 Aero Court, San Diego, CA, 92123",32.808736,-117.1485386
+92123,7.0,Above average,Jones Elementary School,"2751 Greyling Drive, San Diego, CA, 92123",32.7963771,-117.1423489
+92124,8.0,Above average,Tierrasanta Elementary School,"5450 La Cuenta Drive, San Diego, CA, 92124",32.8297071,-117.0977491
+92124,9.0,Above average,Vista Grande Elementary School,"5606 Antigua Boulevard, San Diego, CA, 92124",32.8340553,-117.1082889
+92124,6.0,Average,Farb Middle School,"4880 La Cuenta Drive, San Diego, CA, 92124",32.8218253,-117.0971268
+92124,7.0,Above average,Miller Elementary School,"4343 Shields Street, San Diego, CA, 92124",32.8171011,-117.1069059
+92124,7.0,Above average,Serra High School,"5156 Santo Road, San Diego, CA, 92124",32.8258111,-117.1050115
+92124,9.0,Above average,Kumeyaay Elementary School,"6475 Antigua Boulevard, San Diego, CA, 92124",32.8361297,-117.0902337
+92124,8.0,Above average,Hancock Elementary School,"3303 Taussig Street, San Diego, CA, 92124",32.8068779,-117.1079991
+92124,7.0,Above average,De Portola Middle School,"11010 Clairemont Mesa Boulevard, San Diego, CA, 92124",32.8327231,-117.146042
+92126,9.0,Above average,Mira Mesa High School,"10510 Reagan Road, San Diego, CA, 92126",32.9140506,-117.1493543
+92126,6.0,Average,Hage Elementary School,"9750 Galvin Avenue, San Diego, CA, 92126",32.9204174,-117.1219982
+92126,5.0,Average,Walker Elementary School,"9225 Hillery Drive, San Diego, CA, 92126",32.9128817,-117.127506
+92126,7.0,Above average,Mason Elementary School,"10340 San Ramon Drive, San Diego, CA, 92126",32.905472,-117.139473
+92126,7.0,Above average,Wangenheim Middle School,"9230 Gold Coast Drive, San Diego, CA, 92126",32.9057249,-117.1359997
+92126,8.0,Above average,Challenger Middle School,"10810 Parkdale Avenue, San Diego, CA, 92126",32.910168,-117.155293
+92126,8.0,Above average,Hickman Elementary School,"10850 Montongo Street, San Diego, CA, 92126",32.9191175,-117.1529562
+92126,9.0,Above average,Ericson Elementary School,"11174 Westonhill Drive, San Diego, CA, 92126",32.9178677,-117.135685
+92126,9.0,Above average,Jonas Salk Elementary School,"7825 Flanders Drive, San Diego, CA, 92126",32.9059886,-117.1555651
+92126,9.0,Above average,Sandburg Elementary School,"11230 Avenida Del Gato, San Diego, CA, 92126",32.925308,-117.14817
+92127,9.0,Above average,Willow Grove Elementary School,"14727 Via Azul, San Diego, CA, 92127",32.9924875,-117.1614325
+92127,9.0,Above average,Stone Ranch Elementary School,"16150 4S Ranch Parkway, San Diego, CA, 92127",33.0215065,-117.1134873
+92127,8.0,Above average,Design 39 Campus,"17050 Del Sur Ridge Road, San Diego, CA, 92127",33.0185114,-117.1295025
+92127,10.0,Above average,Del Norte High School,"16601 Nighthawk Lane, San Diego, CA, 92127",33.0151144,-117.1243022
+92127,9.0,Above average,Del Sur Elementary School,"15665 Paseo Del Sur, San Diego, CA, 92127",33.0190197,-117.1352819
+92127,8.0,Above average,Oak Valley Middle School,"16055 Winecreek Road, San Diego, CA, 92127",33.001092,-117.1149772
+92127,8.0,Above average,Monterey Ridge Elementary School,"17117 4S Ranch Parkway, San Diego, CA, 92127",33.0200272,-117.1137053
+92127,8.0,Above average,Westwood Elementary School,"17449 Matinal Road, San Diego, CA, 92127",33.0307025,-117.0885985
+92127,7.0,Above average,Turtleback Elementary School,"15855 Turtleback Road, San Diego, CA, 92127",33.0061769,-117.0862453
+92128,9.0,Above average,Rancho Bernardo High School,"13010 Paseo Lucido, San Diego, CA, 92128",32.9963957,-117.0680286
+92128,8.0,Above average,Morning Creek Elementary School,"10925 Morning Creek Drive South, San Diego, CA, 92128",32.9542575,-117.0917753
+92128,7.0,Above average,Shoal Creek Elementary School,"11775 Shoal Creek Drive, San Diego, CA, 92128",32.9695706,-117.0812141
+92128,9.0,Above average,Creekside Elementary School,"12362 Springhurst Drive, San Diego, CA, 92128",32.9422913,-117.0758466
+92128,8.0,Above average,Bernardo Heights Middle School,"12990 Paseo Lucido, San Diego, CA, 92128",32.9963957,-117.0680286
+92128,8.0,Above average,Highland Ranch Elementary School,"14840 Waverly Downs Way, San Diego, CA, 92128",32.9859408,-117.0713602
+92129,9.0,Above average,Deer Canyon Elementary School,"13455 Russet Leaf Lane, San Diego, CA, 92129",32.9618252,-117.1437854
+92129,9.0,Above average,Los Penasquitos Elementary School,"14125 Cuca Street, San Diego, CA, 92129",32.9745486,-117.0957084
+92129,9.0,Above average,Sundance Elementary School,"8944 Twin Trails Drive, San Diego, CA, 92129",32.9607016,-117.1345179
+92129,9.0,Above average,Rolling Hills Elementary School,"15255 Penasquitos Drive, San Diego, CA, 92129",32.9839204,-117.0918985
+92129,9.0,Above average,Park Village Elementary School,"7930 Park Village Road, San Diego, CA, 92129",32.9408444,-117.150786
+92129,9.0,Above average,Canyon View Elementary School,"9225 Adolphia Street, San Diego, CA, 92129",32.9491925,-117.1249077
+92129,9.0,Above average,Adobe Bluffs Elementary School,"8707 Adobe Bluffs Drive, San Diego, CA, 92129",32.973298,-117.1410896
+92129,9.0,Above average,Mesa Verde Middle School,"8375 Entreken Way, San Diego, CA, 92129",32.9623107,-117.1461889
+92129,7.0,Above average,Sunset Hills Elementary School,"9291 Oviedo Street, San Diego, CA, 92129",32.9701779,-117.1259693
+92129,7.0,Above average,Black Mountain Middle School,"9353 Oviedo Street, San Diego, CA, 92129",32.9701779,-117.1259693
+92129,9.0,Above average,Mt. Carmel High School,"9550 Carmel Mountain Road, San Diego, CA, 92129",32.9509174,-117.152022
+92129,10.0,Above average,Westview High School,"13500 Camino Del Sur, San Diego, CA, 92129",32.9761376,-117.1460474
+92130,7.0,Above average,Ashley Falls Elementary School,"13030 Ashley Falls Drive, San Diego, CA, 92130",32.9524505,-117.2108262
+92130,9.0,Above average,Solana Pacific Elementary School,"3901 Townsgate Drive, San Diego, CA, 92130",32.9507688,-117.2321168
+92130,10.0,Above average,Carmel Creek Elementary School,"4210 Carmel Center Road, San Diego, CA, 92130",32.9514035,-117.2254464
+92130,9.0,Above average,Carmel Del Mar Elementary School,"12345 Carmel Park Drive, San Diego, CA, 92130",32.94221,-117.2286039
+92130,10.0,Above average,Canyon Crest Academy,"5951 Village Center Loop Road, San Diego, CA, 92130",32.9590757,-117.1894334
+92130,9.0,Above average,Solana Ranch Elementary,"13605 Pacific Highlands Ranch Parkway, San Diego, CA, 92130",32.9653806,-117.1927029
+92130,9.0,Above average,Sage Canyon School,"5290 Harvest Run Drive, San Diego, CA, 92130",32.9260595,-117.2038092
+92130,8.0,Above average,Sycamore Ridge School,"5333 Old Carmel Valley Road, San Diego, CA, 92130",32.9544246,-117.199215
+92130,10.0,Above average,Carmel Valley Middle School,"3800 Mykonos Lane, San Diego, CA, 92130",32.9466806,-117.229716
+92130,9.0,Above average,Ocean Air School,"11444 Canter Heights Drive, San Diego, CA, 92130",32.9246064,-117.2118998
+92130,9.0,Above average,Torrey Hills School,"10830 Calle Mar De Mariposa, San Diego, CA, 92130",32.9137191,-117.2255801
+92130,9.0,Above average,Torrey Pines High School,"3710 Del Mar Heights Road, San Diego, CA, 92130",32.9562322,-117.2266166
+92130,10.0,Above average,Pacific Trails Middle,"5975 Village Center Loop Road, San Diego, CA, 92130",32.9582266,-117.1864259
+92131,8.0,Above average,Marshall Middle School,"9700 Avenue of Nations, San Diego, CA, 92131",32.8970686,-117.0992804
+92131,9.0,Above average,Miramar Ranch Elementary School,"10770 Red Cedar Drive, San Diego, CA, 92131",32.9082634,-117.0913931
+92131,10.0,Above average,Scripps Ranch High School,"10410 Falcon Way, San Diego, CA, 92131",32.9090412,-117.1138319
+92131,9.0,Above average,Jerabek Elementary School,"10050 Avenida Magnifica, San Diego, CA, 92131",32.9108175,-117.0782615
+92131,5.0,Average,Innovations Academy,"10380 Spring Canyon Road, San Diego, CA, 92131",32.9218354,-117.0626368
+92131,9.0,Above average,Dingeman Elementary School,"11840 Scripps Creek Drive, San Diego, CA, 92131",32.9296885,-117.0905445
+92131,9.0,Above average,Scripps Elementary School,"11778 Cypress Canyon Road, San Diego, CA, 92131",32.9280182,-117.0742128
+92139,7.0,Above average,Zamorano Elementary School,"2655 Casey Street, San Diego, CA, 92139",32.6791347,-117.0364214
+92139,7.0,Above average,San Diego Scpa School,"2425 Dusk Drive, San Diego, CA, 92139",32.6767192,-117.048489
+92139,6.0,Average,Paradise Hills Elementary School,"5816 Alleghany Street, San Diego, CA, 92139",32.6798687,-117.067226
+92139,6.0,Average,Perry Elementary School,"6290 Oriskany Road, San Diego, CA, 92139",32.6863024,-117.0592268
+92139,4.0,Below average,Bell Middle School,"620 Briarwood Road, San Diego, CA, 92139",32.6892942,-117.0413193
+92139,4.0,Below average,Lee Elementary School,"6196 Childs Avenue, San Diego, CA, 92139",32.6704243,-117.0580085
+92139,6.0,Average,Penn Elementary School,"2797 Utica Drive, San Diego, CA, 92139",32.6724646,-117.0470696
+92154,4.0,Below average,Montgomery Middle School,"1051 Picador Boulevard, San Diego, CA, 92154",32.5759501,-117.0559025
+92154,2.0,Below average,Godfrey G. Berry Elementary School,"2001 Rimbey Avenue, San Diego, CA, 92154",32.5682266,-117.0906356
+92154,7.0,Above average,Ocean View Hills School,"4919 Del Sol Boulevard, San Diego, CA, 92154",32.5735263,-117.0454362
+92154,5.0,Average,Los Altos Elementary School,"1332 Kenalan Drive, San Diego, CA, 92154",32.5727218,-117.048842
+92154,5.0,Average,Emory Elementary School,"1915 Coronado Avenue, San Diego, CA, 92154",32.5765204,-117.0827527
+92154,7.0,Above average,Silver Wing Elementary School,"3730 Arey Drive, San Diego, CA, 92154",32.5793409,-117.0532861
+92154,3.0,Below average,Mar Vista Academy,"1267 Thermal Avenue, San Diego, CA, 92154",32.5764748,-117.0970937
+92154,4.0,Below average,San Ysidro High School,"5353 Airway Road, San Diego, CA, 92154",32.5652623,-117.0161422
+92154,3.0,Below average,Sunnyslope Elementary School,"2500 Elm Avenue, San Diego, CA, 92154",32.5806386,-117.1034661
+92154,7.0,Above average,Nestor Language Academy Charter,"1455 Hollister Street, San Diego, CA, 92154",32.5691699,-117.0840422
+92154,7.0,Above average,Vista Del Mar,"4885 Del Sol Boulevard, San Diego, CA, 92154",32.5743074,-117.0652514
+92154,5.0,Average,Montgomery Senior High School,"3250 Palm Avenue, San Diego, CA, 92154",32.8027855,-117.140451
+92154,6.0,Average,Juarez-Lincoln Elementary School,"849 Twining Avenue, San Diego, CA, 92154",32.5801141,-117.0449515
+92154,5.0,Average,Southwest Senior High School,"1685 Hollister Street, San Diego, CA, 92154",32.5838767,-117.0840962
+92154,7.0,Above average,Finney (Myrtle S.) Elementary School,"3950 Byrd Street, San Diego, CA, 92154",32.585048,-117.0493422
+92154,4.0,Below average,Howard Pence Elementary School,"877 Via Tonga Court, San Diego, CA, 92154",32.5785418,-117.0617094
+92154,3.0,Below average,Teofilo Mendoza School,"2050 Coronado Avenue, San Diego, CA, 92154",32.5765204,-117.0827527
+92173,2.0,Below average,Southwest Middle School,"2710 Iris Avenue, San Diego, CA, 92173",32.5688793,-117.0761587
+92173,5.0,Average,Sunset Elementary School,"3825 Sunset Ln., San Ysidro, CA, 92173",32.5581746,-117.054293
+92173,4.0,Below average,Willow Elementary,"226 Willow Rd., San Ysidro, CA, 92173",32.552007,-117.0423613
+92173,4.0,Below average,La Mirada Elementary School,"222 Avenida de la Madrid, San Ysidro, CA, 92173",32.5628726,-117.0462768
+92173,4.0,Below average,Smythe Elementary School,"1880 Smythe Ave., San Ysidro, CA, 92173",32.5666297,-117.0528271
+92173,3.0,Below average,George Nicoloff Elementary School,"1777 Howard Ave., San Ysidro, CA, 92173",32.5659757,-117.066729
+92173,3.0,Below average,San Ysidro Middle School,"4345 Otay Mesa Rd., San Ysidro, CA, 92173",32.5599754,-117.039104
