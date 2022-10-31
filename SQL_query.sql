@@ -61,10 +61,12 @@ CREATE TABLE San_Diego_Housing_Data(
 -- Creating table for school data 
 CREATE TABLE San_Diego_School_Data (
 	Zip_Code INT,
-	circle_rating_small	INT,
+	circle_rating_small	FLOAT,
 	scale VARCHAR,
 	name VARCHAR, 
-	address VARCHAR, 
+	address VARCHAR,
+    lat VARCHAR,
+    lng VARCHAR,
 FOREIGN KEY (Zip_Code) REFERENCES San_Diego_Housing_Data(Zip_Code),
 	PRIMARY KEY (name, address)
 );
@@ -74,16 +76,20 @@ CREATE TABLE San_Diego_Hospital_Data (
 	Zip_Code INT,
 	hospital_name VARCHAR,
 	address VARCHAR,
-	zipcode VARCHAR,
-	zipcodes VARCHAR,
+	lat VARCHAR,
+	lng VARCHAR,
 FOREIGN KEY (Zip_Code) REFERENCES San_Diego_Housing_Data(Zip_Code)
 );
 
 -- Creating a table for park data
 CREATE TABLE San_Diego_Parks_Data (
-	Zip_Code INT,
-	Number_of_parks INT,
-FOREIGN KEY (Zip_Code) REFERENCES San_Diego_Housing_Data(Zip_Code)
+    index INT,
+	name VARCHAR,
+    lat VARCHAR,
+    lng VARCHAR,
+    postcode INT,
+    county VARCHAR,
+FOREIGN KEY (postcode) REFERENCES San_Diego_Housing_Data(Zip_Code)
 );
 
 -- Creating a table for market data
