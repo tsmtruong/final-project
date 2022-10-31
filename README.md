@@ -11,6 +11,21 @@ All our information can be found on [San Diego Housing Project](https://tsmtruon
 A rough draft of our visuals can be found on [Our Tableau](https://public.tableau.com/app/profile/rashaan3749/viz/Affordablehousingrough/Sheet8?publish=yes).
 
 ## Results
+### Data Gathering and Cleaning
+#### Data
+- Census Data
+- San Diego MTS transit data
+- San Diego Hospital Data
+- School Rating Data
+- Supermarket Data
+- Parks data
+#### Gathering and Cleaning Methods
+- CSV flat files
+- GeoJSON files
+- WebScraping
+- Google PlacesAPI
+- Excel
+- Python
 
 #### Provisional database:
 - Sample data that mimics the expected final database structure or schema
