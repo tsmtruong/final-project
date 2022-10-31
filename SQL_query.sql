@@ -60,82 +60,84 @@ CREATE TABLE San_Diego_Housing_Data(
 
 -- Creating table for school data 
 CREATE TABLE San_Diego_School_Data (
-	Zip_Code INT,
+	zipcode INT,
 	circle_rating_small	FLOAT,
 	scale VARCHAR,
 	name VARCHAR, 
 	address VARCHAR,
     lat VARCHAR,
     lng VARCHAR,
-FOREIGN KEY (Zip_Code) REFERENCES San_Diego_Housing_Data(Zip_Code),
+FOREIGN KEY (zipcode) REFERENCES San_Diego_Housing_Data(Zip_Code),
 	PRIMARY KEY (name, address)
 );
 
 -- Creating a table for hospital data
 CREATE TABLE San_Diego_Hospital_Data (
-	Zip_Code INT,
+	zipcode INT,
 	hospital_name VARCHAR,
 	address VARCHAR,
 	lat VARCHAR,
 	lng VARCHAR,
-FOREIGN KEY (Zip_Code) REFERENCES San_Diego_Housing_Data(Zip_Code)
+FOREIGN KEY (zipcode) REFERENCES San_Diego_Housing_Data(Zip_Code)
 );
 
 -- Creating a table for park data
 CREATE TABLE San_Diego_Parks_Data (
-    index INT,
+    zipcode INT,
 	name VARCHAR,
     lat VARCHAR,
     lng VARCHAR,
-    postcode INT,
     county VARCHAR,
-FOREIGN KEY (postcode) REFERENCES San_Diego_Housing_Data(Zip_Code)
+FOREIGN KEY (zipcode) REFERENCES San_Diego_Housing_Data(Zip_Code)
 );
 
 -- Creating a table for market data
 CREATE TABLE San_Diego_Markets_Data (
-	Zip_Code INT,	
+	zipcode INT,	
 	business_status VARCHAR,
 	name VARCHAR,
 	lat VARCHAR,
 	lng VARCHAR,
-	country_code VARCHAR
+	country_code VARCHAR,
+FOREIGN KEY (zipcode) REFERENCES San_Diego_Housing_Data(Zip_Code)
 );
 
 -- Creating a table for transit data
 CREATE TABLE San_Diego_Transit_Data (
-	Zip_Code INT,	
+	zipcode INT,	
 	stop_name VARCHAR,
 	lat VARCHAR,
 	lng VARCHAR,
-	county VARCHAR
+	county VARCHAR,
+FOREIGN KEY (zipcode) REFERENCES San_Diego_Housing_Data(Zip_Code)
 );
 
-SELECT COUNT (*) AS schools_count, Zip_Code
+SELECT COUNT (*) AS schools_count, zipcode
 INTO schools_count_table
 FROM San_Diego_School_Data
-GROUP BY Zip_Code;
+GROUP BY zipcode;
 
-SELECT COUNT (*) AS hospitals_count, Zip_Code
+SELECT COUNT (*) AS hospitals_count, zipcode
 INTO hospitals_count_table
 FROM San_Diego_Hospital_Data
-GROUP BY Zip_Code;
+GROUP BY zipcode;
 
-SELECT Number_of_parks AS parks_count, Zip_Code
+SELECT COUNT (*) AS parks_count, zipcode
 INTO parks_count_table
-FROM San_Diego_Parks_Data;
+FROM San_Diego_Parks_Data
+GROUP BY zipcode;
 
-SELECT COUNT (*) AS markets_count, Zip_Code
+SELECT COUNT (*) AS markets_count, zipcode
 INTO markets_count_table
 FROM San_Diego_Markets_Data
-GROUP BY Zip_Code;
+GROUP BY zipcode;
 
-SELECT COUNT (*) AS transit_count, Zip_Code
+SELECT COUNT (*) AS transit_count, zipcode
 INTO transit_count_table
 FROM San_Diego_Transit_Data
-GROUP BY Zip_Code;
+GROUP BY zipcode;
 
-SELECT Zip_Code, 
+SELECT zipcode, 
 	M.markets_count,
 	P.parks_count,
 	H.hospitals_count,
@@ -144,13 +146,13 @@ SELECT Zip_Code,
 	INTO san_diego_count_data
 FROM markets_count_table M
 FULL JOIN parks_count_table P
-USING (Zip_Code)
+USING (zipcode)
 FULL JOIN hospitals_count_table H 
-USING (Zip_Code)
+USING (zipcode)
 FULL JOIN schools_count_table S 
-USING (Zip_Code)
+USING (zipcode)
 FULL JOIN transit_count_table T 
-USING (Zip_Code);
+USING (zipcode);
 
 SELECT sd_housing.*, 
 	sd_count.markets_count,
@@ -161,8 +163,5 @@ SELECT sd_housing.*,
 INTO San_Diego_Full_Data
 FROM san_diego_count_data sd_count
 INNER JOIN san_diego_housing_data sd_housing
-	ON sd_count.Zip_Code = sd_housing.Zip_Code
-ORDER BY sd_housing.Zip_Code ASC;
-
-
-
+	ON sd_count.zipcode = sd_housing.zip_code
+ORDER BY sd_housing.zip_code ASC;
