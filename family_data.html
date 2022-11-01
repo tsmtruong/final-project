@@ -1167,7 +1167,7 @@
     </script>
 </head>
 <body class="bg-light">
-    <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+    <nav class="navbar sticky-top navbar-dark bg-dark navbar-expand-lg">
         <a class="navbar-brand" href="index.html">Affordable Housing in San Diego</a>
         <div class="links">
             <ul class="navbar-nav ml-auto my-2 my-lg-0">
@@ -1245,6 +1245,12 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="well">
+                    <div class="panel-heading">
+                      <h5 class="panel-title">Census Data</h5>
+                        <p> 2020 Census Data was sourced from Census.Gov. We filtered this data to show the number of households, families, and non-family households for each zipcode.  
+                            From this dataset we display the Median income, mean income, and the Percent of Income allocated to Housing Cost for each type of household.
+                        </p>
+                    </div>
                     <h5>Select Household Type:</h5>
                         <ul class="btn-group btn-group-toggle">
                             <li class="list-inline-item">
@@ -1259,7 +1265,7 @@
                             </li>
                             <li class="list-inline-item">
                                 <a role="button" class="btn btn-outline-dark" href="nonfamily_data.html#section-1">
-                                    Non-Family Data
+                                Non-Family Data
                                 </a>
                             </li>
                         </ul>   
@@ -1271,9 +1277,6 @@
                     </select>
                 </div>
                 <div class="panel panel-primary">
-                    <div class="panel-heading">
-                      <h5 class="panel-title">Census Data</h5>
-                    </div>
                     <div id="census-data" class="panel-body">
 
                     </div>
@@ -1298,7 +1301,10 @@
             <div class="col-md-12">
                 <h2  style="color:#283618;">Machine Learning Model</h2>
                 <p>
-                    For our analysis we devised an unsupervised K-Means Machine Learning model
+                    For our analysis we devised an unsupervised K-Means Machine Learning model. The dataset inputted into 
+                    <br> the model includes median income, mean income, and percent of income allocated to housing costs for
+                    <br> households, families, and non-family households. Additionally, we found how many amenties are found
+                    <br> in each zipcode, including hospitals, schools, markets, parks, and public transportation. 
                 </p>
             </div>
         </div>
