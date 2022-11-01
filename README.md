@@ -40,3 +40,7 @@ numbers.
 - Our <I forget what this noun is> has 4 pca components which accounts for 81% of the variance of the data. As shown in the code, we are able to get a model that can account for a reasonable swath of the data without overfitting.
 
 ## Conclusion
+
+  - In conclusion, we found that Class 4 had the highest need for affordable housing.
+    - Class 4 contains the zipcodes 
+      - 91910, 91911, 91950, 91977, 92020, 92021, 92105, 92113, 92114, 92115, 92126, 92154
