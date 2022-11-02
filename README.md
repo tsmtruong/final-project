@@ -8,7 +8,11 @@ The purpose and goal of this project is to determine where is San Diego would re
 All our information can be found on [San Diego Housing Project](https://tsmtruong.github.io/final-project/index.html).
 
 
-A rough draft of our visuals can be found on [Our Tableau](https://public.tableau.com/app/profile/rashaan3749/viz/Affordablehousingrough/Sheet8?publish=yes).
+![Dashboard](https://github.com/tsmtruong/final-project/blob/tsmtruong/Resources/Pictures/Dashboard.PNG)
+
+
+
+A rough draft of our visuals can be found on [Our Tableau](https://public.tableau.com/app/profile/rashaan3749/viz/AffordableHousingStoryboard/Story1#guest=n&4).
 
 ## Results
 ### Data Gathering and Cleaning
