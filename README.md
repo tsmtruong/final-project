@@ -39,6 +39,9 @@ numbers.
 - We opted not to change our model other than adding the amenities between week 2 and week 3 as the model felt lack luster modeling only income data and housing.
 - Our explained variance ratio has 4 pca components which accounts for 81% of the variance of the data. As shown in the code, we are able to get a model that can account for a reasonable swath of the data without overfitting.
 
+![scatter plot](https://github.com/tsmtruong/final-project/blob/tsmtruong/static/images/final_scatter.png)
+
+
 ## Conclusion
 
   - In conclusion, we found that Class 4 had the highest need for affordable housing followed closely by class 0 with the second highest need.
