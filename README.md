@@ -41,6 +41,9 @@ numbers.
 
 ## Conclusion
 
-  - In conclusion, we found that Class 4 had the highest need for affordable housing.
+  - In conclusion, we found that Class 4 had the highest need for affordable housing followed closely by class 0 with the second highest need.
     - Class 4 contains the zipcodes 
       - 91910, 91911, 91950, 91977, 92020, 92021, 92105, 92113, 92114, 92115, 92126, 92154
+    - Class 0 contains the zipcodes
+      - 91932, 91941, 91942, 91945, 92008,92019, 92025, 92026, 92027, 92028, 92040, 92054, 92056, 92057, 92058, 92065, 92069, 92071, 92078, 92081, 92083,         92084, 92102, 92107, 92108, 92110, 92111, 92117,92120, 92123, 92124, 92139, 92173,92672
+  - Using these two lists of zipcode we compared them to the resources/amenities list and found that the zipcodes 91941, 91942, and 92114 have the best       accessibility to resources and high ranking schools. We have concluded that these are the zipcodes that would benefit the most from affordable           housing. 
