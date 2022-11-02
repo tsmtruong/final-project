@@ -1,18 +1,41 @@
 body {
     background-color: #f7f7f7;
 }
+
+.wrapper {
+    
+}
+
 .jumbotron {
     background-size: 100% 100%;
     text-align:center;
-    background-color: rgb(246, 241, 236);
+    background-color: #CCD5AE;
+    margin-bottom: 0px;
 }
 
 
 #section-1 {
-    background-color: rgb(199, 174, 168);
+    background-color: #f8f2e0;
 }
 
 #section-2 {
-    background-color: rgb(199, 174, 168);
+    background-color: #f8f2e0;
 }
 
+#section-3 {
+    background-color: #f8f2e0;
+}
+
+.table {
+    background-color: #CCD5AE;
+    background-image: var(--bs-gradient);
+}
+
+#visual-desc {
+    background-color: #CCD5AE;
+    background-image: var(--bs-gradient);
+}
+
+#ML-header {
+    text-align:center;
+}
