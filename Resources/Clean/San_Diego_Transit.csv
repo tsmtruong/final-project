@@ -1,4 +1,4 @@
-Zip Code,stop_name,lat,lng,county
+zipcode,stop_name,lat,lng,county
 91941,Allison Av & Palm Av,32.765915,-117.019588,San Diego County
 91941,La Mesa Bl & University Av,32.767805,-117.015427,San Diego County
 91977,Sweetwater Rd & Jamacha Rd,32.714228,-117.0128,San Diego County
@@ -13,19 +13,13 @@ Zip Code,stop_name,lat,lng,county
 92109,Turquoise St & La Jolla Bl,32.808123,-117.261262,San Diego County
 92109,Grand Av & Bayard St,32.79503,-117.2527,San Diego County
 92109,Garnet Av & Cass St,32.797376,-117.251519,San Diego County
-92017,W Mission Bay Dr & Mission Bl,32.771914,-117.250426,San Diego County
 92109,Grand Av & Cass St,32.795427,-117.250901,San Diego County
-92017,W Mission Bay Dr & Mariners Wy,32.770881,-117.246712,San Diego County
 92109,Garnet Av & Fanuel St,32.798559,-117.245961,San Diego County
-92017,Voltaire St & Sunset Cliffs Bl,32.749744,-117.242996,San Diego County
-92017,West Point Loma Bl & Sunset Cliffs Bl,32.750764,-117.241993,San Diego County
-92017,Voltaire St & Ebers St,32.748681,-117.241273,San Diego County
 92037,La Jolla Village Dr & N. Torrey Pines Rd,32.869972,-117.241793,San Diego County
 92107,Voltaire St & Froude St,32.747543,-117.239543,San Diego County
 92109,Grand Av & Ingraham St,32.797864,-117.239731,San Diego County
 92107,Voltaire St & Soto St,32.746232,-117.237447,San Diego County
 92109,W Mission Bay Dr & Quivira Rd,32.765237,-117.237601,San Diego County
-92093,Gilman Dr & Myers Dr,32.876949,-117.235533,San Diego County
 92109,Grand Av & Lamont St,32.799062,-117.234323,San Diego County
 92037,La Jolla Village Dr & Villa La Jolla Dr,32.871496,-117.233107,San Diego County
 92107,West Point Loma Bl & Temecula St,32.752249,-117.232596,San Diego County
@@ -35,11 +29,7 @@ Zip Code,stop_name,lat,lng,county
 92109,Grand Av & Olney St,32.800263,-117.22882,San Diego County
 92109,Garnet Av & Fogg St,32.803448,-117.225708,San Diego County
 92109,Garnet Av & Soledad Mountain Rd,32.804965,-117.223405,San Diego County
-92039,La Jolla Village Dr & Lebon Dr,32.870592,-117.223248,San Diego County
 92110,West Point Loma Bl & Groton St,32.754362,-117.221538,San Diego County
-92140,Garnet Av & Mission Bay Dr,32.806445,-117.216889,San Diego County
-92039,Nobel Dr & Regents Rd,32.867232,-117.218619,San Diego County
-92039,La Jolla Village Dr & Regents Rd,32.871465,-117.217861,San Diego County
 92122,Governor Dr & Regents Rd,32.851276,-117.216235,San Diego County
 92122,Governor Dr & Scripps St,32.85095,-117.214988,San Diego County
 92117,Clairemont Mesa Bl & Moraga Av,32.828417,-117.213002,San Diego County
@@ -49,7 +39,6 @@ Zip Code,stop_name,lat,lng,county
 92122,Governor Dr & Mercer St,32.851883,-117.209944,San Diego County
 92117,Clairemont Mesa Bl & Pocahontas Av,32.827605,-117.208514,San Diego County
 92110,Clairemont Dr & Denver St,32.790261,-117.202797,San Diego County
-92140,Balboa Av & Clairemont Dr,32.811618,-117.200558,San Diego County
 92126,Mira Mesa Bl & Scranton Rd,32.892518,-117.20095,San Diego County
 92117,Clairemont Mesa Bl & Dubois Dr,32.83437,-117.197424,San Diego County
 92117,Clairemont Mesa Bl & Genesee Av,32.834353,-117.194201,San Diego County
@@ -78,34 +67,20 @@ Zip Code,stop_name,lat,lng,county
 92108,Metropolitan Dr & Mission Valley Rd,32.777938,-117.157427,San Diego County
 92101,Market St & 6th Av,32.711436,-117.158784,San Diego County
 92108,Metropolitan Dr & Murray Canyon Rd,32.777295,-117.157713,San Diego County
-92133,Mesa College Dr & Ashford St,32.801721,-117.160025,San Diego County
 92111,Clairemont Mesa Bl & Ruffner St,32.832544,-117.158712,San Diego County
 92103,University Av & 7th Av,32.748268,-117.15893,San Diego County
 92108,Camino De La Reina & Camino De La Siesta,32.766324,-117.160209,San Diego County
 92123,Vista Hill Av & Health Center Dr,32.794868,-117.156827,San Diego County
-92133,Genesee Av & Health Center Dr,32.792407,-117.156499,San Diego County
 92108,Murray Canyon Rd & Mission Heights Rd,32.776069,-117.157736,San Diego County
 92126,Mira Mesa Bl & Parkdale Av,32.910661,-117.155114,San Diego County
-92018,Camino De La Reina & Mission Center Rd,32.768192,-117.153296,San Diego County
-92133,Clairemont Mesa Bl & Convoy St,32.832613,-117.152339,San Diego County
-92134,G St & 14th St,32.712555,-117.151623,San Diego County
 92101,Market St & 14th St,32.711451,-117.151489,San Diego County
 92101,Broadway & 15th St,32.715697,-117.150049,San Diego County
-92133,Kearny Villa Rd & I-805,32.804616,-117.14978,San Diego County
-92163,University Av & Herbert St,32.748352,-117.148939,San Diego County
 92111,Clairemont Mesa Bl & Mercury St,32.832645,-117.148315,San Diego County
-92133,Aero Dr & Aero Ct,32.809477,-117.148098,San Diego County
 92126,Mira Mesa Bl & Reagan Rd (W),32.912368,-117.148726,San Diego County
 92113,Imperial Av & 19th St,32.706211,-117.146351,San Diego County
-92018,Camino De La Reina & Michaels,32.770628,-117.147172,San Diego County
-92134,Logan Av & Beardsley St,32.702395,-117.145736,San Diego County
 92103,El Cajon Bl & Park Bl,32.75512,-117.14571,San Diego County
-92134,Market St & 22nd St,32.711464,-117.143676,San Diego County
-92134,Broadway & 22nd St,32.715735,-117.143736,San Diego County
-92018,Camino De La Reina & Camino Del Este,32.770727,-117.144505,San Diego County
 92123,Aero Dr & Afton Rd,32.809552,-117.144177,San Diego County
 92116,Adams Av & Florida St,32.762411,-117.143507,San Diego County
-92136,Logan Av & Cesar E Chavez Pkwy (Chicano Park),32.700116,-117.142424,San Diego County
 92126,Mira Mesa Bl & Camino Ruiz,32.912583,-117.143035,San Diego County
 92123,Balboa Av & 8611 (Kyocera),32.820548,-117.141659,San Diego County
 92113,Imperial Av & 25th St,32.706272,-117.139524,San Diego County
@@ -115,20 +90,14 @@ Zip Code,stop_name,lat,lng,county
 92113,Logan Av & Sampson St,32.697842,-117.139144,San Diego County
 92123,Aero Dr & Sandrock Rd,32.809625,-117.1397,San Diego County
 92123,Kearny Villa Rd & Kearny Villa Way,32.830821,-117.139767,San Diego County
-92163,University Av & Texas St,32.748378,-117.138496,San Diego County
-92134,Market St & 26th St,32.711531,-117.137835,San Diego County
 92123,Gramercy Dr & Sandrock Rd,32.802944,-117.1382,San Diego County
 92104,University Av & Arnold Av,32.748395,-117.136509,San Diego County
 92113,National Av & 27th St,32.695798,-117.13558,San Diego County
-92134,Market St & 27th St,32.711532,-117.135751,San Diego County
-92134,C St & 27th St,32.716819,-117.13585,San Diego County
 92104,El Cajon Bl & Oregon St,32.755163,-117.134781,San Diego County
 92104,University Av & Pershing Av,32.748394,-117.134346,CAL Fire San Diego Unit
-92136,Ocean View Bl & 28th St,32.7011,-117.133296,San Diego County
 92037,Pearl St & Draper Av,32.839578,-117.276187,San Diego County
 92037,Pearl St & Fay Av,32.840128,-117.27381,San Diego County
 92037,Torrey Pines Rd & Exchange Pl,32.845847,-117.268673,San Diego County
-2037,Torrey Pines Rd & Princess St,32.848826,-117.262585,San Diego County
 92109,Garnet Av & Everts St,32.798101,-117.24825,San Diego County
 92109,Grand Av & Fanuel St,32.796529,-117.245834,San Diego County
 92109,Garnet Av & Haines St,32.799294,-117.242774,San Diego County
@@ -144,13 +113,11 @@ Zip Code,stop_name,lat,lng,county
 92106,Nimitz Bl & Rosecrans St,32.728943,-117.226535,San Diego County
 92109,Grand Av & Culver St,32.800913,-117.225849,San Diego County
 92110,West Point Loma Bl & Loma Riviera Dr,32.753402,-117.224077,San Diego County
-92039,Nobel Dr & Lebon Dr,32.868293,-117.225183,San Diego County
 92109,Garnet Av & Bond St,32.805504,-117.221214,San Diego County
 92110,Sports Arena Bl & Midway Dr,32.755674,-117.221094,San Diego County
 92110,Midway Dr & Duke St,32.75393,-117.218141,San Diego County
 92110,Midway Dr & Kemper St,32.752436,-117.215847,San Diego County
 92109,Grand Av & Mission Bay Dr,32.802273,-117.217839,San Diego County
-92140,Balboa Av & Moraga Av,32.807744,-117.210697,San Diego County
 92110,Morena Bl & Frankfort St,32.774686,-117.206214,San Diego County
 92122,Governor Dr & Radcliffe Dr,32.854345,-117.206106,San Diego County
 92110,Morena Bl & Knoxville St,32.773327,-117.203984,San Diego County
@@ -177,53 +144,36 @@ Zip Code,stop_name,lat,lng,county
 92101,Broadway & 6th Av,32.715664,-117.159474,San Diego County
 92108,Camino De La Reina & Camino Del Arroyo,32.766747,-117.158463,San Diego County
 92101,Market St & 10th Av,32.711436,-117.155796,San Diego County
-92163,University Av & 10th Av,32.748318,-117.155463,San Diego County
 92126,Miramar Rd & Carroll Rd,32.881777,-117.15625,San Diego County
 92101,Market St & Park Bl,32.711468,-117.153989,
 92101,Broadway & Park Bl,32.715701,-117.154013,San Diego County
 92123,Vista Hill Av & Meadowlark Dr,32.794851,-117.154588,San Diego County
-92163,University Av & Vermont St,32.748348,-117.153665,San Diego County
-92163,University Av & Richmond St,32.748362,-117.151339,San Diego County
 92101,Imperial Av & 16th St,32.706214,-117.149702,San Diego County
-92134,Market St & 16th St,32.711429,-117.149603,San Diego County
 92113,Logan Av & Sigsbee St,32.703815,-117.14776,San Diego County
-92134,Market St & 19th St,32.711441,-117.146849,San Diego County
-92134,Broadway & 20th St,32.715721,-117.14595,San Diego County
-92134,Logan Av & Cesar E Chavez Pkwy,32.701541,-117.14448,San Diego County
 92113,Imperial Av & 22nd St,32.706217,-117.144075,San Diego County
 92126,Miramar Rd & Dowdy Dr,32.888037,-117.145451,San Diego County
 92113,Imperial Av & 24th St,32.706225,-117.142551,San Diego County
-92133,Clairemont Mesa Bl & 8303,32.832661,-117.146141,San Diego County
 92104,El Cajon Bl & Alabama St,32.75514,-117.142636,San Diego County
-92163,University Av & Alabama St,32.748372,-117.14274,San Diego County
 92126,Miramar Rd & Cabot Dr,32.889577,-117.142795,San Diego County
-92134,Market St & 25th St,32.711515,-117.140397,CAL Fire San Diego Unit
-92134,Broadway & 25th St,32.715753,-117.140765,San Diego County
-92163,University Av & Louisiana St,32.748374,-117.140187,San Diego County
 92113,Imperial Av & 26th St,32.706303,-117.138221,San Diego County
-92134,C St & 26th St,32.716805,-117.138291,San Diego County
 92104,El Cajon Bl & Arizona St,32.755164,-117.137718,San Diego County
 92116,Adams Av & Arizona St,32.762805,-117.137701,San Diego County
 92126,Mira Mesa Bl & Reagan Rd (E),32.912669,-117.13907,San Diego County
 92113,Main St & 27th St,32.692725,-117.136004,San Diego County
 92113,Ocean View Bl & Sampson St,32.702145,-117.135475,San Diego County
 92113,Imperial Av & Hensley St,32.70632,-117.134665,San Diego County
-92134,C St & 28th St,32.716831,-117.134305,San Diego County
 92126,Mira Mesa Bl & Westonhill Dr,32.912745,-117.135774,San Diego County
 92116,El Cajon Bl & Utah St,32.755177,-117.13284,San Diego County
-92104,University Av & Utah St,32.74836,-117.132934,San Diego County
+92104,University Av & Utah St,32.74836,-117.132934,CAL Fire San Diego Unit
 92113,National Av & 29th St,32.695852,-117.132229,San Diego County
 92123,Balboa Av & Ponderosa Av,32.822113,-117.131906,San Diego County
 92123,Aero Dr & Corporate Ct,32.809744,-117.132036,San Diego County
 92102,Market St & 30th St,32.711565,-117.130433,San Diego County
-92137,Clairemont Mesa Bl & Overland Av,32.831265,-117.131262,San Diego County
 92116,Adams Av & 30th St,32.762827,-117.130376,San Diego County
-92104,University Av & 30th St,32.748336,-117.130241,San Diego County
+92104,University Av & 30th St,32.748336,-117.130241,CAL Fire San Diego Unit
 92104,Upas St & 30th St,32.74103,-117.129481,San Diego County
 92113,Ocean View Bl & 30th St,32.701115,-117.129668,San Diego County
 92113,Imperial Av & 30th St,32.706343,-117.129623,San Diego County
-92136,Main St & 30th St,32.692751,-117.129296,San Diego County
-92134,C St & 30th St,32.716809,-117.1304,San Diego County
 92102,Beech St & Fern St,32.721221,-117.129511,San Diego County
 92126,Mira Mesa Bl & Marbury Av,32.915895,-117.129972,San Diego County
 92116,Adams Av & Boundary St,32.762836,-117.128372,San Diego County
@@ -232,9 +182,7 @@ Zip Code,stop_name,lat,lng,county
 92113,Ocean View Bl & 32nd St,32.701137,-117.125436,San Diego County
 92113,Imperial Av & 32nd St,32.706373,-117.125394,San Diego County
 92102,Market St & 32nd St,32.711595,-117.1254,San Diego County
-92137,Clairemont Mesa Bl & Ruffin Rd,32.831275,-117.127017,San Diego County
 92108,Camino Del Rio N & Mission City Pkwy,32.775516,-117.12709,San Diego County
-92137,Clairemont Mesa Bl & Ruffin Rd,32.831328,-117.126265,San Diego County
 92102,Market St & 33rd St,32.711682,-117.122407,San Diego County
 92113,Ocean View Bl & 33rd St,32.701153,-117.122716,San Diego County
 92102,Imperial Av & 33rd St,32.706669,-117.122715,San Diego County
@@ -283,7 +231,6 @@ Zip Code,stop_name,lat,lng,county
 92114,Olvera Av & Gwen St,32.697845,-117.081531,San Diego County
 92120,Zion Av & Waring Rd,32.7928,-117.081549,San Diego County
 92115,El Cajon Bl & 54th St,32.757676,-117.079695,San Diego County
-92182,Montezuma Rd & 54th St,32.771053,-117.079704,San Diego County
 92114,Olvera Av & San Onofre Ter,32.698806,-117.077711,San Diego County
 92115,El Cajon Bl & Dayton St,32.758148,-117.076892,San Diego County
 92105,Grape St & 55th St,32.727606,-117.076993,San Diego County
@@ -296,7 +243,6 @@ Zip Code,stop_name,lat,lng,county
 92128,Rancho Bernardo Rd & Acena Dr,33.022667,-117.070534,San Diego County
 92154,Del Sol Bl & Ocean Bluffs,32.573762,-117.063038,San Diego County
 92114,Imperial Av & 62nd St,32.709673,-117.064132,San Diego County
-92182,Montezuma Rd & 63rd St,32.770411,-117.06473,San Diego County
 92114,Imperial Av & 63rd St,32.709878,-117.062558,San Diego County
 92128,Rancho Bernardo Rd & Bernardo Oaks Dr,33.01929,-117.065459,San Diego County
 92115,Streamview Dr & Hasty Dr,32.74399,-117.061295,San Diego County
@@ -305,7 +251,6 @@ Zip Code,stop_name,lat,lng,county
 92115,Montezuma Rd & Reservoir Dr,32.769071,-117.057346,San Diego County
 92114,Imperial Av & Woodman St,32.710718,-117.055637,San Diego County
 92114,Skyline Dr & Woodman St,32.701171,-117.055391,San Diego County
-92112,University Av & Aragon Dr,32.755231,-117.053852,San Diego County
 92115,El Cajon Bl & Montezuma Rd,32.768139,-117.054481,San Diego County
 92114,Imperial Av & 68th St,32.711255,-117.051328,San Diego County
 92114,Imperial Av & 69th St,32.711802,-117.049539,San Diego County
@@ -313,11 +258,8 @@ Zip Code,stop_name,lat,lng,county
 91941,University Av & 69th St,32.755068,-117.049622,San Diego County
 92114,Skyline Dr & Buccaneer Dr,32.702751,-117.044948,San Diego County
 92114,Skyline Dr & Sychar Rd,32.703165,-117.042949,San Diego County
-92112,El Cajon Bl & 73rd St,32.768729,-117.040566,San Diego County
-92112,El Cajon Bl & Jessie Av,32.768633,-117.037985,San Diego County
 92114,Skyline Dr & Siena St,32.70288,-117.03731,San Diego County
 91941,University Av & Lowell St,32.7574,-117.037449,San Diego County
-92112,El Cajon Bl & Parks Av,32.768199,-117.03359,San Diego County
 92119,Jackson Dr & Lake Shore Dr,32.797859,-117.035211,San Diego County
 92114,Jamacha Rd & Glencoe Dr,32.715367,-117.032011,San Diego County
 91945,Main St & Broadway (Lemon Grove Depot),32.742496,-117.030915,San Diego County
@@ -342,7 +284,6 @@ Zip Code,stop_name,lat,lng,county
 92104,El Cajon Bl & Illinois St,32.755191,-117.127404,San Diego County
 92116,Adams Av & W Mountain View Dr,32.763242,-117.126574,San Diego County
 92104,University Av & Herman Av,32.748426,-117.125646,San Diego County
-92136,Main St & 32nd St,32.691966,-117.124884,San Diego County
 92113,National Av & 32nd St,32.695922,-117.124809,San Diego County
 92126,Mira Mesa Bl & Rickert Rd,32.916993,-117.126721,San Diego County
 92116,Adams Av & 32nd St,32.763313,-117.124717,San Diego County
@@ -409,11 +350,9 @@ Zip Code,stop_name,lat,lng,county
 92105,Streamview Dr & 55th St,32.742449,-117.076933,San Diego County
 92114,Imperial Av & 55th St,32.707637,-117.076077,San Diego County
 92113,25th St & Imperial Av,32.706489,-117.140278,San Diego County
-92134,25th St & Broadway,32.716114,-117.140365,San Diego County
 92108,Texas St & Camino Del Rio South,32.767685,-117.139481,San Diego County
-92163,Texas St & Meade Av,32.757404,-117.138902,San Diego County
 92116,30th St & El Cajon Bl,32.755559,-117.130248,San Diego County
-92104,30th St & University Av,32.748633,-117.130208,San Diego County
+92104,30th St & University Av,32.748633,-117.130208,CAL Fire San Diego Unit
 92102,30th St & C St,32.717108,-117.129659,San Diego County
 92104,30th St & Fir St,32.725635,-117.130261,San Diego County
 92104,30th St & Redwood St,32.737535,-117.129359,San Diego County
@@ -427,7 +366,6 @@ Zip Code,stop_name,lat,lng,county
 92102,Midvale Dr & Gateway Dr,32.726524,-117.109453,San Diego County
 92102,Ralene St & Midvale Dr,32.728587,-117.109278,San Diego County
 91950,National City Bl & W 3rd St,32.680256,-117.108732,San Diego County
-92136,National City Bl & W 5th St,32.678583,-117.108086,San Diego County
 92105,Ralene St & Juniper St,32.729837,-117.108123,San Diego County
 92102,Gateway Dr & Crenshaw St,32.724887,-117.108211,San Diego County
 92105,Pepper Dr & Tulip St (Azalea Community Park),32.731672,-117.107894,San Diego County
@@ -479,7 +417,6 @@ Zip Code,stop_name,lat,lng,county
 92154,Picador Bl & Caminito Quixote,32.578235,-117.058665,San Diego County
 92154,Picador Bl & Cedar Glen Wy,32.575811,-117.055783,San Diego County
 92154,Picador Bl & Del Sol Bl,32.57391,-117.054275,San Diego County
-92112,College Av & College Grove Dr,32.744661,-117.05493,San Diego County
 92114,Madera St & Ramon St,32.723852,-117.045652,San Diego County
 91942,Lake Murray Bl & Connecticut Av,32.775659,-117.045072,San Diego County
 91945,Massachusetts Av & San Miguel Av,32.736204,-117.042999,San Diego County
@@ -510,7 +447,6 @@ Zip Code,stop_name,lat,lng,county
 92109,Mission Bl & Opal St,32.805665,-117.25834,San Diego County
 92109,Mission Bl & Felspar St,32.797196,-117.25577,San Diego County
 92037,Torrey Pines Rd & Calle De La Plata,32.850235,-117.25609,San Diego County
-92182,Montezuma Rd & 55th St,32.770598,-117.075838,San Diego County
 92115,El Cajon Bl & 56th St,32.758419,-117.074686,San Diego County
 92114,Imperial Av & Valencia Pkwy,32.708683,-117.072511,San Diego County
 92115,El Cajon Bl & 58th St,32.758716,-117.072643,San Diego County
@@ -531,9 +467,7 @@ Zip Code,stop_name,lat,lng,county
 92114,Skyline Dr & O'Meara St,32.701249,-117.062075,San Diego County
 92115,El Cajon Bl & 63rd St,32.763737,-117.062645,San Diego County
 92115,El Cajon Bl & Art St,32.765044,-117.060445,San Diego County
-92112,University Av & Bonillo Dr,32.754223,-117.059506,San Diego County
 92154,Del Sol Bl & Del Sur Bl,32.57313,-117.057566,San Diego County
-92112,College Av & Streamview Dr,32.745467,-117.058193,San Diego County
 92114,Imperial Av & 65th St,32.710459,-117.057784,San Diego County
 92115,El Cajon Bl & Rolando Bl,32.767032,-117.056888,San Diego County
 92114,Skyline Dr & Rio Lindo Dr,32.701909,-117.052254,San Diego County
@@ -570,14 +504,10 @@ Zip Code,stop_name,lat,lng,county
 91941,La Mesa Bl & Grossmont Bl,32.773283,-117.005438,San Diego County
 92020,Navajo Rd & Medford St,32.801883,-117.002449,San Diego County
 92037,Turquoise St & La Jolla Bl,32.808293,-117.261323,San Diego County
-2037,Torrey Pines Rd & Viking Way,32.849762,-117.261102,San Diego County
 92109,Grand Av & Bayard St,32.795226,-117.252946,San Diego County
-92017,W Mission Bay Dr & Mission Bl,32.772154,-117.250731,San Diego County
 92109,Garnet Av & Fanuel St,32.798749,-117.245999,San Diego County
-92017,Voltaire St & Sunset Cliffs Bl,32.749817,-117.242821,San Diego County
 92109,Garnet Av & Jewell St,32.800334,-117.238867,San Diego County
 92107,Voltaire St & Soto St,32.746435,-117.23756,San Diego County
-92093,Gilman Dr & Myers Dr,32.877183,-117.235829,San Diego County
 92109,Garnet Av & Morrell St,32.801567,-117.233221,San Diego County
 92106,Chatsworth Bl & Poe St,32.736953,-117.230953,San Diego County
 92106,Macaulay St & Clove St,32.732216,-117.229989,San Diego County
@@ -587,7 +517,6 @@ Zip Code,stop_name,lat,lng,county
 92109,Garnet Av & Donaldson Dr,32.803545,-117.225966,San Diego County
 92106,West Point Loma Bl & Groton St,32.754753,-117.2211,San Diego County
 92109,Garnet Av & Mission Bay Dr,32.806448,-117.217947,San Diego County
-92039,La Jolla Village Dr & Regents Rd,32.871503,-117.218669,San Diego County
 92110,Midway Dr & Kemper St,32.751995,-117.214665,San Diego County
 92122,Governor Dr & Scripps St,32.851206,-117.214955,San Diego County
 92117,Clairemont Mesa Bl & Moraga Av,32.828676,-117.21296,San Diego County
@@ -614,64 +543,42 @@ Zip Code,stop_name,lat,lng,county
 92103,University Av & 7th Av,32.748474,-117.158089,San Diego County
 92101,Market St & 8th Av,32.711627,-117.157063,San Diego County
 92123,Vista Hill Av & Health Center Dr,32.795014,-117.157137,San Diego County
-92163,University Av & 9th Av,32.748494,-117.156164,San Diego County
-92133,Balboa Av & Terry Bennett Drwy,32.821907,-117.158424,San Diego County
 92123,Starling Dr & Health Center Dr,32.792929,-117.156179,San Diego County
 92101,Market St & 10th Av,32.711625,-117.155184,San Diego County
 92101,Market St & Park Bl,32.711646,-117.154098,San Diego County
 92126,Mira Mesa Bl & Parkdale Av,32.910548,-117.155934,San Diego County
 92108,Camino De La Reina & Mission Center Rd,32.768493,-117.153104,San Diego County
-92163,University Av & Richmond St,32.748674,-117.151073,San Diego County
-92134,Broadway & 15th St,32.715847,-117.150207,San Diego County
-92163,University Av & Normal St,32.748498,-117.149308,San Diego County
-92134,Market St & 16th St,32.711638,-117.149163,San Diego County
 92113,Logan Av & Sigsbee St,32.70382,-117.147477,San Diego County
-92133,Aero Dr & Aero Ct,32.809728,-117.1476,San Diego County
 92126,Mira Mesa Bl & Reagan Rd,32.912763,-117.148427,San Diego County
 92113,Imperial Av & 19th St,32.706375,-117.146515,San Diego County
-92134,Broadway & 20th St,32.715872,-117.145665,San Diego County
 92113,Imperial Av & 21st St,32.70638,-117.144704,San Diego County
-92134,Logan Av & Cesar Chavez Pkwy,32.701794,-117.144567,San Diego County
 92123,Murray Ridge Rd & Mission Center Rd,32.789933,-117.144938,San Diego County
-92134,Broadway & 22nd St,32.715879,-117.143848,San Diego County
-92018,Camino De La Reina & Camino Del Este,32.771092,-117.143839,San Diego County
-92133,Aero Dr & Glen H Curtis Rd,32.80979,-117.144346,San Diego County
 92113,Imperial Av & 24th St,32.706428,-117.14226,San Diego County
-92136,Logan Av & I-5 Ramp,32.700235,-117.142318,San Diego County
-92163,University Av & Alabama St,32.748553,-117.142108,San Diego County
 92113,Imperial Av & 25th St,32.706436,-117.139952,San Diego County
 92113,Ocean View Bl & Commercial St,32.705104,-117.139454,San Diego County
-92163,University Av & Louisiana St,32.748539,-117.139863,San Diego County
 92113,Ocean View Bl & Dewey St,32.704443,-117.138488,San Diego County
 92104,El Cajon Bl & Texas St,32.755458,-117.138557,San Diego County
 92113,National Av & 26th St,32.695993,-117.137873,San Diego County
 92113,Imperial Av & 26th St,32.706456,-117.137982,San Diego County
-92134,Market St & 26th St,32.711744,-117.138,San Diego County
 92104,University Av & Arizona St,32.74855,-117.137174,CAL Fire San Diego Unit
 92116,Adams Av & Arizona St,32.762965,-117.136919,San Diego County
 92113,Main St & 27th St,32.692875,-117.135772,San Diego County
-92134,Market St & 27th St,32.711746,-117.135743,San Diego County
-92134,C St & 27th St,32.71697,-117.135867,San Diego County
 92113,Ocean View Bl & Sampson St,32.702103,-117.135149,San Diego County
 92104,University Av & Oregon St,32.748549,-117.134939,San Diego County
-92136,National Av & 28th St,32.696018,-117.133651,San Diego County
 92113,Imperial Av & 28th St,32.706476,-117.133704,San Diego County
 92113,Ocean View Bl & 28th St,32.701248,-117.133707,San Diego County
-92136,Main St & 28th St,32.692912,-117.133357,San Diego County
 92102,Market St & 28th St,32.711765,-117.133556,San Diego County
-92104,University Av & Utah St,32.748559,-117.132376,San Diego County
+92104,University Av & Utah St,32.748559,-117.132376,CAL Fire San Diego Unit
 92113,Ocean View Bl & 29th St,32.701267,-117.131493,San Diego County
 92123,Balboa Av & Ponderosa Av,32.822413,-117.131798,San Diego County
 92102,Market St & 30th St,32.711806,-117.130481,San Diego County
 92104,Upas St & 30th St,32.74118,-117.129681,San Diego County
 92113,Ocean View Bl & 30th St,32.701271,-117.129342,San Diego County
 92113,Imperial Av & 30th St,32.706493,-117.129371,San Diego County
-92136,Main St & 30th St,32.692919,-117.129304,San Diego County
 92123,Aero Dr & Ruffin Rd,32.810052,-117.129263,San Diego County
 92116,Adams Av & W Mountain View Dr,32.763485,-117.126381,San Diego County
 92104,University Av & Iowa St,32.748581,-117.126191,San Diego County
 92102,Market St & 32nd St,32.711797,-117.125617,San Diego County
-92137,Clairemont Mesa Bl & Ruffin Rd,32.831602,-117.126291,San Diego County
 92116,Adams Av & 32nd St,32.763491,-117.124768,San Diego County
 92102,Imperial Av & 33rd St,32.706858,-117.122115,San Diego County
 92116,Adams Av & 33rd St,32.763451,-117.122682,San Diego County
@@ -716,7 +623,6 @@ Zip Code,stop_name,lat,lng,county
 92105,University Av & Estrella Av,32.749647,-117.089943,San Diego County
 92102,Imperial Av & 50th St,32.704229,-117.08662,San Diego County
 91950,E St & 4th Av,32.643825,-117.08502,San Diego County
-92182,Montezuma Rd & Collwood Bl,32.770278,-117.085842,San Diego County
 92115,El Cajon Bl & Altadena Av,32.757079,-117.085554,San Diego County
 92114,Olvera Av & Euclid Av,32.697415,-117.084657,San Diego County
 92114,Roswell St & 51st St,32.711771,-117.084143,San Diego County
@@ -736,12 +642,10 @@ Zip Code,stop_name,lat,lng,county
 92114,Roswell St & 56th St,32.715961,-117.075332,San Diego County
 92114,Market St & Radio Dr,32.710117,-117.072144,San Diego County
 92128,Rancho Bernardo Rd & Bernardo Center Dr,33.023021,-117.073503,San Diego County
-92182,Montezuma Rd & College Av,32.770851,-117.070889,San Diego County
 92114,Market St & Merlin Dr,32.710106,-117.070967,San Diego County
 92115,El Cajon Bl & 59th St,32.759907,-117.070331,San Diego County
 92120,Waring Rd & Galewood St,32.794612,-117.068299,San Diego County
 92128,Rancho Bernardo Rd & Acena Dr,33.022694,-117.069862,San Diego County
-92182,Montezuma Rd & 63rd St,32.770531,-117.064054,San Diego County
 92115,University Av & College Av,32.753066,-117.064218,San Diego County
 92120,Navajo Rd & Margerum Av,32.796657,-117.064224,San Diego County
 92114,Imperial Av & 63rd St,32.710129,-117.062423,San Diego County
@@ -758,7 +662,6 @@ Zip Code,stop_name,lat,lng,county
 92119,Jackson Dr & Hyde Park Dr,32.802545,-117.044641,San Diego County
 92114,Madera St & Shirley Ln,32.72601,-117.043444,San Diego County
 92114,Skyline Dr & Sychar Rd,32.703552,-117.04267,San Diego County
-92112,El Cajon Bl & Keeney St,32.768904,-117.038072,San Diego County
 92114,Skyline Dr & Siena St,32.702876,-117.036569,San Diego County
 91941,University Av & Lowell St,32.758014,-117.036993,San Diego County
 92114,San Vicente St & Meadowbrook Dr,32.7087,-117.035252,San Diego County
@@ -767,7 +670,6 @@ Zip Code,stop_name,lat,lng,county
 92119,Jackson Dr & Lake Shore Dr,32.797903,-117.034726,San Diego County
 91941,University Av & Parks Av,32.760691,-117.032976,San Diego County
 92114,San Vicente St & Rytko St,32.710896,-117.031806,San Diego County
-92112,El Cajon Bl & Parks Av,32.76839,-117.033952,San Diego County
 91941,La Mesa Bl & El Cajon Bl,32.768099,-117.029461,San Diego County
 91945,San Vicente St & Sawtelle Av,32.711957,-117.026649,San Diego County
 91945,Jamacha Rd & Osage Dr,32.718706,-117.023292,San Diego County
@@ -787,11 +689,9 @@ Zip Code,stop_name,lat,lng,county
 92109,Garnet Av & Everts St,32.798214,-117.248505,San Diego County
 92109,Grand Av & Everts St,32.796328,-117.247921,San Diego County
 92109,Garnet Av & Haines St,32.799436,-117.242928,San Diego County
-92017,Voltaire St & Ebers St,32.749047,-117.241544,San Diego County
 92109,Garnet Av & Ingraham St,32.799798,-117.241266,San Diego County
 92107,Voltaire St & Froude St,32.747959,-117.239792,San Diego County
 92109,Grand Av & Ingraham St,32.797942,-117.240702,San Diego County
-92017,W Mission Bay Dr & Dana Landing Rd,32.765727,-117.238212,San Diego County
 92107,West Point Loma Bl & Nimitz Bl,32.751284,-117.236365,San Diego County
 92107,Voltaire St & Mendocino Bl,32.745483,-117.235968,San Diego County
 92107,Voltaire St & Catalina Bl,32.744097,-117.234958,San Diego County
@@ -808,11 +708,8 @@ Zip Code,stop_name,lat,lng,county
 92110,West Point Loma Bl & Loma Riviera Dr,32.753591,-117.224281,San Diego County
 92122,Nobel Dr & Lebon Dr,32.8686,-117.225288,San Diego County
 92109,Garnet Av & Soledad Mountain Rd,32.804889,-117.224243,San Diego County
-92039,La Jolla Village Dr & Lebon Dr,32.87125,-117.223855,San Diego County
-92039,Arriba St & Regents Rd,32.861515,-117.223434,San Diego County
 92106,N Harbor Dr & Nimitz Bl,32.725791,-117.220514,San Diego County
 92109,Garnet Av & Bond St,32.805707,-117.221304,San Diego County
-92140,Grand Av & Bond St,32.802313,-117.220463,San Diego County
 92106,N Harbor Dr & Laning Rd,32.72715,-117.218637,San Diego County
 92110,Midway Dr & Duke St,32.753772,-117.217586,San Diego County
 92122,Nobel Dr & Regents Rd,32.867815,-117.219296,San Diego County
@@ -835,7 +732,6 @@ Zip Code,stop_name,lat,lng,county
 92117,Balboa Av & Mt Everest Bl,32.818047,-117.185762,San Diego County
 92117,Clairemont Mesa Bl & Longford St,32.834584,-117.183001,San Diego County
 92111,Balboa Av & Genesee Av,32.81932,-117.182429,San Diego County
-92145,Miramar Rd & Miramar Mall,32.877123,-117.183354,San Diego County
 92117,Clairemont Mesa Bl & Limerick Av,32.834558,-117.179192,San Diego County
 92103,Lewis St & Palmetto Wy,32.751857,-117.177858,San Diego County
 92121,Miramar Rd & Miramar Pl,32.87776,-117.179032,San Diego County
@@ -852,26 +748,16 @@ Zip Code,stop_name,lat,lng,county
 92111,Genesee Av & Richland St,32.791414,-117.163348,San Diego County
 92103,University Av & 4th Av,32.748309,-117.161857,San Diego County
 92121,Miramar Rd & Distribution Av,32.87925,-117.16281,CAL Fire San Diego Unit
-92018,Camino De La Reina & Camino De La Siesta,32.766543,-117.161051,San Diego County
 92103,Washington St & 5th Av,32.750043,-117.161189,San Diego County
-92133,Beagle St & Argyle St,32.807837,-117.160999,San Diego County
 92103,University Av & 6th Av,32.748452,-117.159963,San Diego County
 92111,Clairemont Mesa Bl & Ruffner St,32.832862,-117.159559,San Diego County
-92018,Camino De La Reina & Camino Del Arroyo,32.766816,-117.159072,San Diego County
 92108,Murray Canyon Rd & Mission Heights Rd,32.775527,-117.158183,San Diego County
 92126,Miramar Rd & Carroll Rd,32.882014,-117.156517,San Diego County
-92133,Balboa Av & Convoy St,32.821938,-117.155651,San Diego County
 92123,Vista Hill Av & Meadowlark Dr,32.794995,-117.154837,San Diego County
-92163,University Av & Vermont St,32.748624,-117.153785,San Diego County
-92133,Clairemont Mesa Bl & Convoy St,32.832902,-117.15382,San Diego County
 92101,Market St & 14th St,32.711657,-117.152203,San Diego County
 92126,Mira Mesa Bl & Montongo St,32.911988,-117.152596,San Diego County
 92101,Imperial Av & 16th St,32.706371,-117.149766,San Diego County
-92133,Clairemont Mesa Bl & Mercury St,32.832951,-117.149311,San Diego County
 92126,Miramar Rd & AleSmith Ct,32.88609,-117.149464,San Diego County
-92134,Logan Av & Beardsley St,32.702895,-117.146158,San Diego County
-92134,Market St & 20th St,32.71165,-117.146087,San Diego County
-92134,Market St & 22nd St,32.71165,-117.144211,San Diego County
 92126,Miramar Rd & Dowdy Dr,32.888183,-117.145859,San Diego County
 92116,Adams Av & Florida St,32.762562,-117.144029,San Diego County
 92111,Clairemont Mesa Bl & Kearny Mesa Rd,32.832988,-117.144611,San Diego County
@@ -879,26 +765,21 @@ Zip Code,stop_name,lat,lng,county
 92116,Adams Av & Panorama Dr (E),32.762949,-117.140272,San Diego County
 92126,Mira Mesa Bl & Camino Ruiz,32.91286,-117.1457,San Diego County
 92126,Miramar Rd & Cabot Dr,32.889758,-117.143149,San Diego County
-92134,Market St & 25th St,32.71171,-117.140776,CAL Fire San Diego Unit
-92018,Camino De La Reina & Qualcomm Wy,32.772019,-117.140615,San Diego County
 92113,Logan Av & Sampson St,32.698241,-117.13943,San Diego County
 92123,Aero Dr & John J Montgomery Dr,32.809861,-117.140571,San Diego County
 92113,Main St & 26th St,32.693532,-117.138496,San Diego County
-92134,C St & 26th St,32.716955,-117.138433,San Diego County
 92126,Mira Mesa Bl & New Salem St,32.913008,-117.138904,San Diego County
 92113,National Av & 27th St,32.696026,-117.135969,San Diego County
 92123,Balboa Av & 9020,32.821974,-117.134795,San Diego County
 92123,Gramercy Dr & Mobley St,32.802703,-117.135402,San Diego County
-92134,C St & 28th St,32.716983,-117.134118,San Diego County
 92126,Mira Mesa Bl & Westonhill Dr,32.913025,-117.136109,San Diego County
 92104,El Cajon Bl & Utah St,32.75548,-117.132826,San Diego County
 92108,Adams Av & Utah St,32.762977,-117.132957,San Diego County
 92126,Miramar Rd & Camino Ruiz,32.893853,-117.134472,San Diego County
 92126,Mira Mesa Bl & Greenford Dr,32.913741,-117.133235,San Diego County
-92137,Clairemont Mesa Bl & Overland Av,32.831596,-117.131363,San Diego County
 92116,El Cajon Bl & 30th St,32.755493,-117.130527,San Diego County
 92116,Adams Av & 30th St,32.762983,-117.130582,San Diego County
-92104,University Av & 30th St,32.748564,-117.130519,San Diego County
+92104,University Av & 30th St,32.748564,-117.130519,CAL Fire San Diego Unit
 92113,National Av & 30th St,32.696025,-117.129618,San Diego County
 92102,Beech St & Fern St,32.721379,-117.129679,San Diego County
 92104,University Av & Illinois St,32.748582,-117.128054,San Diego County
@@ -906,7 +787,6 @@ Zip Code,stop_name,lat,lng,county
 92104,El Cajon Bl & Illinois St,32.755497,-117.128019,San Diego County
 92102,Market St & 31st St,32.711785,-117.127652,San Diego County
 92123,Balboa Av & Ruffin Rd,32.822451,-117.129159,San Diego County
-92136,Main St & 32nd St,32.692796,-117.125665,San Diego County
 92113,National Av & 32nd St,32.696055,-117.125698,San Diego County
 92113,Ocean View Bl & 32nd St,32.701282,-117.125467,San Diego County
 92113,Imperial Av & 32nd St,32.706525,-117.125668,San Diego County
@@ -915,7 +795,6 @@ Zip Code,stop_name,lat,lng,county
 92102,Market St & 33rd St,32.711904,-117.122838,San Diego County
 92113,Ocean View Bl & 33rd St,32.701311,-117.122893,San Diego County
 92126,Mira Mesa Bl & Black Mountain Rd,32.917321,-117.12577,San Diego County
-92137,Clairemont Mesa Bl & Chesapeake Dr,32.832252,-117.122987,San Diego County
 92113,Imperial Av & Francis St,32.706136,-117.119677,San Diego County
 92113,Ocean View Bl & 35th St,32.70137,-117.119191,San Diego County
 92116,Adams Av & 35th St,32.763418,-117.117562,San Diego County
@@ -962,7 +841,6 @@ Zip Code,stop_name,lat,lng,county
 92115,Montezuma Rd & 54th St,32.771338,-117.079785,San Diego County
 92114,Olvera Av & Santa Isabel Dr,32.698567,-117.080146,San Diego County
 92105,Grape St & 55th St,32.727591,-117.077292,San Diego County
-92182,Montezuma Rd & 55th St,32.770867,-117.076628,San Diego County
 92120,Waring Rd & Princess View Dr,32.797209,-117.076257,San Diego County
 92114,Olvera Av & Las Flores Ter,32.699452,-117.075191,San Diego County
 92115,University Av & Chollas Pkwy,32.747987,-117.074891,San Diego County
@@ -998,9 +876,6 @@ Zip Code,stop_name,lat,lng,county
 92115,El Cajon Bl & 70th St,32.768844,-117.047496,San Diego County
 92119,Navajo Rd & Jackson Dr,32.803825,-117.04654,San Diego County
 91941,University Av & Massachusetts Av,32.755137,-117.04369,San Diego County
-92112,Broadway & Massachusetts Av,32.742691,-117.043367,CAL Fire San Diego Unit
-92112,El Cajon Bl & 73rd St,32.768945,-117.040779,San Diego County
-92112,Lake Murray Bl & Kiowa Dr,32.779557,-117.040247,San Diego County
 91941,University Av & Yale Av,32.755905,-117.04049,San Diego County
 92119,Jackson Dr & Golfcrest Dr,32.801554,-117.040193,San Diego County
 91942,Lake Murray Bl & Maryland Av,32.77972,-117.038481,San Diego County
@@ -1043,15 +918,10 @@ Zip Code,stop_name,lat,lng,county
 92109,Mission Bl & San Jose Pl,32.784812,-117.252993,San Diego County
 92037,La Jolla Shores Dr & Calle Frescota,32.857503,-117.253626,San Diego County
 92037,La Jolla Shores Dr & Discovery Way,32.869503,-117.248523,San Diego County
-92147,Cabrillo Memorial Hwy & Ft Rosecrans Cemetery Gate,32.684593,-117.244661,San Diego County
-92147,Cabrillo Memorial Hwy & Ft Rosecrans Cemetery Gate,32.68287,-117.244271,San Diego County
-92093,N Torrey Pines Rd & Expedition Way,32.871642,-117.243684,San Diego County
-92093,N Torrey Pines Rd & Science Park Rd,32.901424,-117.242815,San Diego County
 92109,Ingraham St & Grand Av,32.798164,-117.240431,San Diego County
 92106,Rosecrans St & Lawrence St,32.709645,-117.238617,San Diego County
 92106,Rosecrans St & McCall St,32.710596,-117.23838,San Diego County
 92109,Ingraham St & Fortuna Av,32.792455,-117.238733,San Diego County
-92093,Gilman Dr & Eucalyptus Grove Ln,32.875781,-117.23921,San Diego County
 92109,Ingraham St & La Playa Av,32.788997,-117.237718,San Diego County
 92109,Ingraham St & Moorland Dr,32.786901,-117.236985,San Diego County
 92109,Ingraham St & La Cima Dr,32.782923,-117.236651,San Diego County
@@ -1093,7 +963,6 @@ Zip Code,stop_name,lat,lng,county
 92109,Mission Bl & San Juan Pl,32.780342,-117.252422,San Diego County
 92037,La Jolla Shores Dr & Calle De Oro,32.859071,-117.253387,San Diego County
 92109,Mission Bl & Santa Clara Pl,32.782456,-117.252355,San Diego County
-92093,La Jolla Shores Dr & Scripps Institute,32.865725,-117.252085,San Diego County
 92037,La Jolla Shores Dr & Shellback Way,32.870224,-117.251456,San Diego County
 92106,Catalina Bl & NRAD (Gate 3),32.706454,-117.248913,San Diego County
 92106,Catalina Bl & Rosecroft Ln,32.712705,-117.248063,San Diego County
@@ -1103,21 +972,15 @@ Zip Code,stop_name,lat,lng,county
 92106,Catalina Bl & Wilcox St,32.718911,-117.246388,San Diego County
 92106,Catalina Bl & Talbot St,32.722291,-117.24546,San Diego County
 92106,Cabrillo Memorial Hwy & Ft Rosecrans Cemetery Gate,32.684792,-117.244526,San Diego County
-92147,Cabrillo Memorial Hwy & Ft Rosecrans Cemetery Gate,32.682858,-117.244121,San Diego County
-92017,Cable St & Voltaire St,32.750823,-117.244921,San Diego County
 92037,La Jolla Shores Dr & Poole St,32.87382,-117.244839,San Diego County
-92093,N Torrey Pines Rd & La Jolla Shores Dr,32.874579,-117.243543,San Diego County
 92109,Ingraham St & Grand Av,32.797617,-117.240037,San Diego County
 92106,Rosecrans St & Kellogg St,32.707738,-117.238953,San Diego County
-92093,N Torrey Pines Rd & UCSD Northpoint Drwy,32.889558,-117.242483,San Diego County
 92106,Rosecrans St & Lawrence St,32.709415,-117.238514,San Diego County
 92106,Rosecrans St & Owen St,32.712272,-117.237762,San Diego County
-92161,Gilman Dr & Eucalyptus Grove Ln,32.875266,-117.238755,San Diego County
 92106,Rosecrans St & Kona Wy,32.717184,-117.235925,San Diego County
 92109,Ingraham St & Moorland Dr,32.786754,-117.236691,San Diego County
 92109,Ingraham St & La Cima Dr,32.782699,-117.236525,San Diego County
 92109,Ingraham St & La Mancha Dr,32.784749,-117.236203,San Diego County
-92161,Gilman Dr & Villa La Jolla Dr,32.86466,-117.236193,San Diego County
 92106,Chatsworth Bl & Nimitz Bl,32.736982,-117.230709,San Diego County
 92106,Plum St & Macaulay St,32.731281,-117.229423,San Diego County
 92110,Rosecrans St & Garrison St,32.72533,-117.228436,San Diego County
@@ -1135,7 +998,6 @@ Zip Code,stop_name,lat,lng,county
 92122,Genesee Av & Calgary Dr,32.858282,-117.205563,San Diego County
 92122,Genesee Av & April Ct,32.850344,-117.203829,San Diego County
 92117,Clairemont Dr & Feather Av (S),32.817471,-117.20176,San Diego County
-92140,Clairemont Dr & Ute Dr,32.809082,-117.20084,San Diego County
 92110,Morena Bl & Cushman Av,32.767844,-117.19925,San Diego County
 92110,Morena Bl & Napa St,32.765604,-117.198178,San Diego County
 92110,Linda Vista Rd & Napa St,32.765085,-117.197001,San Diego County
@@ -1175,34 +1037,25 @@ Zip Code,stop_name,lat,lng,county
 92103,5th Av & Quince St,32.736826,-117.16018,San Diego County
 92101,11th Av & Market St,32.711396,-117.154534,San Diego County
 92123,Health Center Dr & Frost St (Sharp Mem),32.80006,-117.155354,San Diego County
-92133,Health Center Dr & Mesa College Dr,32.801713,-117.153252,San Diego County
-92133,Kearny Villa Rd & 3665,32.808099,-117.150848,San Diego County
 92101,Sigsbee St & Newton Av,32.70204,-117.149201,San Diego County
 92113,Main St & Cesar E Chavez Pkwy,32.698999,-117.146355,San Diego County
 92103,Park Bl & Polk Av,32.752053,-117.146118,San Diego County
 92103,Park Bl & Howard Av,32.753894,-117.146127,San Diego County
-92163,Park Bl & Monroe Av,32.758891,-117.146122,San Diego County
-92163,Park Bl & University Av,32.748226,-117.146154,San Diego County
-92134,Park Bl & Village Pl,32.732012,-117.14593,San Diego County
-92134,Park Bl & Zoo Pl,32.735057,-117.145607,San Diego County
 92113,Main St & Evans St,32.696763,-117.143163,San Diego County
 92113,Main St & Sampson St,32.695591,-117.141471,San Diego County
 92113,25th St & Imperial Av,32.706108,-117.140069,San Diego County
 92102,25th St & K St,32.708326,-117.140088,San Diego County
-92134,25th St & Island Av,32.710431,-117.140109,CAL Fire San Diego Unit
 92123,Sandrock Rd & Murray Ridge Rd,32.80363,-117.139395,San Diego County
 92104,Texas St & Meade Av,32.757128,-117.138717,San Diego County
 92104,30th St & Grape St,32.726417,-117.130096,San Diego County
 92104,30th St & Howard Av,32.753944,-117.130066,San Diego County
 92116,30th St & El Cajon Bl,32.754941,-117.130063,San Diego County
 92104,30th St & Dwight St,32.744105,-117.129964,San Diego County
-92104,30th St & North Park Wy,32.747224,-117.129963,San Diego County
+92104,30th St & North Park Wy,32.747224,-117.129963,CAL Fire San Diego Unit
 92123,Ruffin Rd & Ridgehaven Ct,32.819836,-117.12662,San Diego County
 92113,Main St & Rigel St,32.690108,-117.121829,San Diego County
 92126,Black Mountain Rd & Carroll Canyon Rd,32.902471,-117.123853,San Diego County
 92113,Main St & Thor St,32.687806,-117.118508,San Diego County
-92136,Main St & Vesta St,32.685466,-117.115124,San Diego County
-92136,Main St & Woden St,32.684342,-117.113504,San Diego County
 92129,Rancho Penasquitos Bl & Carmel Mountain Rd,32.959415,-117.115137,San Diego County
 91950,National City Bl & W Division St,32.682174,-117.110243,San Diego County
 91950,National City Bl & 2nd St,32.680893,-117.108732,San Diego County
@@ -1250,7 +1103,6 @@ Zip Code,stop_name,lat,lng,county
 91910,3rd Av & K St,32.623955,-117.072939,San Diego County
 92128,Bernardo Center Dr & Bernardo Center Ct,33.02787,-117.075585,San Diego County
 91911,3rd Av & Moss St,32.61703,-117.070241,San Diego County
-92182,College Av & Alvarado Rd,32.775589,-117.06766,San Diego County
 92115,College Av & Mesita Dr,32.766616,-117.067144,San Diego County
 92115,College Av & El Cajon Bl,32.760634,-117.066809,San Diego County
 92154,Picador Bl & Beyer Wy,32.581726,-117.061076,San Diego County
@@ -1281,7 +1133,6 @@ Zip Code,stop_name,lat,lng,county
 92037,La Jolla Shores Dr & Paseo Dorado,32.852728,-117.253754,San Diego County
 92037,La Jolla Shores Dr & Vallecitos Ct,32.85586,-117.253575,San Diego County
 92110,Taylor St & Sunset St,32.757383,-117.198239,San Diego County
-92140,Clairemont Dr & 3502,32.80434,-117.199851,San Diego County
 92110,Pacific Hwy & Sports Arena Bl,32.747352,-117.198121,San Diego County
 92110,Taylor St & Presidio Dr,32.759231,-117.196633,San Diego County
 92117,Genesee Av & Appleton St,32.837352,-117.195926,San Diego County
@@ -1311,24 +1162,16 @@ Zip Code,stop_name,lat,lng,county
 92101,4th Av & Fir St,32.725292,-117.161222,San Diego County
 92101,4th Av & Laurel St,32.731531,-117.161258,San Diego County
 92103,4th Av & Spruce St,32.738842,-117.161323,San Diego County
-92133,Linda Vista Rd & Korink Av (N),32.796825,-117.160863,San Diego County
 92108,Frazee Rd & Friars Rd,32.773455,-117.158503,San Diego County
 92101,10th Av & C St,32.716926,-117.155677,San Diego County
 92101,10th Av & Broadway,32.715977,-117.155664,San Diego County
 92101,10th Av & Market St,32.711767,-117.15564,San Diego County
-92133,Meadowlark Dr & Starling Dr,32.793525,-117.154382,San Diego County
-92133,Convoy St & Engineer Rd,32.827016,-117.154306,San Diego County
-92133,Mesa College Dr & Berger Av,32.803116,-117.151633,San Diego County
-92133,Kearny Villa Rd & I-805,32.804426,-117.15027,San Diego County
 92113,Sigsbee St & Newton Av,32.702313,-117.14912,San Diego County
 92101,Main St & Beardsley St,32.700215,-117.148419,San Diego County
-92163,Park Bl & Zoo Dr,32.74041,-117.147577,San Diego County
 92113,Main St & Cesar E Chavez Pkwy,32.698705,-117.146393,San Diego County
 92103,Park Bl & Polk Av,32.752569,-117.1465,San Diego County
 92103,Park Bl & Howard Av,32.753834,-117.146633,San Diego County
 92116,Park Bl & Monroe Av,32.759239,-117.146321,San Diego County
-92163,Park Bl & Madison Av,32.761146,-117.146331,San Diego County
-92163,Park Bl & University Av,32.748581,-117.146482,San Diego County
 92123,Murray Ridge Rd & Harjoan Av,32.79394,-117.144631,San Diego County
 92113,Main St & Evans St,32.69678,-117.143489,San Diego County
 92123,Murray Ridge Rd & Al Ct,32.797567,-117.142881,San Diego County
@@ -1343,7 +1186,6 @@ Zip Code,stop_name,lat,lng,county
 92109,Mission Bl & Santa Barbara Pl,32.774023,-117.251693,San Diego County
 92037,La Jolla Shores Dr & Downwind Way,32.867671,-117.252088,San Diego County
 92107,Cable St & Narragansett Av,32.744018,-117.250945,San Diego County
-92093,La Jolla Shores Dr & Biological Grade,32.86945,-117.251707,San Diego County
 92106,Catalina Bl & NRAD (Gate 3),32.705772,-117.248973,San Diego County
 92107,Cable St & Newport Av,32.745643,-117.249542,San Diego County
 92106,Catalina Bl & Electron Dr (Gate 2),32.709476,-117.249113,San Diego County
@@ -1351,17 +1193,11 @@ Zip Code,stop_name,lat,lng,county
 92106,Catalina Bl & Dupont St,32.715552,-117.247452,San Diego County
 92106,Cabrillo Memorial Hwy & Woodward St,32.696769,-117.24642,San Diego County
 92106,Catalina Bl & Lomaland Dr,32.718827,-117.246569,San Diego County
-92017,Cable St & Brighton Av,32.74905,-117.246611,San Diego County
-92093,La Jolla Shores Dr & Horizon Way,32.871272,-117.247628,San Diego County
 92106,Catalina Bl & Talbot St,32.722518,-117.245589,San Diego County
 92106,Cabrillo Memorial Hwy & Ft Rosecrans Cemetery Gate,32.688565,-117.244988,San Diego County
 92107,Cable St & Voltaire St,32.75083,-117.24509,San Diego County
 92037,La Jolla Shores Dr & Inyaha Ln,32.873984,-117.244955,San Diego County
-92093,N Torrey Pines Rd & La Jolla Shores Dr,32.874901,-117.243796,San Diego County
-92017,West Point Loma Bl & Sunset Cliffs Bl,32.750949,-117.241842,San Diego County
 92109,Ingraham St & Garnet Av,32.799502,-117.240843,San Diego County
-92093,N Torrey Pines Rd & Scripps Clinic Drwy,32.894078,-117.24126,CAL Fire San Diego Unit
-92093,N Torrey Pines Rd & Genesee Av,32.891359,-117.241405,CAL Fire San Diego Unit
 92109,Ingraham St & Reed Av,32.795727,-117.239665,San Diego County
 92109,Ingraham St & Pacific Beach Dr,32.793774,-117.239135,San Diego County
 92106,Rosecrans St & Owen St,32.712265,-117.237928,San Diego County
@@ -1369,19 +1205,13 @@ Zip Code,stop_name,lat,lng,county
 92106,Rosecrans St & Kona Wy,32.716119,-117.236433,San Diego County
 92106,Rosecrans St & Armada Pl,32.717852,-117.235926,San Diego County
 92109,Ingraham St & Vacation Rd,32.774678,-117.2353,San Diego County
-92017,Ingraham St & Dana Landing Rd,32.767415,-117.233696,San Diego County
 92106,Rosecrans St & Talbot St,32.720062,-117.233187,San Diego County
-92093,Gilman & Myers,32.876955,-117.234787,San Diego County
-92093,Gilman & Myers,32.87715,-117.234802,San Diego County
 92106,Rosecrans St & Nimitz Bl,32.728933,-117.225322,San Diego County
-92039,Palmilla Dr & Lebon Dr,32.864522,-117.2252,San Diego County
 92106,Rosecrans St & Russell St,32.732079,-117.223003,San Diego County
 92122,Genesee Av & Campus Point Dr,32.881551,-117.219718,CAL Fire San Diego Unit
-92039,Regents Rd & Nobel Dr,32.867239,-117.219378,San Diego County
 92106,Rosecrans St & Curtis St,32.738621,-117.217433,San Diego County
 92117,Clairemont Mesa Bl & 3305,32.829613,-117.214712,San Diego County
 92122,Genesee Av & Esplanade Ct,32.869959,-117.214192,San Diego County
-92039,La Jolla Village Dr & Genesee Av,32.872645,-117.214513,San Diego County
 92122,Genesee Av & Nobel Dr,32.866277,-117.213521,San Diego County
 92110,Rosecrans St & N Evergreen St,32.747059,-117.209635,San Diego County
 92110,Morena Bl & Littlefield St,32.780487,-117.207517,San Diego County
@@ -1454,26 +1284,14 @@ Zip Code,stop_name,lat,lng,county
 92103,4th Av & Nutmeg St,32.733263,-117.161279,San Diego County
 92103,4th Av & Upas St,32.740615,-117.161339,San Diego County
 92101,4th Av & Juniper St,32.72906,-117.161248,San Diego County
-92133,Linda Vista Rd & Mesa College Dr,32.800261,-117.158597,San Diego County
 92101,10th Av & F St,32.713487,-117.155632,San Diego County
 92101,10th Av & A St,32.718577,-117.155691,San Diego County
 92101,10th Av & Island Av,32.710233,-117.155602,San Diego County
-92133,Health Center Dr & Frost St (Sharp Mem),32.800078,-117.15551,San Diego County
 92101,Park Bl & B St,32.718299,-117.153867,San Diego County
-92133,Convoy St & Clairemont Mesa Bl,32.832053,-117.153401,San Diego County
-92134,Park Bl & Presidents Way,32.725386,-117.150769,San Diego County
-92133,Kearny Villa Rd & Aero Dr,32.809718,-117.151258,San Diego County
-92163,Park Bl & Cypress Av,32.74406,-117.14762,San Diego County
-92134,Park Bl & Inspiration Point Way,32.727301,-117.148614,San Diego County
-92163,Park Bl & Meade Av,32.756894,-117.146333,San Diego County
-92163,Park Bl & University Av,32.748068,-117.146422,San Diego County
-92134,Park Bl & Village Pl,32.732062,-117.146249,San Diego County
-92134,Park Bl & Zoo Pl,32.734815,-117.145946,San Diego County
 92123,Mission Center Rd & Sevan Ct,32.781986,-117.153431,San Diego County
 92126,Camino Ruiz & Reagan Rd,32.907818,-117.145522,San Diego County
 92126,Camino Ruiz & Mira Mesa Bl,32.912111,-117.144054,San Diego County
 92123,Murray Ridge Rd & Iverson St,32.802936,-117.14152,San Diego County
-92134,25th St & J St,32.709235,-117.140289,CAL Fire San Diego Unit
 92113,Main St & 26th St,32.692953,-117.13795,San Diego County
 92116,Texas St & Madison Av,32.760488,-117.13892,San Diego County
 92104,30th St & Polk Av,32.751997,-117.130235,San Diego County
@@ -1481,7 +1299,7 @@ Zip Code,stop_name,lat,lng,county
 92116,30th St & Monroe Av,32.758967,-117.130262,San Diego County
 92116,30th St & Adams Av,32.762589,-117.130315,San Diego County
 92104,30th St & Dwight St,32.743994,-117.130142,San Diego County
-92104,30th St & North Park Wy,32.74716,-117.130135,San Diego County
+92104,30th St & North Park Wy,32.74716,-117.130135,CAL Fire San Diego Unit
 92104,30th St & Juniper St,32.729853,-117.129659,San Diego County
 92102,30th St & Date St,32.723225,-117.130289,San Diego County
 92123,Ruffin Rd & Sky Park Ct,32.816582,-117.123892,San Diego County
@@ -1494,14 +1312,10 @@ Zip Code,stop_name,lat,lng,county
 92037,La Jolla Shores Dr & Downwind Way,32.868609,-117.251691,San Diego County
 92107,Cable St & Narragansett Av,32.744282,-117.250564,San Diego County
 92106,Catalina Bl & Mills St (Gate 2),32.708701,-117.249097,San Diego County
-92017,Cable St & Newport Av,32.746001,-117.249081,San Diego County
 92106,Catalina Bl & Electron Dr,32.710885,-117.24854,San Diego County
 92037,La Jolla Shores Dr & Discovery Way,32.869192,-117.248591,San Diego County
 92107,Cable St & Cape May Av,32.748481,-117.24694,San Diego County
-92093,La Jolla Shores Dr & Horizon Way,32.871445,-117.246942,San Diego County
 92106,Cabrillo Memorial Hwy & Ft Rosecrans Cemetery Gate,32.689273,-117.244857,San Diego County
-92147,Cabrillo Memorial Hwy & Cabrillo Rd,32.678368,-117.243284,San Diego County
-92093,N Torrey Pines Rd & Revelle College Dr,32.871606,-117.243423,San Diego County
 92109,Ingraham St & Garnet Av,32.800225,-117.240838,San Diego County
 92106,Rosecrans St & McCall St,32.710531,-117.238214,San Diego County
 92109,Ingraham St & Pacific Beach Dr,32.794177,-117.238967,San Diego County
@@ -1511,13 +1325,10 @@ Zip Code,stop_name,lat,lng,county
 92109,Ingraham St & Crown Point Dr,32.780206,-117.236142,San Diego County
 92109,Ingraham St & Vacation Rd,32.775338,-117.235138,San Diego County
 92106,Rosecrans St & Bessemer St,32.719194,-117.234136,San Diego County
-92017,Ingraham St & Perez Cove Wy,32.768125,-117.233522,San Diego County
 92106,Rosecrans St & Canon St,32.721639,-117.231572,San Diego County
 92106,Rosecrans St & Shelter Island Dr,32.72282,-117.230587,San Diego County
 92106,Rosecrans St & Laning Rd,32.732533,-117.222257,San Diego County
-92039,Regents Rd & Arriba St,32.861675,-117.222661,San Diego County
 92106,Rosecrans St & Lytton St,32.744094,-117.2128,San Diego County
-92039,Genesee Av & Nobel Dr,32.86734,-117.213497,San Diego County
 92122,Genesee Av & Decoro St,32.864643,-117.212608,San Diego County
 92110,Rosecrans St & N Evergreen St,32.747234,-117.208752,San Diego County
 92110,Morena Bl & Littlefield St,32.78061,-117.207209,San Diego County
@@ -1525,14 +1336,12 @@ Zip Code,stop_name,lat,lng,county
 92117,Clairemont Mesa Bl & Clairemont Dr,32.827862,-117.206567,San Diego County
 92117,Clairemont Dr & Lakehurst Av,32.831038,-117.205654,San Diego County
 92110,Rosecrans St & Sports Arena Bl,32.750994,-117.204744,San Diego County
-92140,Clairemont Dr & Indian Way,32.822182,-117.20507,San Diego County
 92122,Genesee Av & Governor Dr,32.855042,-117.204479,San Diego County
 92122,Genesee Av & Radcliffe Ln,32.852511,-117.203787,San Diego County
 92110,Rosecrans St & Moore St,32.753645,-117.202512,San Diego County
 92110,Morena Bl & Viola St,32.772132,-117.202025,San Diego County
 92117,Clairemont Dr & Feather Av (N),32.819833,-117.203768,San Diego County
 92117,Clairemont Dr & Dalles Av,32.815587,-117.200904,San Diego County
-92140,Clairemont Dr & Balboa Av,32.812518,-117.200809,San Diego County
 92117,Clairemont Dr & Rappahannock Av,32.805497,-117.200521,San Diego County
 92122,Genesee Av & Hwy 52 (Ramp),32.845906,-117.200945,San Diego County
 92110,Taylor St & Juan St,32.756561,-117.198582,San Diego County
@@ -1578,7 +1387,6 @@ Zip Code,stop_name,lat,lng,county
 92103,1st Av & Laurel St,32.731587,-117.163801,San Diego County
 92103,1st Av & Walnut Av,32.741946,-117.163717,San Diego County
 92103,1st Av & Brookes Av,32.743483,-117.163739,San Diego County
-92133,Linda Vista Rd & Wheatley St,32.79471,-117.162585,San Diego County
 92101,5th Av & B St,32.718031,-117.160052,San Diego County
 92101,5th Av & Beech St,32.721266,-117.16015,San Diego County
 92101,5th Av & Laurel St,32.731525,-117.160223,San Diego County
@@ -1586,24 +1394,12 @@ Zip Code,stop_name,lat,lng,county
 92101,5th Av & Hawthorn St,32.727455,-117.160142,San Diego County
 92103,5th Av & Nutmeg St,32.733752,-117.160175,San Diego County
 92103,5th Av & Upas St,32.740872,-117.160294,San Diego County
-92133,Linda Vista Rd & Daniel Av (N),32.796803,-117.160534,San Diego County
-92018,Frazee Rd & Friars Rd,32.773178,-117.157749,San Diego County
 92101,11th Av & F St,32.713998,-117.15459,San Diego County
 92101,11th Av & Broadway,32.716351,-117.154566,San Diego County
-92133,Convoy St & Balboa Av,32.822839,-117.154953,San Diego County
-92134,Park Bl & B St,32.718048,-117.153634,San Diego County
-92133,Meadowlark Dr & Starling Dr,32.793812,-117.154235,San Diego County
-92133,Convoy St & Engineer Rd,32.827033,-117.153955,San Diego County
-92133,Convoy St & Ronson Rd,32.829351,-117.153051,San Diego County
-92134,Park Bl & Presidents Way,32.725865,-117.150176,San Diego County
 92101,Main St & Beardsley St,32.700397,-117.148424,San Diego County
-92163,Park Bl & Cypress Av,32.744622,-117.147379,San Diego County
-92163,Park Bl & Upas St,32.741083,-117.147294,San Diego County
-92134,Park Bl & Naval Hospital,32.727812,-117.147029,San Diego County
 92103,Park Bl & El Cajon Bl,32.755741,-117.146106,San Diego County
 92103,Park Bl & Meade Av,32.757574,-117.146109,San Diego County
 92116,Park Bl & Madison Av,32.761222,-117.14613,San Diego County
-92163,Park Bl & University Av,32.748933,-117.146083,CAL Fire San Diego Unit
 92123,Murray Ridge Rd & Mission Center Rd,32.790116,-117.14468,San Diego County
 92123,Kearny Villa Rd & Balboa Av,32.822227,-117.143961,San Diego County
 92126,Camino Ruiz & Reagan Rd,32.908432,-117.144945,San Diego County
@@ -1615,7 +1411,7 @@ Zip Code,stop_name,lat,lng,county
 92104,30th St & Elm St,32.724656,-117.130079,San Diego County
 92104,30th St & Polk Av,32.75246,-117.130054,San Diego County
 92116,30th St & Monroe Av,32.759416,-117.130078,San Diego County
-92104,30th St & University Av,32.748799,-117.13006,San Diego County
+92104,30th St & University Av,32.748799,-117.13006,CAL Fire San Diego Unit
 92104,30th St & Juniper St,32.729893,-117.129507,San Diego County
 92104,30th St & Redwood St,32.737657,-117.129217,San Diego County
 92123,Gramercy Dr & Ruffin Rd,32.802284,-117.129768,San Diego County
@@ -1646,12 +1442,9 @@ Zip Code,stop_name,lat,lng,county
 92154,Beyer Wy & Palm Av,32.584449,-117.06163,San Diego County
 92120,College Av & Del Cerro Bl,32.783815,-117.061802,San Diego County
 92154,Picador Bl & Arey Dr,32.578896,-117.058895,San Diego County
-92112,College Av & Billman St,32.745713,-117.058478,San Diego County
 92128,Pomerado Rd & Espola Rd,33.018201,-117.060999,San Diego County
 92154,Picador Bl & Cedar Glen Wy,32.576023,-117.055733,San Diego County
 92154,Picador Bl & Del Sol Bl,32.574195,-117.054061,San Diego County
-92112,College Av & College Grove Dr,32.744661,-117.054107,San Diego County
-92112,College Av & Federal Bl,32.7416,-117.050164,San Diego County
 92114,Madera St & Primera St,32.720858,-117.048307,San Diego County
 92115,70th St & El Cajon Bl,32.769128,-117.046949,San Diego County
 92114,Madera St & Ramon St,32.723569,-117.045705,San Diego County
@@ -1676,8 +1469,6 @@ Zip Code,stop_name,lat,lng,county
 92101,N Harbor Dr & 2701,32.728529,-117.184548,San Diego County
 92103,Hotel Circle S & 1605,32.758941,-117.177987,San Diego County
 92103,Hotel Circle S & 875,32.75963,-117.17158,San Diego County
-92018,Camino De La Reina & Mission Valley West,32.767513,-117.156646,San Diego County
-92133,Balboa Av & Gerald Griffin Drwy,32.821599,-117.157994,San Diego County
 92126,Miramar Rd & Miramar Way,32.880023,-117.159281,San Diego County
 92108,Camino Del Rio S & 3505,32.777694,-117.118044,San Diego County
 92113,Ocean View Bl & 46th St,32.700422,-117.096228,San Diego County
@@ -1687,16 +1478,13 @@ Zip Code,stop_name,lat,lng,county
 92114,Jamacha Rd & 7629,32.712885,-117.036294,San Diego County
 91942,Baltimore Dr & Aztec Dr,32.777438,-117.029537,San Diego County
 91977,Jamacha Rd & 8205,32.716151,-117.029323,San Diego County
-92161,Nobel Dr & La Jolla Village Square Drwy,32.867766,-117.231688,San Diego County
 92117,Clairemont Dr & 4976 (Clairemont Town Square),32.832358,-117.204148,San Diego County
 92108,Hotel Circle S & 2201,32.759103,-117.182781,San Diego County
 92126,Black Mountain Rd & 10770 The Woods MHP,32.914509,-117.124601,San Diego County
-92136,Main St & Rigel St,32.689814,-117.121713,San Diego County
 92126,Black Mountain Rd & Hillery Dr,32.9126,-117.124449,San Diego County
 92126,Black Mountain Rd & Carroll Canyon Rd,32.902241,-117.124132,San Diego County
 92123,Ruffin Rd & Calle Fortunada,32.813748,-117.12127,San Diego County
 92113,Main St & Thor St,32.687518,-117.11842,San Diego County
-92136,Main St & Vesta St,32.685224,-117.115089,San Diego County
 92129,Rancho Penasquitos Bl & Carmel Mountain Rd,32.959009,-117.11497,San Diego County
 92129,Rancho Penasquitos Bl & Via Del Sud,32.953102,-117.108402,San Diego County
 92131,Willow Creek Rd & Old Grove Rd,32.899428,-117.107357,San Diego County
@@ -1739,7 +1527,6 @@ Zip Code,stop_name,lat,lng,county
 92114,Euclid Av & Hilltop Dr,32.715164,-117.085098,San Diego County
 92105,Euclid Av & Federal Bl,32.720511,-117.085038,San Diego County
 92105,Euclid Av & 54th St,32.723457,-117.085056,San Diego County
-92182,Collwood Bl & 4600,32.766378,-117.083707,San Diego County
 92115,Collwood Bl & 4400,32.76401,-117.083499,San Diego County
 92105,54th St & Haniman St,32.725788,-117.083306,San Diego County
 92128,Camino Del Norte & Paseo Montanoso,32.999836,-117.086529,San Diego County
@@ -1767,8 +1554,6 @@ Zip Code,stop_name,lat,lng,county
 92128,Bernardo Center Dr & Regalo Ln,33.026143,-117.074847,CAL Fire San Diego Unit
 91911,3rd Av & Moss St,32.616102,-117.070134,San Diego County
 92128,Carmel Mountain Rd & Camino Del Norte,32.99067,-117.072877,San Diego County
-92182,College Av & Cresita Dr,32.7685,-117.068596,San Diego County
-92182,College Av & Alvarado Rd,32.776161,-117.068017,San Diego County
 92115,College Av & Mesita Dr,32.766587,-117.067372,San Diego County
 92115,College Av & El Cajon Bl,32.760641,-117.067098,San Diego County
 92115,College Av & Arosa St,32.765006,-117.066934,San Diego County
@@ -1779,11 +1564,9 @@ Zip Code,stop_name,lat,lng,county
 92120,College Av & Rockhurst Dr,32.785243,-117.062788,San Diego County
 92115,70th St & Saranac St,32.770649,-117.047151,San Diego County
 92119,Jackson Dr & Navajo Rd,32.803442,-117.045834,San Diego County
-92112,Lake Murray Bl & Parkway Dr,32.77543,-117.044888,San Diego County
 91945,Massachusetts Av & Mt Vernon St,32.731243,-117.043065,San Diego County
 91945,Massachusetts Av & Rosemary Ln,32.733126,-117.043037,San Diego County
 92114,Meadowbrook Dr & Blackpool Rd,32.705239,-117.031492,San Diego County
-91239,Meadowbrook Dr & Skyline Dr,32.702196,-117.03077,San Diego County
 91941,La Mesa Bl & Lee Av,32.768029,-117.029645,San Diego County
 92114,Meadowbrook Dr & Brookmeadow Pl,32.699329,-117.02817,San Diego County
 91945,Skyline Dr & Palm St,32.733963,-117.02722,San Diego County
@@ -1792,7 +1575,6 @@ Zip Code,stop_name,lat,lng,county
 91945,Cardiff St & Jamacha Rd,32.716328,-117.025573,San Diego County
 92119,Lake Murray Bl & Lake Adlon Dr,32.796252,-117.016166,San Diego County
 92129,Carmel Mountain Rd & Via Rimini,32.966495,-117.099263,San Diego County
-92182,Fairmount Av & Talmadge Canyon Row,32.767384,-117.09666,San Diego County
 91950,Highland Av & 18th St,32.669967,-117.095364,San Diego County
 91950,Highland Av & 24th St,32.664726,-117.093342,San Diego County
 92113,47th St & Logan Av,32.697368,-117.093582,San Diego County
@@ -1833,9 +1615,7 @@ Zip Code,stop_name,lat,lng,county
 92128,Bernardo Center Dr & Bajada Pl,33.025588,-117.074327,San Diego County
 91911,3rd Av & Naples St,32.614135,-117.069103,San Diego County
 92128,Camino Del Norte & Paseo Lucido,32.991371,-117.072561,San Diego County
-92182,College Av & Lindo Paseo,32.772235,-117.069773,San Diego County
 91911,3rd Av & Oxford St,32.611057,-117.067896,San Diego County
-92182,College Av & Pontiac St,32.768775,-117.068508,San Diego County
 91911,3rd Av & Palomar St,32.6072,-117.066386,San Diego County
 92115,College Av & Arosa St,32.765544,-117.066737,San Diego County
 91911,3rd Av & Quintard St,32.604116,-117.065182,San Diego County
@@ -1887,16 +1667,9 @@ Zip Code,stop_name,lat,lng,county
 92102,30th St & A St,32.71876,-117.129646,San Diego County
 92101,Kettner Bl & Cedar St,32.722179,-117.16929,San Diego County
 92037,Girard Av & Kline St,32.843695,-117.273633,San Diego County
-92163,Park Bl & University Av,32.748836,-117.146283,San Diego County
-92163,Park Bl & University Av,32.74867,-117.146366,San Diego County
-92163,Park Bl & Howard Av,32.754341,-117.146326,San Diego County
-92163,Park Bl & Howard Av,32.753689,-117.146401,San Diego County
-92163,El Cajon Bl & Texas St,32.755177,-117.138223,San Diego County
 92103,Hotel Circle S & 1333,32.759027,-117.175315,San Diego County
 92108,Hotel Circle S & 625,32.760257,-117.169329,San Diego County
 92103,Hotel Circle S & Bachman Pl,32.760559,-117.166779,San Diego County
-92018,Camino De La Reina & Mission Valley West,32.767633,-117.155333,San Diego County
-92018,Camino De La Reina & Westfield Drwy,32.769976,-117.149508,San Diego County
 92108,Camino Del Rio N & 2655,32.772712,-117.134453,San Diego County
 92123,Balboa Av & 8965,32.821282,-117.13553,San Diego County
 92108,Camino Del Rio S & Point Loma Nazerene,32.777944,-117.107417,San Diego County
@@ -1915,19 +1688,16 @@ Zip Code,stop_name,lat,lng,county
 92131,Alliant University,32.89539,-117.095856,San Diego County
 92105,Streamview Dr & 5930,32.744706,-117.069265,San Diego County
 92115,University Av & Salvation Army Drwy,32.755324,-117.051771,San Diego County
-92112,Broadway & 7080,32.742663,-117.045119,San Diego County
 92103,N Harbor Dr & Liberator Way,32.729173,-117.18768,San Diego County
 92108,Hotel Circle N & 2270,32.759859,-117.184181,San Diego County
 92108,Hotel Circle N & 1650,32.759663,-117.178447,San Diego County
 92103,Hotel Circle N & 950,32.76052,-117.172299,San Diego County
 92103,Reynard Wy & 2850 (Opp),32.735369,-117.169294,San Diego County
 92126,Miramar Rd & Miramar Way,32.880289,-117.159489,San Diego County
-92018,Camino De La Reina & Park In The Valley Drwy,32.77008,-117.149873,San Diego County
 92111,Clairemont Mesa Bl & Industrial Park,32.832968,-117.146303,San Diego County
 92126,Miramar Rd & Northgate Plaza,32.892413,-117.138546,San Diego County
 92105,Bayview Heights Dr & 1737,32.723167,-117.078697,San Diego County
 92105,Streamview Dr & 5955,32.744349,-117.068802,San Diego County
-92137,Clairemont Mesa Bl & Ruffin Rd,32.831602,-117.128609,San Diego County
 92115,University Av & University Sq,32.750526,-117.070501,San Diego County
 92114,Lisbon St & 7170,32.712176,-117.043973,San Diego County
 91977,Jamacha Rd & 8204,32.716291,-117.029308,San Diego County
@@ -1937,23 +1707,18 @@ Zip Code,stop_name,lat,lng,county
 92037,La Jolla Shores Dr & Naga Way,32.865294,-117.252325,San Diego County
 92037,N Torrey Pines Rd & John Hopkins Dr,32.897802,-117.242077,San Diego County
 92122,Genesee Av & Centurion Sq,32.860863,-117.20945,San Diego County
-92134,Park Bl & Russ Bl,32.720529,-117.153815,San Diego County
 91942,Baltimore Dr & Aztec Dr,32.777005,-117.029325,San Diego County
-92093,N Torrey Pines Rd & John J Hopkins Dr,32.898471,-117.24182,San Diego County
 92122,Genesee Av & Centurion Sq,32.860756,-117.208719,San Diego County
 92123,Health Center Dr & Hope Stn,32.798628,-117.156013,San Diego County
-92134,Park Bl & San Diego High School,32.720834,-117.153399,San Diego County
 92123,Ruffin Rd & 3939,32.813892,-117.121092,San Diego County
 92109,Ingraham St & 3873,32.79036,-117.237811,San Diego County
 92128,West Bernardo Dr & W Bernardo Ct (Sharp Urgent Car,33.018865,-117.081056,San Diego County
 92128,West Bernardo Dr & 16911,33.021763,-117.081305,San Diego County
-92182,Campanile Dr & Montezuma Rd,32.77106,-117.071733,San Diego County
 91977,Sweetwater Rd & St George St,32.712831,-117.012525,San Diego County
 91941,La Mesa Bl & Culowee St,32.766213,-117.02742,San Diego County
 92106,Narragansett Av & Chatsworth Bl,32.733644,-117.233273,San Diego County
 92106,Narragansett Av & Chatsworth Bl,32.733874,-117.233367,San Diego County
 91941,La Mesa Bl & University Av,32.765228,-117.026556,San Diego County
-92039,Genesee Av & La Jolla Village Dr,32.872043,-117.214206,San Diego County
 92117,Clairemont Dr & Burgener Bl,32.794412,-117.194453,San Diego County
 92111,Comstock St & Linda Vista Rd,32.783027,-117.170914,San Diego County
 92111,Genesee Av & Osler St,32.793413,-117.169932,San Diego County
@@ -1994,8 +1759,6 @@ Zip Code,stop_name,lat,lng,county
 92121,Scranton Rd & Mira Sorrento Pl,32.894937,-117.2027,San Diego County
 92121,Mira Mesa Bl & Scranton Rd,32.892831,-117.20211,San Diego County
 92106,Catalina Bl & Garden Ln,32.713616,-117.247973,San Diego County
-92039,Nobel Dr & Towne Centre Dr,32.865799,-117.208891,San Diego County
-92161,Gilman Dr & Evening Way,32.869566,-117.237935,San Diego County
 92037,Gilman Dr & Evening Way,32.868806,-117.238184,San Diego County
 92131,Scripps Ranch Bl & Mira Mesa Bl,32.916398,-117.111208,San Diego County
 92131,Scripps Ranch Bl & Hibert St,32.913981,-117.110112,San Diego County
@@ -2007,7 +1770,6 @@ Zip Code,stop_name,lat,lng,county
 92131,Scripps Ranch Bl & Scripps Lake Dr,32.912159,-117.109729,San Diego County
 92131,Scripps Ranch Bl & Hibert St,32.913758,-117.1098,San Diego County
 92131,Mira Mesa Bl & Scripps Ranch Bl,32.916881,-117.112161,San Diego County
-92137,Clairemont Mesa Bl & Murphy Canyon Rd,32.832802,-117.121374,San Diego County
 92114,Imperial Av & Valencia Pkwy,32.708776,-117.073009,San Diego County
 92114,Imperial Av & Valencia Pkwy,32.708123,-117.074378,San Diego County
 92123,Kearny Villa Rd & Tech Way,32.825829,-117.144102,San Diego County
@@ -2019,7 +1781,6 @@ Zip Code,stop_name,lat,lng,county
 92101,Broadway & 9th Av,32.71565,-117.15663,San Diego County
 92126,Miramar Rd & Mitchner Way,32.89357,-117.13013,San Diego County
 92101,N Harbor Dr & Harbor Island Dr,32.729226,-117.196164,CAL Fire San Diego Unit
-92147,N Harbor Dr & Harbor Island Dr,32.729611,-117.195511,San Diego County
 92107,Point Loma Av & Sunset Cliffs Bl,32.73604,-117.254536,San Diego County
 92107,Sunset Cliffs Bl & Pescadero Av,32.737884,-117.253568,San Diego County
 92115,Montezuma Rd & Gary St,32.769724,-117.060845,San Diego County
@@ -2036,15 +1797,11 @@ Zip Code,stop_name,lat,lng,county
 92107,West Point Loma Bl & Mentone St,32.752373,-117.233573,San Diego County
 92103,Washington St & Pacific Hwy,32.740629,-117.184039,San Diego County
 92110,Washington St & India St,32.743033,-117.181287,San Diego County
-92163,University Av & Park Bl,32.748349,-117.146636,San Diego County
-92163,University Av & Park Bl,32.748513,-117.147123,San Diego County
 92110,Washington St & India St,32.743484,-117.181207,San Diego County
 92109,Bayard St & Garnet Av,32.797146,-117.253778,San Diego County
 92111,Clairemont Mesa Bl & Convoy St,32.832575,-117.155265,San Diego County
-92039,Genesee Av & La Jolla Village Dr,32.873217,-117.213832,San Diego County
 92103,Friars Rd & Avenida De Las Tiendas,32.770057,-117.165739,San Diego County
 92108,Friars Rd & Via De La Moda,32.769565,-117.168014,San Diego County
-92163,University Av & 8th Av,32.748308,-117.157548,San Diego County
 92108,Camino De La Reina & Avenida Del Rio,32.765937,-117.163543,San Diego County
 92103,Camino De La Reina & Avenida Del Rio,32.766058,-117.163814,San Diego County
 92120,Mission Gorge Rd & Twain Av,32.784645,-117.097848,San Diego County
@@ -2054,17 +1811,13 @@ Zip Code,stop_name,lat,lng,county
 92116,Rancho Mission Rd & San Diego Mission Rd,32.784447,-117.110497,San Diego County
 92116,Ward Rd & Mission San Diego Trolley,32.781564,-117.110507,San Diego County
 92116,Mission Gorge Rd & Fairmount Av,32.781676,-117.100757,San Diego County
-92182,Mission Gorge Rd & Mission Gorge Pl,32.782781,-117.09864,San Diego County
 92120,Mission Gorge Rd & Zion Av,32.792217,-117.097452,San Diego County
 91941,Allison Av & Date Av,32.766155,-117.022156,San Diego County
 91950,8th St & C Av,32.676834,-117.103551,San Diego County
 92106,Cabrillo Memorial Hwy & Safety & Environment,32.701723,-117.249021,San Diego County
 92106,Cabrillo Memorial Hwy & Safety & Environment,32.701713,-117.249158,San Diego County
 92115,El Cajon Bl & Winona Av,32.756539,-117.087705,San Diego County
-92039,Genesee Av & Scripps Hospital,32.884236,-117.222171,San Diego County
-92039,Genesee Av & Campus Point Dr,32.882486,-117.220432,San Diego County
 92121,Genesee Av & Eastgate Mall,32.8779,-117.213883,San Diego County
-92039,Genesee Av & Scripps Hospital,32.88448,-117.222004,San Diego County
 92065,Main St & 11th St,33.04145,-116.869776,San Diego County
 92065,Main St & 14th St,33.038474,-116.87522,San Diego County
 92065,Day St & Main St,33.035742,-116.881188,San Diego County
@@ -2139,13 +1892,10 @@ Zip Code,stop_name,lat,lng,county
 91978,Jamacha Bl & Calavo Dr,32.731268,-116.959963,San Diego County
 91941,Calle Verde & Via Mercado,32.747795,-116.958405,San Diego County
 92020,Madison Av & Ballantyne St,32.800983,-116.958583,San Diego County
-92022,Broadway & Ballantyne St,32.807817,-116.958787,San Diego County
 92020,Washington Av & Lincoln Av,32.787776,-116.953901,San Diego County
 92020,Washington Av & Mollison Av,32.787766,-116.951363,San Diego County
 92020,Madison Av & Mollison Av,32.800369,-116.9516,San Diego County
-92022,Broadway & Mollison Av,32.807824,-116.951744,San Diego County
 92019,Washington Av & 1st St,32.787792,-116.945184,San Diego County
-92022,Broadway & 1st St,32.807848,-116.94517,San Diego County
 92019,Washington Av & Ballard St,32.787773,-116.941706,San Diego County
 92019,Washington Av & South 2nd St,32.78779,-116.937678,San Diego County
 91978,Cuyamaca College Dr & Jamacha Rd,32.741529,-116.939063,San Diego County
@@ -2228,7 +1978,6 @@ Zip Code,stop_name,lat,lng,county
 92071,Woodglen Vista Dr & Magnolia Av,32.865867,-116.971428,San Diego County
 92071,Magnolia Av & Mast Bl,32.854714,-116.9712,San Diego County
 92020,Johnson Av & Grant Av,32.786015,-116.970931,San Diego County
-92022,Magnolia Av & Rockvill St,32.836783,-116.966479,San Diego County
 92021,Graves Av & Bradley Av,32.818537,-116.959085,San Diego County
 92021,2nd St & Persimmon Av,32.81069,-116.935842,San Diego County
 92021,2nd St & Greenfield Dr,32.812902,-116.935846,San Diego County
@@ -2540,7 +2289,6 @@ Zip Code,stop_name,lat,lng,county
 91941,Campo Rd & Bonita St,32.747876,-116.9842,San Diego County
 91977,Jamacha Bl & Maya St,32.713599,-116.979607,San Diego County
 91978,Campo Rd & Granada Av,32.747818,-116.979123,San Diego County
-92022,Mission Gorge Rd & Cottonwood Av,32.838364,-116.973049,San Diego County
 92071,Woodglen Vista Dr & Woodpark Dr,32.865882,-116.973936,San Diego County
 92020,Washington Av & Johnson Av,32.787604,-116.97124,San Diego County
 91978,Jamacha Bl & Sweetwater Springs Bl,32.725348,-116.969004,San Diego County
@@ -2590,18 +2338,14 @@ Zip Code,stop_name,lat,lng,county
 92020,Fletcher Pkwy & Cuyamaca St,32.807248,-116.978717,San Diego County
 92020,W Main St & Richfield Av,32.794875,-116.9734,San Diego County
 92020,Fletcher Pkwy & Johnson Av,32.807484,-116.969333,San Diego County
-92022,Mission Gorge Rd & Edgemoor Dr,32.838313,-116.970359,San Diego County
 92020,Washington Av & Emerald Av,32.78759,-116.968467,San Diego County
 92020,Washington Av & Magnolia Av,32.787582,-116.961849,San Diego County
 92020,Madison Av & Magnolia Av,32.800856,-116.961458,San Diego County
-92022,Broadway & Graves Av,32.807558,-116.959885,San Diego County
 91978,Jamacha Bl & Trace Rd,32.73339,-116.958042,San Diego County
 92020,Madison Av & Ballantyne St,32.800854,-116.957495,San Diego County
-92022,Broadway & Ballantyne St,32.807579,-116.957724,San Diego County
 92020,Washington Av & Avocado Av,32.787572,-116.95729,San Diego County
 92020,Washington Av & Lincoln Av,32.787562,-116.953399,San Diego County
 92020,Washington Av & Mollison Av,32.787565,-116.950301,San Diego County
-92022,Broadway & Mollison Av,32.807597,-116.950613,San Diego County
 92019,Washington Av & Anza St,32.787568,-116.947887,San Diego County
 92019,Washington Av & 1st St,32.787578,-116.944177,San Diego County
 92021,Madison Av & 1st St (Wells Park),32.800129,-116.943427,San Diego County
@@ -2653,7 +2397,6 @@ Zip Code,stop_name,lat,lng,county
 91978,Jamacha Rd & Campo Rd,32.739934,-116.94109,San Diego County
 92020,Madison Av & June Wy,32.800276,-116.948144,San Diego County
 92019,Washington Av & Anza St,32.787779,-116.947992,San Diego County
-92022,Broadway & Anza St,32.80783,-116.947803,San Diego County
 92021,Madison Av & 1st St,32.800274,-116.944108,San Diego County
 92021,Madison Av & 2nd St,32.800276,-116.934752,San Diego County
 92019,Washington Av & Dorothy St,32.787784,-116.93337,San Diego County
@@ -2753,9 +2496,7 @@ Zip Code,stop_name,lat,lng,county
 91901,Arnold Wy & Alpine Village Apts,32.835903,-116.770117,San Diego County
 91901,Alpine Bl & Ramsey Rd,32.835183,-116.76161,San Diego County
 91901,Alpine Bl & Louise Dr,32.834644,-116.756732,San Diego County
-91903,Willows Rd & Viejas Casino,32.841351,-116.705756,San Diego County
 92064,Poway Rd & Carriage Heights Wy,32.95648,-117.051011,San Diego County
-92112,Broadway & 7081,32.742389,-117.045946,San Diego County
 92064,Poway Rd & Poway Plaza,32.956361,-117.042622,San Diego County
 91977,Jamacha Bl & San Miguel St,32.707765,-116.990001,San Diego County
 92020,Parkway Plaza Transit Center,32.8046,-116.967692,San Diego County
@@ -2826,11 +2567,9 @@ Zip Code,stop_name,lat,lng,county
 92071,Mast Bl & Fanita Pkwy,32.85025,-117.004273,San Diego County
 92071,Magnolia Av & Alexander Wy,32.836015,-116.965714,San Diego County
 92021,Graves Av & 8253,32.826962,-116.961341,San Diego County
-92022,Bradley Av & Graves Av,32.81902,-116.956436,San Diego County
 92021,Bradley Av & 425,32.819015,-116.95491,San Diego County
 92021,Bradley Av & Sams Hill Rd,32.819017,-116.953012,San Diego County
 92021,Mollison Av & Pepper Dr,32.823145,-116.949699,San Diego County
-92022,Pepper Dr & Marlinda Wy,32.82524,-116.953879,San Diego County
 92021,Pepper Dr & Graves Av,32.82502,-116.960609,San Diego County
 92021,Pepper Dr & Vulcan St,32.825024,-116.958555,San Diego County
 92021,Pepper Dr & Garywood St,32.825032,-116.953841,San Diego County
@@ -3048,7 +2787,6 @@ Zip Code,stop_name,lat,lng,county
 92118,4th St & Palm Av,32.695974,-117.178557,San Diego County
 92118,4th St & E Av,32.695286,-117.176862,San Diego County
 92118,4th St & Orange Av,32.6942,-117.174296,San Diego County
-92135,1st St & B Av,32.69762,-117.169736,San Diego County
 92113,National Av & 16th St,32.704152,-117.150153,San Diego County
 91932,Imperial Beach Bl & Seacoast Dr,32.576554,-117.13068,San Diego County
 91932,Palm Av & 2nd St,32.583858,-117.129269,San Diego County
@@ -3084,7 +2822,6 @@ Zip Code,stop_name,lat,lng,county
 92118,Pomona Av & Glorietta Pl,32.693136,-117.170365,San Diego County
 92118,2nd St & Soledad Pl,32.695435,-117.168367,San Diego County
 92113,National Av & 16th St,32.70413,-117.149889,San Diego County
-92136,National Av & Cesar E Chavez Pkwy,32.700556,-117.144723,San Diego County
 91932,Imperial Beach Bl & 3rd St,32.576735,-117.127251,San Diego County
 91932,Imperial Beach Bl & 4th St,32.576718,-117.124598,San Diego County
 91932,Palm Av & 5th St,32.584019,-117.122106,San Diego County
@@ -3113,8 +2850,6 @@ Zip Code,stop_name,lat,lng,county
 92118,3rd St & E Av,32.697012,-117.176416,San Diego County
 92118,3rd St & Orange Av,32.69613,-117.174294,San Diego County
 92118,3rd St & C Av,32.695581,-117.172988,San Diego County
-92135,1st St & B Av,32.697959,-117.170067,San Diego County
-92134,National Av & Beardsley St,32.702011,-117.146799,San Diego County
 91932,Palm Av & 3rd St,32.584074,-117.127207,San Diego County
 91932,Palm Av & 4th St,32.584101,-117.125396,San Diego County
 91932,Imperial Beach Bl & California St,32.576706,-117.121995,San Diego County
@@ -3149,7 +2884,6 @@ Zip Code,stop_name,lat,lng,county
 91932,Seacoast Dr & Evergreen Av,32.579635,-117.131782,San Diego County
 91932,Seacoast Dr & Dahlia Av,32.583288,-117.131766,San Diego County
 91932,9th St & Ebony Av,32.577329,-117.114386,San Diego County
-92136,Main St & Yama St,32.683543,-117.112684,San Diego County
 91932,Silver Strand Bl & 7th St,32.584395,-117.118282,San Diego County
 91932,13th St & Holly Av,32.571644,-117.105835,San Diego County
 91932,13th St & Imperial Beach Bl,32.575888,-117.105802,San Diego County
@@ -3173,7 +2907,6 @@ Zip Code,stop_name,lat,lng,county
 92118,Orange Av & 2nd St,32.697178,-117.173394,San Diego County
 92118,Silver Strand Bl & Avenida De Las Arenas,32.676463,-117.171881,San Diego County
 92118,Glorietta Bl & 2nd Av,32.694465,-117.166852,San Diego County
-92155,Silver Strand Bl & Tarawa Rd,32.672565,-117.167083,San Diego County
 91932,9th St & Palm Av,32.583458,-117.114381,San Diego County
 91932,9th St & Elm Av,32.580424,-117.114364,San Diego County
 91950,National City Bl & Roosevelt Av,32.681906,-117.110061,San Diego County
@@ -3202,7 +2935,6 @@ Zip Code,stop_name,lat,lng,county
 92173,San Ysidro Bl & I-805 (Ramp),32.551866,-117.041431,San Diego County
 92173,San Ysidro Bl & Center St,32.551332,-117.039398,San Diego County
 92118,Orange Av & Adella Av  (Hotel del Coronado),32.682256,-117.177782,San Diego County
-92134,Cesar E Chavez Pkwy & National Av,32.701119,-117.144391,San Diego County
 91932,Seacoast Dr & Palm Av,32.583735,-117.131599,San Diego County
 91932,13th St & Holly Av,32.571349,-117.105602,San Diego County
 91932,13th St & Grove Av,32.572762,-117.10558,San Diego County
@@ -3228,7 +2960,6 @@ Zip Code,stop_name,lat,lng,county
 92118,Orange Av & 8th St,32.688915,-117.177865,San Diego County
 92118,Orange Av & 7th St,32.690348,-117.177022,San Diego County
 92118,Orange Av & 6th St,32.691789,-117.176179,San Diego County
-92135,Orange Av & 5th St,32.693181,-117.175358,San Diego County
 92118,Orange Av & 4th St,32.694619,-117.174518,San Diego County
 92118,Orange Av & 2nd St,32.697493,-117.172822,San Diego County
 92118,Silver Strand Bl & NAB Main Gate,32.67156,-117.165503,CAL Fire San Diego Unit
@@ -3275,9 +3006,7 @@ Zip Code,stop_name,lat,lng,county
 92154,Outer Rd & 1027,32.577967,-117.082352,San Diego County
 92118,Prospect Pl & 3rd St,32.694196,-117.167854,San Diego County
 92118,Orange Av & 4th St,32.694183,-117.175174,San Diego County
-92134,National Av & Beardsley St,32.701876,-117.146885,San Diego County
 92154,Saturn Bl & Coronado Av,32.576134,-117.092869,San Diego County
-92155,Silver Strand Bl & Leyte Rd,32.648352,-117.148677,San Diego County
 92154,Palm Av & Piccard Av,32.583578,-117.050293,San Diego County
 92154,Palm Av & Twining Av,32.583594,-117.045271,San Diego County
 92154,Palm Av & Kostner Dr,32.583619,-117.041369,San Diego County
@@ -3290,8 +3019,6 @@ Zip Code,stop_name,lat,lng,county
 92154,Palm Av & Delcardo Av,32.583854,-117.042079,San Diego County
 92154,Palm Av & Twining Av,32.583835,-117.044945,San Diego County
 92154,Palm Av & Piccard Av,32.583785,-117.050723,San Diego County
-92147,Lindbergh Field & Terminal 1 (Baggage Claim),32.732133,-117.197756,San Diego County
-92147,Lindbergh Field & Terminal 2 West,32.731419,-117.20301,CAL Fire San Diego Unit
 92154,Palm Av & Dennery Rd (Kaiser),32.584025,-117.032838,San Diego County
 91932,Seacoast Dr & Daisy Av,32.581859,-117.131765,San Diego County
 92154,Hollister St & Leon Av,32.566652,-117.083937,San Diego County
@@ -3301,21 +3028,14 @@ Zip Code,stop_name,lat,lng,county
 92154,Otay Mesa Rd & Heritage Rd,32.56805,-116.99624,San Diego County
 92154,Otay Mesa Rd & Cactus Rd,32.56794,-116.987657,San Diego County
 92173,Britannia Bl & Otay Mesa Rd,32.567381,-116.979925,San Diego County
-92179,Airway Rd & Britannia Bl,32.560517,-116.978268,San Diego County
 92154,Airway Rd & Dublin Dr,32.560627,-116.975049,San Diego County
-92179,Airway Rd & 7847,32.560544,-116.971949,San Diego County
 92154,Siempre Viva Rd & Drucker Ln,32.552966,-116.948694,San Diego County
 92154,Siempre Viva Rd & Customhouse Plaza,32.552922,-116.945704,San Diego County
-92179,Siempre Viva Rd & Otay Center Dr,32.553595,-116.942796,San Diego County
 92154,Via De La Amistad & Roll Dr,32.552821,-116.93677,San Diego County
-92179,Siempre Viva Rd & Otay Center Dr,32.553915,-116.942655,San Diego County
-92179,Siempre Viva Rd & Customhouse Plaza,32.553224,-116.944824,San Diego County
 92154,Siempre Viva Rd & Drucker Ln,32.553313,-116.949975,San Diego County
 92154,Airway Rd & Excellante St,32.560632,-116.969532,San Diego County
-92179,Airway Rd & 7878,32.560756,-116.972717,San Diego County
 92154,Airway Rd & Dublin Dr,32.560781,-116.975975,San Diego County
 92154,Airway Rd & Britannia Bl,32.560782,-116.978156,San Diego County
-92179,Otay Mesa Rd & Britannia Bl,32.5681,-116.979408,San Diego County
 92154,Otay Mesa Rd & Cactus Rd,32.568301,-116.98889,San Diego County
 92101,1st Av & C St,32.716866,-117.16371,San Diego County
 92128,Rancho Bernardo Rd & Pomerado Rd,33.01883,-117.061429,San Diego County
@@ -3403,10 +3123,7 @@ Zip Code,stop_name,lat,lng,county
 92139,Woodman St & Alscacia St,32.683438,-117.043168,San Diego County
 92139,Woodman St & Alcona St,32.686892,-117.045019,San Diego County
 92139,Paradise Valley Rd & Woodman St,32.689022,-117.045877,San Diego County
-91239,Paradise Valley Rd & Briarwood Rd,32.69171,-117.036332,San Diego County
-91239,Paradise Valley Rd & Parkwood Dr,32.693279,-117.032638,San Diego County
 92114,Paradise Valley Rd & Deep Dell Rd,32.695242,-117.029899,San Diego County
-91239,Paradise Valley Rd & Parkwood Dr,32.693181,-117.033326,San Diego County
 92114,Paradise Valley Rd & Briarwood Rd,32.691767,-117.037363,San Diego County
 92139,Woodman St & Paradise Valley Rd,32.688556,-117.046445,San Diego County
 92139,Woodman St & Doriana St,32.686479,-117.045032,San Diego County
@@ -3428,7 +3145,6 @@ Zip Code,stop_name,lat,lng,county
 92123,Ruffin Rd & Aero Dr,32.809416,-117.129784,San Diego County
 92123,Ruffin Rd & Village Glen Dr,32.805245,-117.12887,San Diego County
 92123,Ruffin Rd & Mission Village Dr,32.802174,-117.128615,San Diego County
-92182,Collwood Bl & Montezuma Rd,32.769286,-117.085728,San Diego County
 92126,Gold Coast Dr & Camino Ruiz,32.905247,-117.145241,San Diego County
 92126,Gold Coast Dr & Saluda Av,32.905307,-117.143036,San Diego County
 92126,Gold Coast Dr & San Ramon Dr,32.905408,-117.139688,San Diego County
@@ -3469,11 +3185,6 @@ Zip Code,stop_name,lat,lng,county
 92020,El Cajon Transit Center,32.792132,-116.975774,San Diego County
 91950,H Street Transit Center,32.629604,-117.095044,San Diego County
 91950,H Street Transit Center,32.629779,-117.094606,San Diego County
-92136,8th Street Transit Center,32.674467,-117.113027,San Diego County
-92136,8th Street Transit Center,32.674895,-117.113207,San Diego County
-92136,8th Street Transit Center,32.675079,-117.113287,San Diego County
-92136,8th Street Transit Center,32.675339,-117.113374,San Diego County
-92136,8th Street Transit Center,32.675528,-117.11345,San Diego County
 92173,San Ysidro Station,32.544566,-117.029539,San Diego County
 92173,Beyer Blvd Station,32.557656,-117.047062,San Diego County
 92173,Beyer Blvd Station,32.557453,-117.046839,San Diego County
@@ -3489,13 +3200,7 @@ Zip Code,stop_name,lat,lng,county
 91950,E Street Station,32.638845,-117.099066,San Diego County
 91950,24th Street Station,32.661965,-117.108006,San Diego County
 91950,24th Street Station,32.661704,-117.108005,San Diego County
-92136,8th Street Station,32.675019,-117.113095,San Diego County
-92136,8th Street Station,32.674733,-117.113082,San Diego County
-92136,Barrio Logan Station,32.698127,-117.146665,San Diego County
-92136,Barrio Logan Station,32.697886,-117.146456,San Diego County
 92071,Santee Town Center Station,32.841558,-116.981132,San Diego County
-92022,Gillespie Field Station,32.826996,-116.98208,CAL Fire San Diego Unit
-92022,Gillespie Field Station,32.826764,-116.982042,CAL Fire San Diego Unit
 92020,Arnele Avenue Station,32.804661,-116.975685,San Diego County
 92020,Arnele Avenue Station,32.804489,-116.975773,San Diego County
 92020,El Cajon Station,32.792065,-116.976139,San Diego County
@@ -3504,8 +3209,6 @@ Zip Code,stop_name,lat,lng,county
 91942,Amaya Drive Station,32.785413,-117.001606,San Diego County
 91942,Grossmont Station,32.781642,-117.011267,San Diego County
 91942,Grossmont Station,32.781608,-117.01147,San Diego County
-92112,70th Street Station,32.772147,-117.042295,San Diego County
-92112,70th Street Station,32.77229,-117.042484,San Diego County
 91941,La Mesa Blvd Station,32.765137,-117.020565,San Diego County
 91941,La Mesa Blvd Station,32.764905,-117.020531,San Diego County
 91941,Spring Street Station,32.756907,-117.017385,CAL Fire San Diego Unit
@@ -3520,24 +3223,11 @@ Zip Code,stop_name,lat,lng,county
 92110,Morena/Linda Vista Station,32.763586,-117.196849,San Diego County
 92103,Fashion Valley Station,32.765471,-117.169152,San Diego County
 92103,Fashion Valley Station,32.765453,-117.168905,San Diego County
-92018,Hazard Center Station,32.770257,-117.158152,San Diego County
-92018,Hazard Center Station,32.770238,-117.15841,San Diego County
-92018,Mission Valley Center Station,32.771083,-117.149856,San Diego County
-92018,Mission Valley Center Station,32.771093,-117.150135,San Diego County
-92018,Rio Vista Station,32.773633,-117.141967,San Diego County
-92018,Rio Vista Station,32.773621,-117.141699,San Diego County
 92108,Fenton Parkway Station,32.77827,-117.127237,San Diego County
 92108,Fenton Parkway Station,32.77837,-117.127008,San Diego County
-92182,Stadium Station,32.780929,-117.119492,San Diego County
-92182,Stadium Station,32.781025,-117.119711,San Diego County
 92116,Mission San Diego Station,32.780983,-117.111105,San Diego County
 92116,Mission San Diego Station,32.780814,-117.110979,San Diego County
-92182,Grantville Station,32.780398,-117.097384,San Diego County
-92182,Grantville Station,32.78054,-117.097559,San Diego County
-92182,SDSU Station,32.773275,-117.070638,San Diego County
-92182,SDSU Station,32.773165,-117.070372,San Diego County
 92120,Alvarado Station,32.777309,-117.056707,San Diego County
-92182,Alvarado Station,32.777422,-117.056918,San Diego County
 92114,Encanto/62nd St Station,32.71013,-117.063361,San Diego County
 92114,Encanto/62nd St Station,32.710084,-117.06311,San Diego County
 92105,Euclid Ave Station,32.709584,-117.086129,San Diego County
@@ -3575,31 +3265,13 @@ Zip Code,stop_name,lat,lng,county
 92101,12th & Imperial Station (Bayside),32.705234,-117.1539,San Diego County
 92101,12th & Imperial Station,32.70587,-117.153218,San Diego County
 92101,12th & Imperial Station,32.705785,-117.153326,San Diego County
-92136,Harborside Station,32.691326,-117.132864,San Diego County
-92136,Harborside Station,32.691152,-117.132639,San Diego County
-92136,Pacific Fleet Station,32.686099,-117.124791,San Diego County
-92136,Pacific Fleet Station,32.685893,-117.124637,San Diego County
 92101,Courthouse Station,32.716716,-117.166024,San Diego County
 92110,Tecolote Road Station,32.769812,-117.205089,San Diego County
 92110,Tecolote Road Station,32.769914,-117.205062,San Diego County
 92110,Clairemont Drive Station,32.78998,-117.206187,San Diego County
 92110,Clairemont Drive Station,32.790065,-117.206129,San Diego County
-92140,Balboa Avenue Station,32.805738,-117.21406,San Diego County
-92140,Balboa Avenue Station,32.805858,-117.214066,San Diego County
-92161,Nobel Drive Station,32.866862,-117.230462,San Diego County
-92161,Nobel Drive Station,32.866966,-117.230388,San Diego County
-92161,VA Medical Center Station,32.874154,-117.22993,San Diego County
-92161,VA Medical Center Station,32.874253,-117.229818,San Diego County
-92093,UCSD Central Campus Station,32.878291,-117.231847,San Diego County
-92093,UCSD Central Campus Station,32.878441,-117.231779,San Diego County
-92092,UCSD Health La Jolla Station,32.881902,-117.223598,San Diego County
-92092,UCSD Health La Jolla Station,32.881816,-117.223492,CAL Fire San Diego Unit
-92039,Executive Drive Station,32.874168,-117.214025,CAL Fire San Diego Unit
-92039,Executive Drive Station,32.874136,-117.21405,San Diego County
-92039,UTC Station,32.869204,-117.214011,San Diego County
 92105,Wightman St & 40th St,32.747728,-117.109306,San Diego County
 92105,Euclid Av & Wightman St,32.747546,-117.092126,San Diego County
-92179,Gigantic St & Excellante St,32.562618,-116.968184,San Diego County
 92154,Otay Mesa Rd & Piper Ranch Rd,32.567527,-116.953329,San Diego County
 92040,Maple View St & Ashwood St,32.863381,-116.918013,San Diego County
 92113,47th St & Imperial Av,32.703739,-117.093507,San Diego County
@@ -3609,7 +3281,6 @@ Zip Code,stop_name,lat,lng,county
 92121,Miramar Rd & Eastgate Mall,32.877271,-117.187442,San Diego County
 92121,Miramar Rd & Eastgate Mall,32.87651,-117.186819,San Diego County
 92064,Hilleary Pl & Hilleary Park Dr,32.959959,-117.038764,San Diego County
-92137,Complex Dr & Clairemont Mesa Bl,32.831209,-117.134578,San Diego County
 92123,Kearny Villa Rd & Kearny Villa Way,32.830537,-117.14039,San Diego County
 92101,12th & Imperial Transit Center,32.705551,-117.152283,San Diego County
 92103,Sunset Bl & Witherby St,32.751317,-117.187561,San Diego County
@@ -3634,7 +3305,6 @@ Zip Code,stop_name,lat,lng,county
 92154,Britannia Bl & Otay Mesa Rd,32.567046,-116.97963,San Diego County
 92154,Britannia Park Pl & Britannia Bl,32.555139,-116.97939,San Diego County
 92154,Siempre Viva Rd & Britannia Bl,32.55353,-116.979407,San Diego County
-92179,Otay Mesa Rd & La Media Rd,32.567882,-116.961691,San Diego County
 91950,Plaza Bl & Harbison Ave,32.681662,-117.073845,San Diego County
 91950,Plaza Bl & Manchester St,32.684562,-117.070664,San Diego County
 92139,Paradise Valley Rd & Munda Rd,32.6889,-117.062692,San Diego County
@@ -3647,7 +3317,6 @@ Zip Code,stop_name,lat,lng,county
 91977,Bancroft Dr & Kenwood Dr,32.744701,-117.003355,San Diego County
 91977,Bancroft Dr & Kenwood Dr,32.744336,-117.003665,San Diego County
 92115,University Av & College Av,32.752148,-117.06626,San Diego County
-92179,Otay Mesa Rd & Britannia Bl,32.56775,-116.980213,San Diego County
 92071,Mission Gorge Rd & Hazeldon Dr,32.838424,-116.993857,San Diego County
 92105,Orange Av & 54th St,32.753086,-117.080312,San Diego County
 92071,Magnolia Av & El Nopal,32.862239,-116.971192,San Diego County
@@ -3666,12 +3335,7 @@ Zip Code,stop_name,lat,lng,county
 91915,Otay Ranch Station,32.624727,-116.96448,San Diego County
 91915,Millenia Station,32.617818,-116.964117,San Diego County
 91915,Millenia Station,32.617782,-116.963819,San Diego County
-92179,Otay Mesa Transit Center,32.553321,-116.939687,San Diego County
 92115,Orange Av & 52nd St,32.753107,-117.08326,San Diego County
-92093,VA Hospital,32.874894,-117.233477,San Diego County
-92179,Otay Mesa Transit Center,32.552755,-116.939793,San Diego County
-92179,Otay Mesa Transit Center,32.552865,-116.939973,San Diego County
-92179,Otay Mesa Transit Center,32.552996,-116.940173,San Diego County
 92154,Otay Mesa Rd & La Media Rd,32.567571,-116.963079,San Diego County
 92154,Sanyo Av & Otay Mesa Rd,32.567195,-116.940899,San Diego County
 91910,F St & 3rd Av,32.641234,-117.080468,San Diego County
@@ -3679,37 +3343,24 @@ Zip Code,stop_name,lat,lng,county
 92173,Camino De La Plaza & Virginia Av,32.543793,-117.036236,San Diego County
 91941,Bancroft Dr & Spring Valley Elementary,32.748692,-117.002249,San Diego County
 91977,Bancroft Dr & Spring Valley Elementary,32.748659,-117.001817,San Diego County
-92140,Balboa Avenue Transit Center,32.806331,-117.213822,San Diego County
 92105,El Cajon Bl & Euclid Av,32.756011,-117.091855,San Diego County
 92115,El Cajon Bl & Euclid Av,32.756195,-117.092035,San Diego County
 92101,14th St & F St,32.713739,-117.151911,San Diego County
-92093,UCSD Central Campus Station,32.879432,-117.231957,San Diego County
-92161,VA Hospital,32.874753,-117.233834,San Diego County
 92020,Madison Ave & Chambers St,32.800318,-116.967354,San Diego County
 92020,Madison Ave & Chambers St,32.800518,-116.967413,San Diego County
 92108,Hotel Circle S & 1865,32.758979,-117.180173,San Diego County
 91978,Jamacha Bl & Folex Way,32.727392,-116.965869,San Diego County
-92140,Balboa Avenue Transit Center,32.805142,-117.213563,San Diego County
-92140,Balboa Avenue Transit Center,32.805295,-117.213644,San Diego County
-92140,Balboa Avenue Transit Center,32.805487,-117.21376,San Diego County
-92140,Balboa Avenue Transit Center,32.805844,-117.213965,San Diego County
 92109,Jewell St & Garnet Av,32.800884,-117.239302,San Diego County
 92037,Villa La Jolla Dr & Villa Norte,32.870108,-117.233962,San Diego County
-92161,Villa La Jolla Dr & Holiday Ct,32.870182,-117.233738,San Diego County
 92110,Pacific Hwy @ Old Town Transit Center,32.753726,-117.200593,San Diego County
 92110,Old Town Transit Center,32.754124,-117.200169,San Diego County
 92109,Balboa Av & Olney St,32.801392,-117.229274,San Diego County
 92109,Balboa Av & Olney St,32.801624,-117.229333,San Diego County
-92093,John Jay Hopkins Dr & General Atomics Ct,32.894482,-117.23943,San Diego County
 92110,Morena Bl & Ingulf St,32.789492,-117.205879,San Diego County
 92110,Ingulf St & Morena Bl,32.789515,-117.204499,San Diego County
 91978,Jamacha Bl & Ramundo Way,32.727167,-116.96679,San Diego County
 92103,Palm St,32.732843,-117.176527,CAL Fire San Diego Unit
-92147,Terminal 1 Rental Car Shuttle,32.732,-117.198122,CAL Fire San Diego Unit
-92147,Terminal 2 Rental Car Shuttle,32.731202,-117.203373,CAL Fire San Diego Unit
 92103,Palm St,32.732895,-117.176386,CAL Fire San Diego Unit
-92133,Mercury St & Balboa Av,32.821426,-117.149083,San Diego County
-92133,Convoy St & Ostrow St,32.81298,-117.152792,San Diego County
 92126,Mira Mesa Marketcenter,32.91465,-117.120618,San Diego County
 91911,Naples St & 1st Av,32.616,-117.060586,San Diego County
 91911,Naples St & 2nd Av,32.614795,-117.065381,San Diego County
@@ -3746,7 +3397,6 @@ Zip Code,stop_name,lat,lng,county
 92020,El Cajon Transit Center,32.791783,-116.97568,San Diego County
 92020,El Cajon Transit Center,32.791553,-116.975665,San Diego County
 92020,El Cajon Transit Center,32.791706,-116.97578,San Diego County
-92022,Magnolia Av & Alexander Wy,32.834816,-116.96535,San Diego County
 92071,Santee Town Center,32.842502,-116.980637,San Diego County
 92071,Santee Town Center,32.842347,-116.980775,San Diego County
 92101,12th & Imperial Transit Center,32.706051,-117.153225,
@@ -3755,13 +3405,10 @@ Zip Code,stop_name,lat,lng,county
 92106,Catalina Bl & Cedarbrae Ln,32.710966,-117.248736,San Diego County
 92113,Ocean View Bl & 46th St,32.700533,-117.095388,San Diego County
 92101,Park Bl & Broadway,32.716015,-117.153847,San Diego County
-92092,Sorrento Valley Coaster Station,32.902729,-117.224881,San Diego County
-92018,Mission Valley Rd & Mission Center Rd,32.777708,-117.155827,San Diego County
 92108,Murray Canyon Rd & Metropolitan Dr,32.776756,-117.158127,San Diego County
 91950,24th Street Transit Center,32.661959,-117.107904,San Diego County
 91950,24th Street Transit Center,32.661622,-117.107765,San Diego County
 91950,24th Street Transit Center,32.661575,-117.107368,San Diego County
-92018,Mission Valley Rd & Mission Center Rd,32.777934,-117.155351,San Diego County
 92139,Reo Dr & Albemarle St,32.676459,-117.065574,San Diego County
 92020,El Cajon Transit Center,32.791876,-116.975759,San Diego County
 92020,El Cajon Transit Center,32.792341,-116.975753,San Diego County
@@ -3773,7 +3420,6 @@ Zip Code,stop_name,lat,lng,county
 92154,Airway Rd & La Media Rd,32.560431,-116.961976,San Diego County
 92154,Avenida Costa Norte & Avenida Costa Azul,32.558926,-116.956958,San Diego County
 92154,Avenida Costa Este & Avenida De La Fuente,32.555908,-116.955113,San Diego County
-92179,Siempre Viva Rd & Roll Dr,32.556275,-116.937926,San Diego County
 92154,Siempre Viva Rd & Avenida Costa Brava,32.55345,-116.957154,San Diego County
 92154,Avenida Costa Este & Avenida De La Fuente,32.556093,-116.954959,San Diego County
 92154,Avenida Costa Norte & Avenida Costa Azul,32.559078,-116.956979,San Diego County
@@ -3807,14 +3453,6 @@ Zip Code,stop_name,lat,lng,county
 91942,Grossmont Transit Center,32.781853,-117.011251,San Diego County
 92111,Ulric St & Fashion Hills Bl,32.773998,-117.167625,San Diego County
 92117,Clairemont Dr & Hartford Ct,32.79106,-117.198283,San Diego County
-92039,UTC Transit Center,32.868789,-117.213554,San Diego County
-92039,UTC Transit Center,32.868564,-117.213522,San Diego County
-92039,UTC Transit Center,32.86906,-117.213731,San Diego County
-92039,UTC Transit Center,32.868366,-117.213685,San Diego County
-92039,UTC Transit Center,32.869248,-117.213559,San Diego County
-92039,La Jolla Village Dr & Genesee Av,32.872635,-117.213083,San Diego County
-92039,UTC Transit Center,32.869505,-117.213712,San Diego County
-92039,UTC Transit Center,32.869328,-117.213698,San Diego County
 91911,Palomar Street Transit Center,32.602964,-117.084864,San Diego County
 92071,Santee Town Center,32.842595,-116.980764,San Diego County
 92101,Front St & F St,32.713706,-117.164747,San Diego County
@@ -3833,14 +3471,6 @@ Zip Code,stop_name,lat,lng,county
 92004,Yaqui Pass & Tamarisk Grove Campground,33.138706,-116.374931,San Diego County
 92036,Hwy 78 & Opp Banner Recreation Ranch,33.068458,-116.546911,San Diego County
 92036,Hwy 78 & Banner Recreation Ranch,33.068524,-116.547036,San Diego County
-92038,Hollow Glen Rd & Hwy 78,33.076358,-116.590604,San Diego County
-92038,Hwy 78 & 2nd St,33.076555,-116.597679,San Diego County
-92038,Hwy 78 & 2nd St,33.076409,-116.597659,San Diego County
-92038,Washington St & Hwy 78,33.078435,-116.602407,San Diego County
-92038,Washington St & Hwy 78,33.078415,-116.60273,San Diego County
-92038,Hwy 78 & Pine Hills Rd,33.07813,-116.616721,San Diego County
-92038,Hwy 78 & 3175,33.080861,-116.644622,San Diego County
-92038,Hwy 78 & 4360 (Apple Tree Inn),33.095107,-116.646044,San Diego County
 92065,Sr 67 & Letton St,33.03251,-116.883798,San Diego County
 92065,Sr 67 & Letton St,33.032664,-116.883839,San Diego County
 92065,Sr 67 & Day St,33.034574,-116.88119,San Diego County
@@ -3854,42 +3484,16 @@ Zip Code,stop_name,lat,lng,county
 92065,Earlham St & Thomsen Wy (Health Clinic),33.051131,-116.85519,San Diego County
 92065,Hwy 78 & Magnolia Rd,33.051054,-116.84443,San Diego County
 92065,Hwy 78 & Magnolia Av,33.051243,-116.845169,San Diego County
-92070,Hwy 78 & Hwy 79 (Dudleys Bakery),33.108951,-116.675116,San Diego County
-92070,Hwy 79 & Schoolhouse Rd,33.155796,-116.673696,San Diego County
-92070,Hwy 79 & Schoolhouse Rd,33.155942,-116.673841,San Diego County
-92070,Hwy 76 & Lake Henshaw Resort,33.231838,-116.759405,San Diego County
-92070,Hwy 79 & Hwy 76,33.20064,-116.710344,San Diego County
-92086,S2 (San Felipe Rd) & S22 (Montezuma Valley Rd),33.219934,-116.604889,San Diego County
-92066,Montezuma Valley Rd & 37554,33.21047,-116.521632,San Diego County
-92066,Montezuma Valley Rd & Opp 37554,33.210302,-116.521684,San Diego County
-92066,Montezuma Valley Rd & Lease Rd,33.210325,-116.516486,San Diego County
-92066,Montezuma Valley Rd & Lease Rd,33.210484,-116.516584,San Diego County
 92004,Palm Canyon Rd & Palm Canyon Resort Rv Exit,33.25638,-116.396708,San Diego County
 92004,Palm Canyon Rd & Opp Palm Canyon Springs Resort,33.256581,-116.396721,San Diego County
 92004,Palm Canyon Rd & Five Diamonds Rd,33.256419,-116.391834,San Diego County
 92004,Palm Canyon Rd & Five Diamonds Rd,33.256575,-116.391939,San Diego County
 92004,Palm Canyon Dr & Sunset Realty,33.256465,-116.377428,San Diego County
 92004,Christmas Circle & Palm Canyon Rd,33.256887,-116.37577,San Diego County
-91934,Campo St & Old Hwy 80,32.617817,-116.184458,San Diego County
-91934,Brawley Av & Campo St,32.620398,-116.184609,San Diego County
-91934,Carriso St & Brawley Av,32.620319,-116.185901,San Diego County
 91962,Old Hwy 80 & Jacumba Rd,32.617347,-116.190287,San Diego County
 91962,Old Hwy 80 & 39998 (Boulevard Coin Shop),32.668578,-116.287617,San Diego County
 91962,Old Hwy 80 & 39961 (Candy Cottage),32.66858,-116.288215,San Diego County
-91905,Old Hwy 80 & 39718 (Mountain Top Market),32.668804,-116.293622,San Diego County
-91905,Old Hwy 80 & 39710 (Sun Country Real Estate),32.668639,-116.293739,San Diego County
-91905,Old Hwy 80 & 39550 (Post Office),32.668311,-116.297024,San Diego County
-91905,Old Hwy 80 & 39605 (Boulevard Lumber),32.668182,-116.296715,San Diego County
-91905,Old Hwy 80 & 39334 (Opp Liquor Store),32.668501,-116.301657,San Diego County
-91905,Old Hwy 80 & Hwy 94 (Boulevard Liqour),32.668281,-116.301193,San Diego County
-91905,Live Oaks Trail & Old Hwy 80,32.687394,-116.335401,San Diego County
 91906,Golden Acorn Casino & Same,32.702564,-116.354942,San Diego County
-91905,Hwy 94 & Outdoor World Retreat & Rv Park,32.653555,-116.351083,San Diego County
-91905,Hwy 94 & Church Rd,32.648364,-116.366192,San Diego County
-91905,Hwy 94 & La Posta Rd (Call Box),32.643145,-116.423969,San Diego County
-91905,Hwy 94 & La Posta Rd,32.643278,-116.423193,San Diego County
-91905,Hwy 94 & Shockey Truck Trail,32.632149,-116.433574,San Diego County
-91905,Hwy 94 & Shockey Truck Trail,32.631991,-116.433889,San Diego County
 91906,Hwy 94 & Buckman Springs Rd,32.628817,-116.472247,San Diego County
 91906,Buckman Springs Rd & Freedom Ranch,32.650117,-116.487235,San Diego County
 91906,Buckman Springs Rd & Opp Freedom Ranch,32.650103,-116.487417,San Diego County
@@ -3904,31 +3508,8 @@ Zip Code,stop_name,lat,lng,county
 91906,Lake Morena Dr & Molchan Dr (Country Market),32.679335,-116.505135,San Diego County
 91962,Old Hwy 80 & Majors Coffee Shop,32.821821,-116.529365,San Diego County
 91962,Old Hwy 80 & Pine Valley,32.82122,-116.528927,San Diego County
-91931,Old Hwy 80 & 27446,32.84894,-116.557079,San Diego County
-91931,Old Hwy 80 & 27521 Pine Valley Trailer Park,32.848723,-116.556931,San Diego County
-91931,Old Hwy 80 & 26930 (Opp Heavenly Oaks MHP),32.853253,-116.567693,San Diego County
-91931,Old Hwy 80 & Heavenly Oaks MHP,32.853148,-116.567699,San Diego County
-91916,Viejas Bl & Viejas Grade Rd (Perkins Store),32.853129,-116.615568,San Diego County
-92016,Old Hwy 80 & Riverside St,32.84107,-116.613118,San Diego County
-92016,Old Hwy 80 & Descanso Real Estate,32.841052,-116.612978,San Diego County
 91906,Hwy 94 & Buckman Springs Rd,32.628426,-116.472402,San Diego County
 91906,Hwy 94 & Buckman Springs Rd,32.628478,-116.47261,San Diego County
-91980,Hwy 94 & Mountain Empire Campground,32.590106,-116.521434,CAL Fire San Diego Unit
-91980,Hwy 94 & Mountain Empire Campground,32.589856,-116.521388,CAL Fire San Diego Unit
-91980,Hwy 94 & Dogpatch,32.594975,-116.528345,CAL Fire San Diego Unit
-91980,Hwy 94 & Dogpatch,32.595164,-116.528485,CAL Fire San Diego Unit
-91980,Hwy 94 & Harris Ranch Rd,32.599706,-116.582115,CAL Fire San Diego Unit
-91980,Hwy 94 & Harris Ranch Rd,32.599586,-116.581803,CAL Fire San Diego Unit
-91963,Hwy 94 & Potrero Post Office - Park & Ride,32.604892,-116.610569,San Diego County
-91980,Hwy 94 & Potrero Country Store,32.604354,-116.608501,CAL Fire San Diego Unit
-91980,Sr 188 & Tecate Mart,32.5785,-116.628444,CAL Fire San Diego Unit
-91980,Sr 188 & Humphries Rd,32.582816,-116.633494,CAL Fire San Diego Unit
-91917,Hwy 94 & Barrett Lake Rd,32.612082,-116.707439,CAL Fire San Diego Unit
-91917,Hwy 94 & Barrett Lake Rd,32.611731,-116.707061,CAL Fire San Diego Unit
-91917,Hwy 94 & Summit Rd,32.618827,-116.740733,CAL Fire San Diego Unit
-91917,Hwy 94 & Summit Rd,32.618822,-116.74148,CAL Fire San Diego Unit
-91917,Hwy 94 & Opp Dulzura Cafe,32.643819,-116.780419,San Diego County
-91917,Hwy 94 & Dulzura Cafe,32.64387,-116.780682,San Diego County
 91935,Hwy 94 & Honey Springs Rd,32.669363,-116.824736,San Diego County
 91935,Hwy 94 & Honey Springs Rd,32.669274,-116.824888,San Diego County
 91935,Hwy 94 & Maxfield Rd,32.714447,-116.870926,San Diego County
@@ -3959,11 +3540,7 @@ Zip Code,stop_name,lat,lng,county
 92121,6310 Nancy Ridge Dr (Nancy Ridge Tech Pk & 6349),32.887777,-117.18363,San Diego County
 92121,6650 Nancy Ridge Dr & 6767 (@ Fire Hydrant After D,32.886529,-117.178115,San Diego County
 92121,Phage Biotechnology,32.885668,-117.174972,San Diego County
-92092,10350 Science Center Dr,32.89333,-117.230701,San Diego County
 92121,John Hopkins Ct & General Atomics (Building Entran,32.893995,-117.236535,San Diego County
-92093,3033 Science Park Rd,32.901781,-117.240487,San Diego County
-92093,Torreyana Rd & Road To The Cure & Science Park Rd,32.902136,-117.23863,San Diego County
-92093,11099 Callan Rd,32.904871,-117.24074,San Diego County
 92121,5910 Pacific Center Bl,32.904668,-117.188928,San Diego County
 92121,5788 Pacific Center Bl,32.904451,-117.192842,San Diego County
 92121,Pacific Heights Bl & Cornerstone Ct,32.896612,-117.189279,San Diego County
@@ -3976,10 +3553,6 @@ Zip Code,stop_name,lat,lng,county
 92121,5280 Carroll Canyon Rd,32.891758,-117.192921,San Diego County
 92121,Youngstown Wy & Oberlin Dr,32.892179,-117.19534,San Diego County
 92121,5807 Oberlin Dr,32.893814,-117.193171,San Diego County
-92039,Sorrento Valley Rd & Across From Websense,32.890863,-117.210542,San Diego County
-92093,General Atomics Ct & John Hopkins Dr (Before Turn),32.894073,-117.239191,San Diego County
-92093,John Hopkins Dr & N Torrey Pines Rd (Before Turn),32.898192,-117.241736,CAL Fire San Diego Unit
-92093,Torreyana Rd & Callan Rd (Before Turn),32.904316,-117.238195,San Diego County
 91910,Southwestern College Transit Center,32.640971,-116.995161,San Diego County
 91910,Southwestern College Transit Center,32.641118,-116.995399,San Diego County
 91950,Euclid Av & Sweetwater Rd,32.66179,-117.078403,San Diego County
@@ -3987,8 +3560,6 @@ Zip Code,stop_name,lat,lng,county
 92101,10th Av & Park Bl (Petco Park),32.707505,-117.15507,San Diego County
 92101,Park Bl & 10th Av (Petco Park),32.70694,-117.15522,San Diego County
 92101,11th Av & K St,32.708334,-117.1545,San Diego County
-92182,Grantville Trolley Station,32.780434,-117.096994,San Diego County
-92182,SDSU Transit Center,32.773139,-117.07066,San Diego County
 92101,Grape St & Pacific Hwy,32.724349,-117.172044,San Diego County
 92101,Pacific Hwy & Broadway,32.716153,-117.170859,San Diego County
 92101,Broadway & Pacific Hwy,32.715598,-117.170473,San Diego County
@@ -4000,10 +3571,6 @@ Zip Code,stop_name,lat,lng,county
 92115,College Av & El Cajon Bl,32.762275,-117.066772,San Diego County
 92126,Miramar Rd & Camino Ruiz,32.893578,-117.133433,San Diego County
 92126,Miramar Rd & Black Mountain Rd,32.893942,-117.123794,San Diego County
-92133,Convoy St & Armour St,32.81979,-117.15516,San Diego County
-92133,Convoy St & Aero Dr,32.811518,-117.153151,San Diego County
-92133,Mercury St & Balboa Av,32.82128,-117.148743,San Diego County
-92133,Kearny Mesa Rd & Othello Av,32.817527,-117.149606,San Diego County
 91913,La Media Rd & E Palomar St,32.63307,-116.988111,San Diego County
 91911,E Palomar St & Medical Center Dr,32.614605,-117.026747,San Diego County
 91913,East H St & Eastlake Dr,32.655243,-116.980151,San Diego County
@@ -4022,9 +3589,6 @@ Zip Code,stop_name,lat,lng,county
 91910,E Palomar St & Paseo Ladera,32.616218,-117.018032,San Diego County
 91913,E Palomar St & Santa Carina Dr,32.618335,-117.01089,San Diego County
 91913,Otay Lakes Rd & Bonita Vista Middle School,32.648708,-117.005561,San Diego County
-92133,Convoy St & Armour St,32.820256,-117.154862,San Diego County
-91903,Willows Rd & Viejas Retail Outlet,32.841335,-116.704968,San Diego County
-92039,Executive Dr & Executive Wy,32.875909,-117.209744,CAL Fire San Diego Unit
 91913,Eastlake Pkwy & Miller Dr,32.652319,-116.967869,San Diego County
 91913,Eastlake Pkwy & Fenton St,32.651133,-116.966316,San Diego County
 91913,Eastlake Pkwy & Greensgate Dr,32.644669,-116.966166,San Diego County
@@ -4032,11 +3596,6 @@ Zip Code,stop_name,lat,lng,county
 92114,Akins Av & Encanto/62nd St Trolley Station,32.710296,-117.063781,San Diego County
 92115,University Av & College Av,32.752575,-117.064883,San Diego County
 92115,University Av & University Sq,32.750388,-117.070093,San Diego County
-92182,SDSU Transit Center,32.773129,-117.070159,San Diego County
-92182,SDSU Transit Center,32.772907,-117.070056,San Diego County
-92182,SDSU Transit Center,32.773045,-117.071553,San Diego County
-92182,College Av & SDSU Transit Center,32.772916,-117.069883,San Diego County
-92112,70th St Trolley Station,32.77214,-117.041787,San Diego County
 92111,Linda Vista Rd & Genesee Av,32.791318,-117.166298,San Diego County
 92123,Ruffin Rd & Balboa Av,32.821316,-117.127266,San Diego County
 92123,Ruffin Rd & Balboa Av,32.823116,-117.127603,San Diego County
@@ -4069,14 +3628,8 @@ Zip Code,stop_name,lat,lng,county
 92107,West Point Loma Bl & Nimitz Bl,32.751299,-117.235572,San Diego County
 92126,Miramar Rd & Clayton Dr,32.893878,-117.131322,San Diego County
 92126,Miramar Rd & AleSmith Ct,32.885967,-117.149032,San Diego County
-92039,Towne Center Dr & Executive Dr,32.877022,-117.207659,San Diego County
-92039,Eastgate Mall & Easter Wy,32.878155,-117.211492,San Diego County
 92121,Eastgate Mall & Towne Centre Dr,32.87907,-117.208029,San Diego County
-92039,Genesee Av & Esplanade Ct,32.870025,-117.21395,San Diego County
-92039,UTC Transit Center,32.868571,-117.213697,San Diego County
 92123,Balboa Av & Viewridge Av,32.822559,-117.125211,San Diego County
-92039,Judicial Dr & Research Pl,32.869459,-117.199743,San Diego County
-92039,La Jolla Village Dr & Towne Center Dr,32.874095,-117.207614,San Diego County
 92104,El Cajon Bl & Texas St,32.755458,-117.139322,San Diego County
 92121,Mira Mesa Bl & Lusk Bl,32.895922,-117.193617,San Diego County
 92126,Westonhill Dr & Mira Mesa Bl,32.912421,-117.135669,San Diego County
@@ -4096,13 +3649,7 @@ Zip Code,stop_name,lat,lng,county
 92123,Daley Center Dr & Aero Dr,32.808078,-117.11888,San Diego County
 92123,Murphy Canyon Rd & Aero Dr,32.808828,-117.115812,San Diego County
 92123,Aero Dr & Ruffin Rd,32.808737,-117.119382,San Diego County
-92133,Aero Dr & Kearny Villa Rd,32.810423,-117.151314,San Diego County
-92133,Convoy St & Kearny Mesa Rd,32.813232,-117.152469,San Diego County
-92133,Convoy St & Othello Av,32.816944,-117.154606,San Diego County
-92133,Balboa Av & Convoy St,32.821649,-117.154206,San Diego County
-92133,Balboa Av & Mercury St,32.821639,-117.149629,San Diego County
 92111,Balboa Av & Mercury St,32.821926,-117.150218,San Diego County
-92133,Convoy St & Othello Av,32.816812,-117.154914,San Diego County
 92123,Aero Dr & 9005 (Library),32.80972,-117.133409,San Diego County
 92106,Canon St & Evergreen St,32.722738,-117.233688,San Diego County
 92106,Canon St & Evergreen St,32.722453,-117.233535,San Diego County
@@ -4117,12 +3664,9 @@ Zip Code,stop_name,lat,lng,county
 92114,Madera St & Bittern St,32.716559,-117.052693,San Diego County
 92020,Washington Av & Grossmont Av,32.787614,-116.974276,San Diego County
 92021,E Main St & Broadway,32.808136,-116.921385,San Diego County
-92137,Ruffin Rd & Ruffin Ct,32.828473,-117.126475,San Diego County
-92137,Ruffin Rd & Lightwave Av,32.828407,-117.126822,San Diego County
 92123,Ruffin Rd & Spectrum Center Bl,32.82515,-117.127604,San Diego County
 92123,Ruffin Rd & Spectrum Center Bl,32.825805,-117.127135,San Diego County
 92020,W Douglas Av & Magnolia Av,32.793957,-116.963091,San Diego County
-92112,College Av & College Grove Dr,32.743991,-117.053194,San Diego County
 91945,Skyline Dr & Mt Vernon St,32.731564,-117.026751,San Diego County
 92114,Jamacha Rd & Cardiff St,32.718193,-117.024903,San Diego County
 91977,Jamacha Bl & Pointe Pkwy,32.72007,-116.972947,San Diego County
@@ -4163,7 +3707,6 @@ Zip Code,stop_name,lat,lng,county
 91950,18th St & Highland Av,32.669377,-117.095589,San Diego County
 91950,18th St & L Av,32.670704,-117.090864,San Diego County
 91977,Paradise Valley Rd & Elkelton Bl,32.702928,-117.012514,San Diego County
-91239,Paradise Valley Rd & Elkelton Pl,32.702085,-117.012935,San Diego County
 91977,Paradise Valley Rd & Worthington St,32.69731,-117.019268,San Diego County
 91977,Paradise Valley Rd & Worthington St,32.69706,-117.019263,San Diego County
 91950,Harbison Av & Plaza Bl,32.681372,-117.073988,San Diego County
@@ -4189,31 +3732,22 @@ Zip Code,stop_name,lat,lng,county
 92113,Ocean View Bl & Dewey St,32.704191,-117.138421,San Diego County
 92173,San Ysidro Transit Center,32.544755,-117.029806,San Diego County
 92120,Waring Rd & Mound Av,32.797367,-117.075598,San Diego County
-92133,Convoy St & Dagget St,32.8229,-117.155247,San Diego County
 92105,Fairmount Av & Poplar St,32.737887,-117.101089,San Diego County
 92101,N Harbor Dr & Broadway,32.716357,-117.172981,San Diego County
 91977,Sweetwater Rd & Spring Vista Wy,32.717738,-117.013656,San Diego County
 91977,Sweetwater Rd & Spring Vista Wy,32.717492,-117.013917,San Diego County
 92107,Ebers St & Pescadero Av,32.736828,-117.25167,San Diego County
 92107,Orchard Av & Ebers St,32.738005,-117.251147,San Diego County
-92137,Clairemont Mesa Bl & Complex Dr,32.831284,-117.135104,San Diego County
-92135,NASNI Transit Center,32.699097,-117.18422,San Diego County
 92101,11th Av & B St,32.717695,-117.154586,San Diego County
-92092,Sorrento Valley Coaster Station,32.902155,-117.225252,San Diego County
 92113,Imperial Av & 49th St,32.704027,-117.089579,San Diego County
 92019,Jamacha Rd & Hilton Head Rd,32.747266,-116.927468,San Diego County
 92110,Washington St & Trolley Tracks,32.741536,-117.183713,San Diego County
-92137,Complex Dr & Clairemont Mesa Bl,32.830613,-117.134745,San Diego County
-92137,Clairemont Mesa Bl & Complex Dr,32.831293,-117.134218,San Diego County
-92137,Clairemont Mesa Bl & Complex Dr,32.831292,-117.133629,San Diego County
 91945,Jamacha Rd & Britain St,32.713782,-117.035297,San Diego County
 92108,Hotel Circle N & Camino De La Reina,32.761737,-117.167308,San Diego County
-92018,Camino De La Reina & Saks 5th Av,32.770933,-117.147113,San Diego County
 92106,Shelter Island Dr & Rosecrans St,32.722311,-117.230607,San Diego County
 92121,Camino Santa Fe & Mira Mesa Bl,32.906708,-117.170935,San Diego County
 92105,Fairmount Av & Landis St,32.746197,-117.100818,San Diego County
 92117,Clairemont Mesa Bl & Clairemont Dr,32.833234,-117.2007,San Diego County
-92133,Linda Vista Rd & Stalmer St,32.808081,-117.154096,San Diego County
 92111,Stalmer St & Angelucci St,32.807952,-117.156239,San Diego County
 92111,Stalmer St & Angelucci St,32.807835,-117.156078,San Diego County
 92126,Gold Coast Dr & Black Mountain Rd,32.905423,-117.125234,San Diego County
@@ -4223,17 +3757,12 @@ Zip Code,stop_name,lat,lng,county
 91910,Plaza Bonita Transit Center,32.655703,-117.064229,San Diego County
 91910,Plaza Bonita Transit Center,32.655609,-117.064663,San Diego County
 92118,Silver Strand Bl & Strand Wy,32.676774,-117.171835,CAL Fire San Diego Unit
-92179,Otay Mesa Rd & Gailes Bl,32.567731,-116.974247,San Diego County
 92154,Otay Mesa Rd & Otay Mesa Center Rd,32.567612,-116.965493,San Diego County
-92179,Otay Mesa Rd & Piper Ranch Rd,32.567836,-116.954267,San Diego County
-92179,Otay Mesa Rd & Otay Mesa Center Rd,32.567976,-116.966245,San Diego County
-92179,Otay Mesa Rd & Gailes Bl,32.568063,-116.974844,San Diego County
 92154,Sanyo Av & Carnoustie Rd,32.56586,-116.940655,San Diego County
 92154,Dennery Rd & Del Sol Bl,32.573501,-117.036013,San Diego County
 92154,Dennery Rd & Home Depot Drwy,32.576746,-117.034799,San Diego County
 92154,Dennery Rd & Del Sol Bl,32.573552,-117.035673,San Diego County
 91932,Palm Av & 7th St,32.584021,-117.118402,San Diego County
-92136,Main St & 28th St,32.692723,-117.133206,San Diego County
 92173,Otay Mesa Rd & Corporate Center Dr,32.568441,-117.003841,San Diego County
 91950,National City Bl & W 33rd St,32.654696,-117.098857,San Diego County
 91950,National City Bl & W 35th St,32.64998,-117.096969,San Diego County
@@ -4245,7 +3774,6 @@ Zip Code,stop_name,lat,lng,county
 92128,Rancho Bernardo Transit Station,33.017,-117.080458,San Diego County
 92025,Del Lago Transit Station,33.071987,-117.070378,San Diego County
 92020,Marshall Av & Arnele Av,32.804577,-116.975359,San Diego County
-92135,Coronado Ferry Landing,32.699209,-117.16972,San Diego County
 92101,Broadway Pier,32.716038,-117.173407,San Diego County
 92101,5th Av Pier,32.704539,-117.161551,San Diego County
 92154,Satellite Bl & Cochabamba St,32.569295,-117.099425,San Diego County
@@ -4254,12 +3782,10 @@ Zip Code,stop_name,lat,lng,county
 92111,Balboa Av & Shopping Center Drwy,32.81995,-117.1795,San Diego County
 92117,Balboa Av & Shopping Center Drwy,32.820028,-117.180409,San Diego County
 92116,Camino Del Rio North & Ward Rd,32.780174,-117.110793,San Diego County
-92161,Villa La Jolla Dr & Gilman Dr,32.864161,-117.235758,San Diego County
 92120,Mission Gorge Rd & Zion Av,32.79268,-117.097649,San Diego County
 92110,Denver St & Ingulf St,32.789456,-117.203547,San Diego County
 92110,Morena Bl & Milton St,32.785009,-117.206674,San Diego County
 92117,Clairemont Dr & Hiawatha Wy,32.820124,-117.204253,San Diego County
-92147,Lindbergh Field & Terminal 2 East,32.731402,-117.201644,CAL Fire San Diego Unit
 92128,Rancho Bernardo Transit Station,33.016854,-117.080407,San Diego County
 92128,Rancho Bernardo Transit Station,33.017115,-117.080857,San Diego County
 92128,Rancho Bernardo Transit Station,33.016982,-117.080601,San Diego County
@@ -4278,42 +3804,32 @@ Zip Code,stop_name,lat,lng,county
 92105,54th St & Westover Pl,32.724911,-117.083789,San Diego County
 92025,Escondido Transit Center,33.118332,-117.090853,San Diego County
 92025,Del Lago Transit Station,33.072261,-117.070525,San Diego County
-92179,La Media Rd & Otay Mesa Rd,32.567222,-116.962637,San Diego County
 92025,Del Lago Transit Station,33.07241,-117.070461,San Diego County
 92128,Rancho Bernardo Transit Station,33.017194,-117.080998,San Diego County
 92173,Virginia Avenue Transit Center,32.542819,-117.036396,San Diego County
-92137,Clairemont Mesa Bl & Complex St,32.831591,-117.13524,San Diego County
 92129,Sabre Springs Pkwy & Wimberly Sq,32.954587,-117.09594,San Diego County
 92129,Sabre Springs Pkwy & Morning Creek Dr,32.954927,-117.09522,San Diego County
 92106,Strothe Rd & Rosecrans St,32.706403,-117.238805,San Diego County
-92182,Grantville Trolley Station,32.780403,-117.097218,San Diego County
-92182,Grantville Trolley Station,32.780213,-117.097216,San Diego County
-92182,Grantville Trolley Station,32.78025,-117.097002,San Diego County
-92039,Judicial Dr & Golden Haven Dr,32.871699,-117.203601,San Diego County
 92121,Judicial Dr & Executive Dr,32.876178,-117.205594,San Diego County
 92122,Nobel Dr & Shoreline Dr,32.864439,-117.201692,San Diego County
 92101,Santa Fe Depot Transit Center,32.717058,-117.169298,San Diego County
 92173,SR-905 & Caliente Av,32.565776,-117.014988,San Diego County
 92173,SR-905 & Caliente Av,32.567051,-117.01467,San Diego County
 91977,Sweetwater Rd & Harness St,32.721425,-117.013968,San Diego County
-92112,College Av & College Grove Dr,32.74433,-117.053337,San Diego County
 92101,India St & C St,32.716993,-117.168176,San Diego County
 92118,Silver Strand Bl & Avenida de las Arenas,32.676901,-117.172608,San Diego County
 92122,Regents Rd & Governor Dr,32.851194,-117.217153,San Diego County
 92110,Morena Bl & Sherman St,32.765933,-117.19865,San Diego County
 92101,N Harbor Dr & Ash St,32.72105,-117.172828,San Diego County
-92018,Camino Del Rio N & Qualcomm Wy,32.771925,-117.139579,San Diego County
 92106,Rosecrans St & Farragut Rd,32.734841,-117.220289,San Diego County
 92106,Rosecrans St & Womble Rd,32.736977,-117.218439,San Diego County
 92106,Rosecrans St & Roosevelt Rd,32.73947,-117.216372,San Diego County
 92106,Rosecrans St & Ibsen St,32.742312,-117.213944,San Diego County
-92161,Villa La Jolla Dr & La Jolla Village Dr,32.872489,-117.233946,San Diego County
 92122,Lebon Dr & Palmilla Dr,32.865106,-117.225024,San Diego County
 92106,N Harbor Dr & Laning Dr,32.727237,-117.217643,San Diego County
 92106,N Harbor Dr & Spanish Landing W,32.728571,-117.21195,San Diego County
 92106,N Harbor Dr & Lee Ct,32.728829,-117.212116,San Diego County
 92154,Siempre Viva Rd & Paseo De Las Americas,32.556978,-116.936588,San Diego County
-92133,Kearny Villa Rd & Century Park Ct,32.823883,-117.144079,San Diego County
 92120,Zion Av & Archwood Av,32.793057,-117.094411,San Diego County
 92101,11th Ave & Broadway,32.716268,-117.154649,San Diego County
 92101,12th & Imperial Station,32.706002,-117.153378,San Diego County
@@ -4325,17 +3841,10 @@ Zip Code,stop_name,lat,lng,county
 92101,5th Avenue Station,32.716762,-117.159703,San Diego County
 92114,Encanto/62nd St Station,32.710115,-117.06321,San Diego County
 91941,70th Street Station,32.772249,-117.04247,San Diego County
-92112,70th St. Trolley Station,32.77221,-117.042025,San Diego County
-92136,8th Street Station,32.674875,-117.113088,San Diego County
-92136,8th Street Transit Center,32.675004,-117.113301,San Diego County
 91942,Amaya Drive Station,32.785424,-117.001723,San Diego County
 92101,America Plaza Trolley Station,32.717002,-117.168355,San Diego County
 92101,America Plaza Station,32.716169,-117.16898,San Diego County
 92020,Arnele Avenue Station,32.804616,-116.975727,San Diego County
-92182,Alvarado Station,32.777366,-117.056832,San Diego County
-92140,Balboa Avenue Station,32.805783,-117.214054,San Diego County
-92140,Balboa Avenue Transit Center,32.805705,-117.213677,San Diego County
-92136,Barrio Logan Station,32.698024,-117.146588,San Diego County
 92173,Beyer Blvd Station,32.557571,-117.046974,San Diego County
 92101,Broadway & Kettner Bl,32.715714,-117.168894,San Diego County
 91945,Lemon Grove Depot,32.743386,-117.030731,San Diego County
@@ -4353,18 +3862,12 @@ Zip Code,stop_name,lat,lng,county
 91950,E Street Transit Center,32.638779,-117.098449,San Diego County
 92105,Euclid Ave Station,32.709547,-117.085948,San Diego County
 92105,Euclid Ave Station,32.710023,-117.086191,San Diego County
-92039,Executive Drive Station,32.874148,-117.214045,San Diego County
 92103,Fashion Valley Transit Center,32.765618,-117.169424,San Diego County
 92103,Fashion Valley Station,32.765482,-117.169063,San Diego County
 92108,Fenton Parkway Station,32.778294,-117.127162,San Diego County
-92182,Grantville Station,32.780491,-117.097493,San Diego County
 92101,Gaslamp Quarter Station,32.706844,-117.159681,San Diego County
-92039,Genesee & La Jolla Village Dr.,32.873217,-117.213832,San Diego County
-92182,Grantville Trolley Station,32.780315,-117.097208,San Diego County
 91942,Grossmont Station,32.781816,-117.011062,San Diego County
 91942,Grossmont Transit Center,32.781934,-117.011122,San Diego County
-92136,Harborside Station,32.691267,-117.132804,San Diego County
-92018,Hazard Center Station,32.77025,-117.158303,San Diego County
 91950,H Street Station,32.630074,-117.095589,San Diego County
 91950,H Street Transit Center,32.629612,-117.095091,San Diego County
 92116,El Cajon Blvd & I-15,32.755567,-117.10867,San Diego County
@@ -4375,7 +3878,6 @@ Zip Code,stop_name,lat,lng,county
 92101,12th & Imperial Station Bayside,32.705229,-117.154318,San Diego County
 92173,Iris Avenue Station,32.569656,-117.067105,San Diego County
 92154,Iris Avenue Transit Center,32.569853,-117.066079,San Diego County
-92137,Kearny Mesa Transit Center,32.831389,-117.135056,San Diego County
 91941,La Mesa Blvd Station,32.765019,-117.020552,San Diego County
 92101,Park & Market Trolley Station,32.711537,-117.153993,San Diego County
 92101,Park & Market Station,32.71098,-117.153768,
@@ -4384,73 +3886,30 @@ Zip Code,stop_name,lat,lng,county
 92108,Mission Valley Center Station,32.771096,-117.150004,San Diego County
 92110,Morena/Linda Vista Station,32.763561,-117.19671,San Diego County
 92116,Mission San Diego Station,32.780927,-117.111078,San Diego County
-92161,Nobel Drive Station,32.866904,-117.23043,San Diego County
 92110,Old Town Station,32.754735,-117.199589,San Diego County
 92110,Old Town Transit Center East,32.754593,-117.199253,San Diego County
 92110,Old Town Transit Center West,32.754553,-117.199887,San Diego County
 92110,Old Town TC West @ Pacific Hwy,32.754586,-117.200323,San Diego County
-92136,Pacific Fleet Station,32.686005,-117.124729,San Diego County
 91911,Palomar Street Station,32.603151,-117.085089,San Diego County
 91911,Palomar Street Transit Center,32.603142,-117.08452,San Diego County
-92093,UCSD Central Campus Station,32.878353,-117.231842,San Diego County
-92093,UCSD Central Campus Station,32.879435,-117.231948,San Diego County
 92154,Palm Avenue Station,32.584614,-117.083799,San Diego County
-92182,Stadium,32.780962,-117.119098,San Diego County
-92018,Rio Vista Station,32.773652,-117.14181,San Diego County
 92071,Santee Town Center Station,32.841707,-116.980983,San Diego County
 92071,Santee Town Center,32.842567,-116.980891,San Diego County
 92173,San Ysidro Station,32.54446,-117.029482,San Diego County
-92182,SDSU Station,32.77327,-117.070596,San Diego County
-92182,SDSU Transit Center,32.773308,-117.070695,San Diego County
 92101,Seaport Village Station,32.711923,-117.168597,CAL Fire San Diego Unit
 92101,Santa Fe Depot,32.717637,-117.169828,San Diego County
 91941,Spring Street Station,32.756852,-117.017458,CAL Fire San Diego Unit
 91941,Spring Street Station,32.75686,-117.017215,CAL Fire San Diego Unit
-92092,Sorrento Valley Coaster Station,32.902729,-117.224881,San Diego County
 92173,S Vista Rd & Cottonwood Rd,32.557905,-117.048096,San Diego County
 91910,Southwestern College,32.641436,-116.995951,San Diego County
 92173,San Ysidro Transit Center,32.544258,-117.029851,San Diego County
 92110,Tecolote Road Station,32.769855,-117.20509,San Diego County
-92039,UTC Transit Center,32.868883,-117.212758,San Diego County
-92039,UTC Station,32.869208,-117.214046,San Diego County
-92039,UTC Transit Center East Entrance/Exit,32.8688,-117.21328,San Diego County
-92039,UTC Transit Center West Entrance/Exit,32.86884,-117.21396,San Diego County
-92039,UTC Transit Center Northwest Entrance/Exit,32.86978,-117.21396,San Diego County
-92161,VA Medical Center Station,32.874196,-117.22989,San Diego County
-92092,UCSD Health La Jolla Station,32.881852,-117.223526,CAL Fire San Diego Unit
 92103,Washington Street Station,32.741635,-117.184389,San Diego County
-92022,Gillespie Field Station,32.826922,-116.982099,CAL Fire San Diego Unit
-92093,Gilman Dr & Myers Dr,32.876949,-117.235533,San Diego County
-92039,La Jolla Village Dr & Lebon Dr,32.870592,-117.223248,San Diego County
-92039,La Jolla Village Dr & Regents Rd,32.871465,-117.217861,San Diego County
-92093,Gilman Dr & Myers Dr,32.877183,-117.235829,San Diego County
-92039,La Jolla Village Dr & Regents Rd,32.871503,-117.218669,San Diego County
 92122,Nobel Dr & Lebon Dr,32.8686,-117.225288,San Diego County
-92093,N Torrey Pines Rd & Torrey Pines Scenic Dr,32.887475,-117.243837,San Diego County
-92014,N Torrey Pines Rd & Torrey Pines Golf Course,32.906751,-117.24399,San Diego County
-92093,N Torrey Pines Rd & Science Park Rd,32.901424,-117.242815,San Diego County
-92093,Gilman Dr & Eucalyptus Grove Ln,32.875781,-117.23921,San Diego County
-92093,N Torrey Pines Rd & Almahurst Row,32.880465,-117.244028,San Diego County
-92093,N Torrey Pines Rd & La Jolla Shores Dr,32.874901,-117.243796,San Diego County
-92093,N Torrey Pines Rd & Salk Institute Rd,32.885786,-117.243958,San Diego County
-92093,N Torrey Pines Rd & Scripps Clinic Drwy,32.894078,-117.24126,CAL Fire San Diego Unit
-92093,N Torrey Pines Rd & Genesee Av,32.891359,-117.241405,CAL Fire San Diego Unit
-92039,La Jolla Village Dr & Genesee Av,32.872645,-117.214513,San Diego County
-92093,N Torrey Pines Rd & La Jolla Shores Dr,32.874579,-117.243543,San Diego County
+92014,N Torrey Pines Rd & Torrey Pines Golf Course,32.906751,-117.24399,CAL Fire San Diego Unit
 92037,N Torrey Pines Rd & Torrey Pines Scenic Dr,32.886534,-117.243654,San Diego County
-92093,N Torrey Pines Rd & UCSD Northpoint Drwy,32.889558,-117.242483,San Diego County
-92161,Gilman Dr & Eucalyptus Grove Ln,32.875266,-117.238755,San Diego County
-92093,N Torrey Pines Rd & Muir College Dr,32.88135,-117.24369,San Diego County
-92093,N Torrey Pines Rd & Revelle College Dr,32.871606,-117.243423,San Diego County
-92093,N Torrey Pines Rd & Scripps Clinic Drwy,32.895275,-117.24111,CAL Fire San Diego Unit
-92161,Nobel Dr & La Jolla Village Square Drwy,32.867766,-117.231688,San Diego County
 92122,Nobel Dr & La Jolla Village Square Drwy,32.868011,-117.231658,San Diego County
-92093,N Torrey Pines Rd & John J Hopkins Dr,32.898471,-117.24182,San Diego County
-92039,Genesee Av & La Jolla Village Dr,32.872043,-117.214206,San Diego County
 92026,Broadway & Leslie Ln,33.148963,-117.090834,San Diego County
-92055,Brown St & Del Valle (Las Pulgas),33.350836,-117.411236,San Diego County
-92051,Access Rd & Px,33.223164,-117.395502,San Diego County
-92051,Vandegrift Bl & Ash Rd,33.231846,-117.389372,San Diego County
 92054,Division St & Grant St,33.196127,-117.370258,San Diego County
 92054,Division St & Country Club Ln,33.197026,-117.365342,San Diego County
 92054,Vandegrift Bl & Area 26,33.317869,-117.327032,San Diego County
@@ -4521,7 +3980,6 @@ Zip Code,stop_name,lat,lng,county
 92054,Oceanside Blvd & State Tree Dr,33.192388,-117.35845,San Diego County
 92057,Mission Av & Mesa Dr,33.208643,-117.358703,San Diego County
 92058,Mission Av & Carolyn Cir,33.213448,-117.347994,San Diego County
-92055,E Av & 10th St,33.292766,-117.347938,San Diego County
 92008,Carlsbad Village Dr & Harding St,33.162493,-117.343551,San Diego County
 92058,Mission Av & Foussat Rd,33.217063,-117.3428,San Diego County
 92008,Chestnut Av & Harding St,33.15765,-117.34083,San Diego County
@@ -4542,7 +4000,6 @@ Zip Code,stop_name,lat,lng,county
 92054,Mesa Dr & Pearwood Dr,33.210443,-117.326627,San Diego County
 92010,Marron Rd & El Camino Real,33.177764,-117.324718,San Diego County
 92010,Vista Way & Valley Glen Dr,33.182438,-117.32257,San Diego County
-90257,Mesa Dr & Vanilla Way,33.212414,-117.32136,San Diego County
 92056,Vista Way & Paseo De Laura,33.181151,-117.317269,San Diego County
 92057,N River Rd & Avenida Descanso,33.245169,-117.313988,San Diego County
 92057,Mission Av & Mission Gate Dr,33.229867,-117.312059,San Diego County
@@ -4594,15 +4051,9 @@ Zip Code,stop_name,lat,lng,county
 92083,S Santa Fe Av & Azalea Dr,33.169104,-117.206423,San Diego County
 92067,Paseo Delicias & Via De La Valle,33.023524,-117.19862,San Diego County
 92069,S Santa Fe Av & Las Flores Dr,33.156551,-117.199869,San Diego County
-92969,Mission Rd & Rancho Santa Fe Rd,33.152295,-117.19516,San Diego County
-92969,Mission Rd & Pacific St,33.150397,-117.191895,San Diego County
 92067,Paseo Delicas & La Valle Plateada,33.030363,-117.190657,San Diego County
 92067,Del Dios Hwy & Via Cuatro Caminos,33.034742,-117.175648,San Diego County
-92096,Mission Rd & Marcos St,33.144362,-117.169827,San Diego County
-92096,Mission Rd & Pico Av,33.143261,-117.165548,San Diego County
-92096,Mission Rd & San Marcos Bl,33.142338,-117.161781,San Diego County
 92069,Mission Rd & Mulberry Dr,33.144715,-117.150022,San Diego County
-96069,El Norte Pkwy & Country Club Ln,33.154728,-117.125264,San Diego County
 92069,Mission Rd & Auto Park Wy,33.12999,-117.122157,San Diego County
 92026,El Norte Pkwy & Rees Rd,33.148448,-117.114688,San Diego County
 92026,Country Club Ln & La Brea St,33.157409,-117.114137,San Diego County
@@ -4638,14 +4089,12 @@ Zip Code,stop_name,lat,lng,county
 92027,Valley Center Rd & Lake Wohlford Rd,33.159548,-117.030821,San Diego County
 92082,Valley Center Rd & Cole Grade Rd,33.231125,-117.023569,San Diego County
 92082,Valley Center Rd & Queensbridge Rd,33.228216,-116.995725,San Diego County
-92051,Vandegrift Bl & Stuart Mesa Rd,33.233738,-117.388596,San Diego County
 92054,Center Av & Horne St,33.195749,-117.373483,San Diego County
 92058,Mission Av & San Diego St,33.201945,-117.368844,San Diego County
 92054,Division St & Brooks St,33.196811,-117.366906,San Diego County
 92054,Oceanside Bl & Vine St,33.188432,-117.364625,San Diego County
 92058,Mission Av & Amick St,33.208791,-117.359048,San Diego County
 92054,Mesa Dr & Barnwell St,33.205035,-117.348019,San Diego County
-92055,E St & 10th St,33.292646,-117.348125,San Diego County
 92008,Carlsbad Village Dr & Harding St,33.162401,-117.343972,San Diego County
 92008,Chestnut Av & Harding St,33.15775,-117.340897,San Diego County
 92008,Carlsbad Village Dr & Pio Pico Dr (Library),33.164698,-117.340007,San Diego County
@@ -4677,10 +4126,8 @@ Zip Code,stop_name,lat,lng,county
 92084,Coventry Rd & Beaumont Dr,33.20179,-117.22331,San Diego County
 92081,S Santa Fe & Montgomery Dr,33.183167,-117.219231,San Diego County
 92083,S Santa Fe Av & York Dr,33.175504,-117.2121,San Diego County
-92969,Mission Rd & Rancho Santa Fe Rd,33.152883,-117.195265,San Diego County
 92069,Mission Rd & Pacific St,33.150524,-117.191766,San Diego County
 92069,Mission Rd & Pico Av,33.143446,-117.165539,San Diego County
-96069,Country Club Ln & El Norte Pkwy,33.155764,-117.12504,San Diego County
 92026,El Norte Pkwy & Rees Rd,33.149171,-117.115397,San Diego County
 92026,El Norte Pkwy & Morning View Dr,33.141719,-117.094813,San Diego County
 92025,Grand Av & Valley Bl,33.124297,-117.075499,San Diego County
@@ -4695,7 +4142,6 @@ Zip Code,stop_name,lat,lng,county
 92027,Hwy 78 & Summit Dr,33.107457,-117.044995,San Diego County
 92027,Glenridge Rd & Mountain View Dr,33.126444,-117.044547,San Diego County
 92027,Valley Center Rd & Lake Wohlford Rd,33.159893,-117.03099,San Diego County
-92051,Vandegrift Bl & Stuart Mesa Rd,33.232295,-117.389306,San Diego County
 92054,Mission Av & Ditmar St,33.19677,-117.37821,San Diego County
 92054,Mission Av & Clementine St,33.1979,-117.376354,San Diego County
 92054,Division St & Grant St,33.196222,-117.370429,San Diego County
@@ -4788,17 +4234,10 @@ Zip Code,stop_name,lat,lng,county
 92081,Poinsettia Av & Island View Way,33.136275,-117.223745,San Diego County
 92081,Poinsettia Av & Specialty Dr,33.140962,-117.219544,San Diego County
 92084,Coventry Rd & Lynmar Ln,33.203192,-117.219739,San Diego County
-92091,Via De La Valle & Cancha De Golf,32.994376,-117.212255,San Diego County
 92081,Shadowridge Dr & Sycamore Av,33.164993,-117.217243,San Diego County
-92091,Via De La Valle & Calzada Del Bosque,33.004849,-117.208622,San Diego County
 92084,S Santa Fe Av & Palmyra Dr,33.171347,-117.207138,San Diego County
-92969,S Santa Fe Av & Bosstick Bl,33.159902,-117.203507,San Diego County
 92067,Paseo Delicias & La Fremontia,33.023514,-117.198855,San Diego County
-92969,S Santa Fe Av & Las Flores Dr,33.157196,-117.200668,San Diego County
-92969,Rancho Santa Fe Rd & Capalina Rd,33.152435,-117.197111,San Diego County
 92067,Paseo Delicas & El Montevideo,33.030024,-117.1911,San Diego County
-92096,Mission Rd & Crusaders Way,33.145786,-117.175114,San Diego County
-92096,Mission Rd & Woodward St,33.142407,-117.160992,San Diego County
 92069,Mission Rd & Mulberry Dr,33.14493,-117.150498,San Diego County
 92069,Mission Rd & Richland Rd,33.14234,-117.140434,San Diego County
 92069,Mission Rd & Avenida Chapala,33.136939,-117.131128,San Diego County
@@ -4833,12 +4272,8 @@ Zip Code,stop_name,lat,lng,county
 92082,Valley Center Rd & Queensbridge Rd,33.228383,-116.996232,San Diego County
 92027,Hwy 78 & Old Milky Way,33.088323,-116.991603,San Diego County
 92082,Valley Center Rd & Thundernut Ln,33.228291,-116.9761,San Diego County
-92061,Hwy 76 & Valley Center Rd,33.288655,-116.960808,San Diego County
 92065,Hwy 78 & Indian Oaks Rd,33.072209,-116.90074,San Diego County
-92051,Santa Fe Av & 5th St,33.216205,-117.392664,San Diego County
-92051,Vandegrift Bl & Commissary,33.227,-117.391945,San Diego County
 92054,Santa Fe Av & Harbor Dr,33.207928,-117.390539,San Diego County
-92055,Santa Fe Av & Nautilus St,33.212586,-117.390969,San Diego County
 92054,Coast Hwy & Surfrider Way,33.199493,-117.382689,San Diego County
 92054,Country Club Ln & Division St,33.19761,-117.365258,San Diego County
 92054,Coast Hwy & Whaley St,33.176905,-117.363731,San Diego County
@@ -4908,17 +4343,11 @@ Zip Code,stop_name,lat,lng,county
 92078,Rancho Santa Fe Rd & Linda Vista Dr,33.140732,-117.20323,San Diego County
 92025,Escondido Bl & Mission Av,33.128255,-117.08914,San Diego County
 92026,Broadway & Lincoln Av,33.133972,-117.08708,San Diego County
-92059,Pala Mission Rd & Portillo Rd,33.364953,-117.084209,San Diego County
 92025,Escondido Bl & 15th Av,33.1074,-117.075128,San Diego County
 92025,Escondido Bl & Felicita Av,33.10521,-117.073658,San Diego County
-92059,Hwy 76 & Lilac Rd,33.364021,-117.062397,San Diego County
 92025,Bear Valley Pkwy & Kit Carson Park,33.078231,-117.057425,San Diego County
 92027,Citrus Av & Citron Pl,33.13308,-117.039209,San Diego County
 92025,Hwy 78 & San Pasqual Rd,33.097807,-117.020663,San Diego County
-92061,Hwy 76 & El Senedero Dr,33.335874,-117.005488,San Diego County
-92061,Hwy 76 & Pauma Valley Dr,33.302974,-116.978077,San Diego County
-92051,Stuart Mesa & Vaughn,33.252679,-117.404834,San Diego County
-92051,Stuart Mesa & Bloom,33.249042,-117.403107,San Diego County
 92054,Coast Hwy & Civic Center Dr,33.197286,-117.38082,San Diego County
 92054,Coast Hwy & Topeka St,33.193733,-117.37783,San Diego County
 92054,Coast Hwy & Washington Av,33.19053,-117.375124,San Diego County
@@ -4952,7 +4381,6 @@ Zip Code,stop_name,lat,lng,county
 92010,El Camino Real & Chestnut Av,33.163267,-117.319798,San Diego County
 92057,Rancho Del Oro Dr & San Ramon Dr,33.222142,-117.320378,San Diego County
 92011,Carlsbad Bl & Poinsettia Ln,33.101378,-117.318157,San Diego County
-90257,Rancho Del Oro Dr & Oregano Way,33.217677,-117.319274,San Diego County
 92010,El Camino Real & Tamarack Av,33.153614,-117.312101,San Diego County
 92058,Vandegrift Bl & 11th St,33.299424,-117.313258,San Diego County
 92057,Vandegrift Bl & 4th St,33.293749,-117.312591,San Diego County
@@ -5044,9 +4472,6 @@ Zip Code,stop_name,lat,lng,county
 92027,Midway Dr & Washington Av,33.141107,-117.053687,San Diego County
 92027,Citrus Av & Bear Valley Pkwy,33.13673,-117.041563,San Diego County
 92027,Hwy 78 & Old San Pasqual Rd,33.102711,-117.036606,San Diego County
-92061,Hwy 76 & Adams Dr,33.340235,-117.012254,San Diego County
-92061,Hwy 76 & Pauma Reservation Rd,33.329219,-117.000611,San Diego County
-92061,Hwy 76 & Cole Grade Rd,33.318523,-116.992722,San Diego County
 92065,Hwy 78 & Horizon View Dr,33.07422,-116.902831,San Diego County
 92065,Hwy 78 & Cedar St,33.054502,-116.871477,San Diego County
 92065,Hwy 78 & Olive St,33.048091,-116.871206,San Diego County
@@ -5061,10 +4486,8 @@ Zip Code,stop_name,lat,lng,county
 92008,Carlsbad Bl & Solamar Dr,33.120136,-117.326429,San Diego County
 92010,El Camino Real & Hosp Way,33.17396,-117.32414,San Diego County
 92010,Avenida De Anita & Flower Fields Way,33.176976,-117.322547,San Diego County
-90257,Douglas Dr & N River Rd,33.244819,-117.322409,San Diego County
 92010,Avenida De Anita & Via Vera,33.173398,-117.320575,San Diego County
 92057,Rancho Del Oro Dr & San Ramon Dr,33.222116,-117.320107,San Diego County
-90257,Rancho Del Oro Dr & Via Rancho Rd,33.218974,-117.318992,San Diego County
 92011,Hwy 101 & La Costa Av,33.08117,-117.307742,San Diego County
 92010,Rancho Del Oro Rd & Tournament Dr,33.186495,-117.308907,San Diego County
 92057,Vandegrift Bl & Barnett Cir,33.284951,-117.301963,San Diego County
@@ -5103,18 +4526,9 @@ Zip Code,stop_name,lat,lng,county
 92025,Escondido Bl & Mission Av,33.128597,-117.089046,San Diego County
 92025,Escondido Bl & 2nd Av,33.11884,-117.083087,San Diego County
 92025,Escondido Bl & 15th Av,33.10766,-117.075166,San Diego County
-92059,Pala Mission Rd & Temecula Rd,33.365286,-117.074888,San Diego County
 92025,Sunset Dr & Escondido Bl,33.101188,-117.070214,San Diego County
-92061,Hwy 76 & Rhonda Ln,33.335066,-117.004643,San Diego County
-92061,Hwy 76 & Pauma Reservation Rd,33.328755,-117.000051,San Diego County
-92061,Hwy 76 & Cole Grade Rd,33.31919,-116.99295,San Diego County
 92065,Hwy 78 & Cedar St,33.054702,-116.871331,San Diego County
 92065,Hwy 78 & Olive St,33.048122,-116.871046,San Diego County
-92051,Stuart Mesa & Mitchell,33.251479,-117.404352,San Diego County
-92051,Stuart Mesa & Bloom,33.249859,-117.403355,San Diego County
-92051,Santa Fe Av & 5th St,33.216731,-117.39291,San Diego County
-92055,Santa Fe Av & Nautilus St,33.212681,-117.390804,San Diego County
-92051,Stuart Mesa & Vandegrift Bl,33.233466,-117.389591,San Diego County
 92054,Coast Hwy & Surfrider Way,33.199551,-117.382482,San Diego County
 92054,Coast Hwy & Mission Av,33.196274,-117.37974,San Diego County
 92054,Coast Hwy & Michigan Av,33.193094,-117.377053,San Diego County
@@ -5135,7 +4549,6 @@ Zip Code,stop_name,lat,lng,county
 92008,Carlsbad Bl & Cerezo Dr,33.128843,-117.332786,San Diego County
 92057,El Camino Real & Mesa Dr,33.208924,-117.333302,San Diego County
 92056,El Camino Real & Oceanside Bl,33.202231,-117.332418,San Diego County
-90257,El Camino Real & Vista Oceana,33.216723,-117.33221,San Diego County
 92058,El Camino Real & Mission Av,33.227388,-117.33095,San Diego County
 92008,Monroe St & Gayle Way,33.165303,-117.328717,San Diego County
 92056,El Camino Real & Skyline Dr,33.193603,-117.327851,San Diego County
@@ -5143,10 +4556,8 @@ Zip Code,stop_name,lat,lng,county
 92008,Monroe St & Chestnut Av,33.162414,-117.326845,San Diego County
 92010,El Camino Real & Marron Rd,33.178511,-117.326592,San Diego County
 92058,Douglas Dr & Mission Av,33.229438,-117.325971,San Diego County
-90257,Douglas Dr & El Camino Real,33.232251,-117.324985,San Diego County
 92008,El Camino Real & Carlsbad Village Dr,33.172277,-117.322752,San Diego County
 92010,Avenida De Anita & Avenida De Louisa,33.175359,-117.322503,San Diego County
-90257,Douglas Dr & Pala Rd,33.238448,-117.322461,San Diego County
 92010,Avenida De Anita & Calle Susana,33.174685,-117.321105,San Diego County
 92010,El Camino Real & Chestnut Av,33.164751,-117.319948,San Diego County
 92011,Carlsbad Bl & Poinsettia Ln,33.102303,-117.318179,San Diego County
@@ -5175,9 +4586,9 @@ Zip Code,stop_name,lat,lng,county
 92056,Emerald Dr & Silver Fox Ln,33.203969,-117.279449,San Diego County
 92083,Emerald Dr & Borra Ct,33.201114,-117.279448,San Diego County
 92011,Yarrow Dr & Camino Vida Roble,33.120151,-117.273579,San Diego County
-92075,Hwy 101 & Lomas Santa Fe Dr,32.992676,-117.271706,San Diego County
+92075,Hwy 101 & Lomas Santa Fe Dr,32.992676,-117.271706,CAL Fire San Diego Unit
 92011,El Camino Real & Faraday Av,33.136789,-117.273411,San Diego County
-92075,Hwy 101 & Via De La Valle,32.980897,-117.26899,San Diego County
+92075,Hwy 101 & Via De La Valle,32.980897,-117.26899,CAL Fire San Diego Unit
 92014,Camino Del Mar & 29th St,32.972405,-117.268375,CAL Fire San Diego Unit
 92009,El Camino Real & Costa Del Mar Rd,33.089723,-117.269242,San Diego County
 92014,Camino Del Mar & 24th St,32.96891,-117.267619,San Diego County
@@ -5202,9 +4613,7 @@ Zip Code,stop_name,lat,lng,county
 92083,N Santa Fe Av & Paseo Marguerita,33.232065,-117.249394,San Diego County
 92081,Melrose Dr & Buena Vista Dr,33.167561,-117.247417,San Diego County
 92028,S Mission Rd & Pepper Tree Ln,33.363267,-117.249101,San Diego County
-92093,N Torrey Pines Rd & Torrey Pines Golf Course,32.905431,-117.243229,San Diego County
 92084,N Santa Fe Av & Angeles Vista Dr,33.225471,-117.246434,San Diego County
-92093,N Torrey Pines Rd & Science Park Rd,32.902044,-117.242567,San Diego County
 92081,Melrose Dr & Live Oak Rd,33.165129,-117.245739,San Diego County
 92083,N Santa Fe Av & Orange St,33.205173,-117.244849,San Diego County
 92084,N Santa Fe Av & Townsite Dr,33.211724,-117.244797,San Diego County
@@ -5258,14 +4667,12 @@ Zip Code,stop_name,lat,lng,county
 92025,Escondido Bl & 9th Av,33.113213,-117.079105,San Diego County
 92025,Escondido Bl & 13th Av,33.10986,-117.076735,San Diego County
 92025,Escondido Bl & Felicita Av,33.105229,-117.073393,San Diego County
-92059,Pala Mission Rd & Temecula Rd,33.365156,-117.072053,San Diego County
 92025,Bear Valley Pkwy & Mary Ln (San Pasqual HS),33.07715,-117.057368,San Diego County
 92025,Bear Valley Pkwy & Peet Ln,33.085837,-117.056958,San Diego County
 92027,Midway Dr & Mission Av,33.144316,-117.056046,San Diego County
 92027,Midway Dr & 460,33.139018,-117.052508,San Diego County
 92027,Citrus Av & Bear Valley Pkwy,33.138626,-117.042664,San Diego County
 92082,Valley Center Rd & Woods Valley Rd,33.206321,-117.033271,San Diego County
-92061,Hwy 76 & Adams Dr,33.340651,-117.012982,San Diego County
 92065,Hwy 78 & Horizon View Dr,33.07523,-116.902692,San Diego County
 92054,Oceanside Bl & Macdonald St,33.199141,-117.347618,San Diego County
 92054,Mesa Dr & Wilcox St,33.210275,-117.34132,San Diego County
@@ -5300,10 +4707,8 @@ Zip Code,stop_name,lat,lng,county
 92082,Valley Center Rd & Golsh Rd,33.277455,-116.953759,San Diego County
 92082,Valley Center Rd & Arviso Rd,33.270169,-116.953864,San Diego County
 92082,Valley Center Rd & Tribal Rd,33.272782,-116.953776,San Diego County
-92051,Vandegrift Bl & Building 22831,33.287668,-117.371183,San Diego County
 92054,Oceanside Bl & Coast Hwy,33.184039,-117.368724,San Diego County
 92054,Oceanside Blvd & I-5,33.189469,-117.363506,San Diego County
-92051,Vandegrift Bl & 7th St,33.294332,-117.357808,San Diego County
 92054,Oceanside Blvd & Crouch St,33.19439,-117.35441,San Diego County
 92056,Oceanside Blvd & Rancho Del Oro Dr,33.203201,-117.31195,San Diego County
 92056,MiraCosta College,33.192362,-117.303695,San Diego County
@@ -5320,7 +4725,6 @@ Zip Code,stop_name,lat,lng,county
 92083,S Santa Fe Av & Monte Vista Dr (1069),33.190941,-117.228282,San Diego County
 92084,Vale Terrace Dr & Brengle Terrace Pk,33.206129,-117.219354,San Diego County
 92014,Via De La Valle & Las Palomas,32.994258,-117.212169,San Diego County
-92096,Mission Rd & Knoll Rd,33.145072,-117.172851,San Diego County
 92069,Mission Rd & Mission Hills Ct,33.143883,-117.144753,San Diego County
 92026,Country Club Ln & Montego Av,33.157363,-117.103364,San Diego County
 92025,Valley Pkwy & Ivy St,33.125124,-117.077339,San Diego County
@@ -5337,7 +4741,6 @@ Zip Code,stop_name,lat,lng,county
 92082,Valley Center Rd & Mazzetti Ln,33.277369,-116.953585,San Diego County
 92082,Valley Center Rd & Tribal Rd,33.273732,-116.953595,San Diego County
 92065,Hwy 78 & Mountain View Church,33.061941,-116.871653,San Diego County
-92051,Stuart Mesa & Donald Cook Rd,33.257162,-117.421532,San Diego County
 92054,Coast Hwy & Eaton St,33.170442,-117.358041,San Diego County
 92008,Carlsbad Bl & Cypress Av,33.161687,-117.353992,San Diego County
 92008,Marron Rd & Monroe St,33.176656,-117.338715,San Diego County
@@ -5366,18 +4769,13 @@ Zip Code,stop_name,lat,lng,county
 92084,Vale Terrace & 1229,33.208444,-117.222566,San Diego County
 92081,Shadowridge Dr & Watson Way (780),33.166417,-117.221367,San Diego County
 92084,Vale Terrace Dr & Brengle Terrace Pk,33.206565,-117.21969,San Diego County
-92969,S Santa Fe Av & Azalea Dr,33.167919,-117.205842,San Diego County
 92083,S Santa Fe Av & Poinsettia Av (2430),33.164854,-117.205217,San Diego County
 92069,Mission Rd & San Marcos Senior Ctr,33.143039,-117.163683,San Diego County
 92069,Mission Rd & Mission Hills HS,33.143287,-117.142538,San Diego County
 92029,Mission Rd & Enterprise St (1564),33.126812,-117.113707,CAL Fire San Diego Unit
 92026,Country Club Ln & Montego Av,33.157576,-117.103497,San Diego County
 92027,Midway Dr & Valley Pkwy,33.139201,-117.052748,San Diego County
-92059,Hwy 76 & Agua Tibia Ranch,33.354988,-117.031689,San Diego County
-92061,Hwy 76 & Grassy Meadow Rd,33.322362,-116.995557,San Diego County
-92061,Hwy 76 & Lazy H Ranch Restaurant,33.290053,-116.96728,San Diego County
 92027,Hwy 78 & San Pasqual Academy,33.090646,-116.950499,San Diego County
-92051,Stuart Mesa & Edson Range,33.25865,-117.414291,San Diego County
 92054,Santa Fe Av & Del Mar Gate,33.208473,-117.390526,San Diego County
 92054,Mesa Dr & Hoover St,33.204339,-117.35036,San Diego County
 92057,El Camino Real & Villa Mesa,33.210792,-117.333279,San Diego County
@@ -5395,25 +4793,12 @@ Zip Code,stop_name,lat,lng,county
 92084,Vale Terrace Dr & Ponderosa Dr,33.209047,-117.227645,San Diego County
 92078,Rancho Santa Fe Rd & Security Pl,33.134486,-117.206446,San Diego County
 92067,Del Dios Hwy & Via Cuatro Caminos,33.034924,-117.17552,San Diego County
-92096,CSUSM Craven Circle,33.128589,-117.160085,San Diego County
-96069,Country Club Ln & Abby Ln,33.15669,-117.123431,San Diego County
 92029,Mission Rd & Andreasen Dr,33.124651,-117.107935,San Diego County
 92026,Morning View Dr & Morning View Ter,33.140367,-117.09725,San Diego County
 92026,Morning View Dr & Riverwalk Apts,33.138184,-117.096519,San Diego County
-92059,Hwy 76 & Fox Raceway,33.363925,-117.059467,San Diego County
-92059,Hwy 76 & Agua Tibia Ranch,33.355071,-117.031466,San Diego County
 92025,Hwy 78 & Cloverdale Rd,33.097688,-117.021368,San Diego County
-92061,Hwy 76 & 14970,33.338216,-117.007011,San Diego County
-92061,Hwy 76 & Roberts Ranch,33.322463,-116.995361,San Diego County
-92061,Hwy 76 & Pauma Valley Dr,33.303435,-116.978338,San Diego County
 92027,Hwy 78 & FAH Medical Station,33.089934,-116.976199,San Diego County
-92061,Hwy 76 & Pauma Valley Community Ctr,33.29343,-116.969173,San Diego County
 92065,Hwy 78 & Ash St,33.060483,-116.871437,San Diego County
-92051,Stuart Mesa & Las Flores,33.288321,-117.440953,San Diego County
-92051,Edson Range & Bldg 31498,33.256626,-117.420701,San Diego County
-92051,Main Gate & Edson Range,33.258627,-117.414885,San Diego County
-92055,Brown St & Opp 43532 (Las Pulgas),33.349781,-117.412686,San Diego County
-92055,Brown St & Henderson,33.344261,-117.410752,San Diego County
 92008,Monroe St & Ave Of Trees,33.169634,-117.334104,San Diego County
 92057,Vandegrift Bl & Base Stables,33.289193,-117.30674,San Diego County
 92010,El Camino Real & Cannon Rd,33.149055,-117.296461,San Diego County
@@ -5426,14 +4811,12 @@ Zip Code,stop_name,lat,lng,county
 92081,La Mirada Dr & Poinsettia Av,33.148236,-117.216337,San Diego County
 92025,Escondido Bl & Washington Av,33.125087,-117.087664,San Diego County
 92054,Coast Hwy & Morse St,33.178545,-117.365123,San Diego County
-90257,Douglas Dr & Country Villas Apts,33.233061,-117.324869,San Diego County
 92007,Hwy 101 & Cardiff Beach,33.013007,-117.27985,
 92075,Stevens Av & San Rodolfo Dr,32.993286,-117.262108,San Diego County
 92075,Stevens Av & Academy Dr,32.991042,-117.261434,San Diego County
 92075,Stevens Av & Genevieve St,32.989089,-117.260619,San Diego County
 92075,Valley Av & Waterford Dr,32.981163,-117.257948,
 92083,Melrose Dr & Shadowridge Meadows Apts,33.169329,-117.250768,San Diego County
-92093,N Torrey Pines Rd & NU System Drwy,32.910339,-117.244715,San Diego County
 92084,Oak Dr & 1506 (MHP),33.221288,-117.221881,San Diego County
 92069,S Santa Fe Av & Bosstick Bl (2907),33.159148,-117.203274,San Diego County
 92029,Valley Pkwy & Citracado Pkwy,33.097473,-117.111124,San Diego County
@@ -5441,8 +4824,6 @@ Zip Code,stop_name,lat,lng,county
 92007,Hwy 101 & Cardiff Beach,33.013181,-117.279598,CAL Fire San Diego Unit
 92028,S Mission Rd & Fairbrook Farms (4949),33.301283,-117.226025,San Diego County
 92026,Broadway & 1160,33.137208,-117.088235,San Diego County
-92051,Las Flores & Bldg 41398,33.28857,-117.441369,San Diego County
-92051,Vandegrift Bl & Commissary,33.227132,-117.391738,San Diego County
 92054,Coast Hwy & Las Salinas MHP,33.180164,-117.366229,San Diego County
 92056,Sunset Dr & Sky Haven Ln,33.184461,-117.279093,San Diego County
 92075,Hwy 101 & Cliff St,32.997116,-117.273332,San Diego County
@@ -5458,17 +4839,11 @@ Zip Code,stop_name,lat,lng,county
 92084,E Vista Way & Monte Mar Rd,33.219177,-117.226274,San Diego County
 92054,Oceanside Blvd & El Camino Real W,33.201688,-117.333673,San Diego County
 92024,Hwy 101 & Daphne St,33.061712,-117.301165,San Diego County
-92055,Stuart Mesa & Las Pulgas Rd (Scout Camp),33.300161,-117.45607,San Diego County
-92055,Las Flores & Boy Scout Camp,33.299999,-117.456105,San Diego County
 92007,Hwy 101 & Chesterfield Dr,33.020264,-117.282886,San Diego County
 92024,Encinitas Bl & Vulcan Av,33.048751,-117.2932,San Diego County
 92007,Hwy 101 & Chesterfield Dr,33.01856,-117.282219,San Diego County
 92075,Plaza St & Highway 101,32.991703,-117.272093,San Diego County
 92011,Carlsbad Poinsettia Station,33.109718,-117.319024,San Diego County
-92096,Mission Rd & Aberdeen Av,33.145906,-117.177638,San Diego County
-92096,Mission Rd & Aberdeen Av,33.146227,-117.178445,San Diego County
-92051,Stuart Mesa & Yamanaka,33.25526,-117.407895,San Diego County
-92051,Stuart Mesa & Yamanaka,33.255137,-117.407961,San Diego County
 92024,El Camino Real & Town Center Dr,33.063906,-117.262384,CAL Fire San Diego Unit
 92054,El Camino Real & Camino Colony Apts,33.204915,-117.333729,San Diego County
 92081,Sycamore Av & Sycamore Hills Apts,33.159124,-117.221703,San Diego County
@@ -5525,7 +4900,6 @@ Zip Code,stop_name,lat,lng,county
 92027,Lincoln Av & Rose St,33.143528,-117.065226,San Diego County
 92027,Lincoln Av & Begonia St,33.145075,-117.062656,San Diego County
 92027,Lincoln Av & Goldenrod St,33.147112,-117.059224,San Diego County
-92093,N Torrey Pines Rd & NU System Drwy,32.910518,-117.244322,San Diego County
 92054,Jefferson St & Vista Way,33.182945,-117.339798,San Diego County
 92024,El Camino Real & Calle Barcelona,33.073704,-117.262544,San Diego County
 92057,Douglas Dr & Vandegrift Bl,33.273407,-117.296831,San Diego County
@@ -5537,7 +4911,6 @@ Zip Code,stop_name,lat,lng,county
 92057,Douglas Dr & Westport Dr,33.247147,-117.322751,San Diego County
 92009,El Camino Real & Calle Barcelona,33.072752,-117.262754,San Diego County
 92024,El Camino Real & Leucadia Bl,33.067083,-117.262512,CAL Fire San Diego Unit
-92051,Stuart Mesa & Ortiz,33.256353,-117.410261,San Diego County
 92026,Morning View Dr & El Norte Pkwy,33.142758,-117.096625,San Diego County
 92057,Mission Av & Parish Way,33.230753,-117.316012,San Diego County
 92057,Town Center North & Walmart,33.241762,-117.292888,San Diego County
@@ -5611,13 +4984,11 @@ Zip Code,stop_name,lat,lng,county
 92054,Seagaze Dr & Ditmar St,33.195803,-117.377397,San Diego County
 92057,Via Rancho Rd & Sabadell Dr,33.220589,-117.31462,San Diego County
 92057,Via Rancho Rd & Ivey Ranch Rd,33.220281,-117.309689,San Diego County
-90257,Old Grove Rd & Red Maple Way,33.234926,-117.308435,San Diego County
 92057,Frazee Rd & Montrose Way,33.24069,-117.300616,San Diego County
 92057,Frazee Rd & Mission Av,33.237743,-117.296831,San Diego County
 92057,College Blvd & Silver Bluff Dr,33.238933,-117.291608,San Diego County
 92057,Frazee Rd & Oleander Dr,33.241148,-117.301407,San Diego County
 92057,Frazee Rd & Pala Rd,33.238813,-117.307452,San Diego County
-90257,Old Grove Rd & Red Maple Way,33.234458,-117.308714,San Diego County
 92057,Via Rancho Rd & Mission Gate Dr,33.220522,-117.309948,San Diego County
 92057,Mission Av & Douglas Dr,33.227985,-117.325286,San Diego County
 92057,Mission Av & Avenida Calafia,33.233814,-117.30025,San Diego County
@@ -5676,13 +5047,7 @@ Zip Code,stop_name,lat,lng,county
 92028,S Mission Rd & Winterhaven Rd,33.346162,-117.242078,San Diego County
 92028,S Mission Rd & Almond St,33.366458,-117.249855,San Diego County
 92054,Vandegrift Bl & Papagallo Rd,33.278368,-117.297846,San Diego County
-92059,Pala Casino,33.363909,-117.085958,San Diego County
-92059,Pala Mission Rd & Portillo Rd,33.364849,-117.084286,San Diego County
-92059,Pala Mission Rd & Mission St,33.365163,-117.074917,San Diego County
-92059,Pala Mission Rd & Temecula Rd,33.365073,-117.072192,San Diego County
 92065,Main St & 14th St,33.038898,-116.873925,San Diego County
-90257,Old Grove Rd & Frazee Rd,33.236877,-117.309002,San Diego County
-90257,Old Grove Rd & Frazee Rd,33.236542,-117.309095,San Diego County
 92057,Mission Av & Valley Heights Dr,33.232307,-117.300988,San Diego County
 92028,S Mission Rd & Fairbrook Farms (4949),33.30238,-117.226493,San Diego County
 92029,Valley Pkwy & Target,33.113994,-117.100979,San Diego County
@@ -5708,7 +5073,7 @@ Zip Code,stop_name,lat,lng,county
 92007,Santa Fe Dr & Mackinnon Av,33.036198,-117.275802,CAL Fire San Diego Unit
 92007,Santa Fe Dr & Balour Dr,33.03618,-117.268672,CAL Fire San Diego Unit
 92007,Santa Fe Dr & Monterey Vista Way,33.036342,-117.26749,CAL Fire San Diego Unit
-92007,Santa Fe Dr & Bonita Dr,33.036344,-117.274094,San Diego County
+92007,Santa Fe Dr & Bonita Dr,33.036344,-117.274094,CAL Fire San Diego Unit
 92007,Santa Fe Dr & Gardena Rd,33.036361,-117.279664,CAL Fire San Diego Unit
 92056,Emerald Dr & West Dr,33.191068,-117.279448,San Diego County
 92056,Emerald Dr & West Dr,33.190904,-117.279629,San Diego County
@@ -5738,7 +5103,6 @@ Zip Code,stop_name,lat,lng,county
 92056,Oceanside Blvd & Corporate Centre Dr,33.204039,-117.306104,San Diego County
 92027,Grand Av & Harding St,33.129727,-117.059822,San Diego County
 92027,Midway Dr & E Valley Pkwy,33.136569,-117.051316,San Diego County
-92061,Hwy 76 & Lazy H Dr,33.293426,-116.969381,San Diego County
 92056,Avenida De La Plata & Avenida Del Oro,33.208992,-117.293672,San Diego County
 92056,Avenida Del Oro & Avenida De La Plata,33.208342,-117.293742,San Diego County
 92056,Avenida De La Plata & Plaza Real (South),33.210492,-117.29126,San Diego County
@@ -5771,7 +5135,6 @@ Zip Code,stop_name,lat,lng,county
 92010,Carlsbad Village Dr & Harwich Dr,33.167808,-117.299261,San Diego County
 92008,Highland Dr & Magnolia St,33.157211,-117.331888,San Diego County
 92008,Highland Dr & Magnolia St,33.157177,-117.332028,San Diego County
-92096,Craven Dr & Twin Oaks Valley Rd,33.127229,-117.164466,San Diego County
 92069,Las Posas Rd & Los Vallecitos Bl,33.146162,-117.189849,San Diego County
 92027,Citrus Av & Valley Pkwy,33.140317,-117.043945,San Diego County
 92011,Carlsbad Bl & Breakwater Rd,33.104952,-117.31967,San Diego County
@@ -5800,15 +5163,13 @@ Zip Code,stop_name,lat,lng,county
 92069,Rancho Santa Fe Rd & Melrose Dr,33.108482,-117.225181,San Diego County
 92078,Rancho Santa Fe Rd & Meadowlark Ranch Rd,33.109318,-117.225569,San Diego County
 92009,Rancho Santa Fe Rd & Camino De Los Coches,33.075267,-117.239959,San Diego County
-92093,Scholars Dr South & Revelle College Dr,32.872517,-117.241402,San Diego County
-92093,Scholars Dr South & Revelle College Dr,32.872662,-117.241527,San Diego County
 92075,San Rodolfo Dr & Stevens Av,32.993949,-117.260273,San Diego County
 92057,Douglas Dr & Teal Way,33.272878,-117.299554,San Diego County
 92009,El Camino Real & Poinsettia Ln,33.110028,-117.269944,San Diego County
 92010,El Camino Real & College Bl,33.14353,-117.283698,San Diego County
 92054,El Camino Real & Social Security Office,33.188559,-117.328103,San Diego County
 92069,Mission Rd & Mission Hills HS,33.142669,-117.14193,San Diego County
-92075,Hwy 101 & Dahlia Dr,32.987918,-117.270621,San Diego County
+92075,Hwy 101 & Dahlia Dr,32.987918,-117.270621,CAL Fire San Diego Unit
 92081,Sycamore Av & Grand Av,33.155138,-117.224656,San Diego County
 92078,Business Park & Scott St,33.139898,-117.230228,San Diego County
 92078,Poinsettia Av & Corporate View,33.13514,-117.225061,San Diego County
@@ -5822,10 +5183,7 @@ Zip Code,stop_name,lat,lng,county
 92083,Bobier Dr & Marabou Ln,33.221348,-117.253283,San Diego County
 92083,Bobier Dr & Marabou Ln,33.221114,-117.253281,San Diego County
 92057,Ivey Ranch Rd & Justina Dr,33.21722,-117.310555,San Diego County
-90257,Rancho Del Oro Dr & Mesa Dr,33.214166,-117.317768,San Diego County
 92056,Rancho Del Oro Dr & El Corazon Dr,33.209221,-117.312831,San Diego County
-90257,Rancho Del Oro Dr & Seagate Way (North),33.207433,-117.311556,San Diego County
-90257,Ocean Ranch Blvd & Corporate Centre Dr,33.212386,-117.303722,San Diego County
 92056,Corporate Center & Ocean Ranch Blvd,33.212251,-117.303325,San Diego County
 92056,Corporate Centre Dr & Ocean Ranch Blvd,33.211728,-117.302779,San Diego County
 92056,Corporate Centre & Oceanic Dr,33.20606,-117.305136,San Diego County
@@ -5837,8 +5195,6 @@ Zip Code,stop_name,lat,lng,county
 92056,Avenida Del Oro & Old Grove Rd,33.216235,-117.294072,San Diego County
 92056,Avenida Del Oro & US Post Office,33.211612,-117.295047,San Diego County
 92081,Sycamore Av & University Dr,33.170449,-117.212195,San Diego County
-90257,Via Rancho Rd & Rancho Del Oro,33.219718,-117.318129,San Diego County
-96069,Mission Rd & Barham Ln,33.131378,-117.12434,San Diego County
 92057,Rancho Del Oro Rd & Via Rancho Rd,33.220161,-117.319168,San Diego County
 92056,Avenida Del Oro & Windansea St,33.21411,-117.294054,San Diego County
 92056,Lake Bl & Esplanade St,33.179768,-117.290772,San Diego County
@@ -5854,17 +5210,12 @@ Zip Code,stop_name,lat,lng,county
 92054,Oceanside Blvd & Melrose Dr,33.220592,-117.259967,San Diego County
 92009,Rancho Santa Fe Rd & Avenida Soledad,33.096322,-117.22296,San Diego County
 92009,Rancho Santa Fe Rd & Avenida Soledad,33.095937,-117.223806,San Diego County
-92969,Rancho Santa Fe Rd & Capalina Rd,33.151616,-117.197388,San Diego County
-92969,S Santa Fe Av & Buena Creek Rd,33.173172,-117.207867,San Diego County
 92056,Corporate Centre Dr & Avenida De La Plata,33.209016,-117.301872,San Diego County
 92056,Oceanside Bl & Ord Way,33.210765,-117.277619,San Diego County
-96069,Auto Park Way & Mission Rd,33.130225,-117.123164,San Diego County
 92069,Mission Rd & Bennett Av,33.136046,-117.129963,San Diego County
 92081,Longhorn Dr & Crystal Ridge Way,33.163721,-117.24987,San Diego County
 92025,2nd Av & Centre City Pkwy,33.118384,-117.085372,San Diego County
 92009,El Camino Real & Camino Vida Roble,33.120412,-117.266862,San Diego County
-90257,Mesa Dr & Rancho Del Oro,33.214706,-117.317065,San Diego County
-90257,Mesa Dr & Pacifica Way,33.218658,-117.299873,San Diego County
 92008,Cannon Rd & Grand Pacific Dr,33.134174,-117.314493,San Diego County
 92008,Cannon Rd & Grand Pacific Dr,33.134488,-117.314232,San Diego County
 92078,Barham Dr & La Moree Rd,33.134778,-117.154594,San Diego County
@@ -5879,7 +5230,6 @@ Zip Code,stop_name,lat,lng,county
 92081,Buena Creek Station,33.173356,-117.207406,San Diego County
 92083,Primrose Av & Palmyra Dr,33.17052,-117.207733,San Diego County
 92069,Mission Rd & Las Posas Rd,33.149227,-117.190013,San Diego County
-92096,Mission Rd & Val Preda Rd,33.142003,-117.157008,San Diego County
 92083,Lobelia Dr & Sycamore Av,33.169448,-117.212267,San Diego County
 92056,Ocean Ranch Blvd & Rancho Del Oro Dr,33.209801,-117.312311,San Diego County
 92009,Rancho Santa Fe Rd & La Costa Av,33.081921,-117.236265,San Diego County
@@ -5914,11 +5264,9 @@ Zip Code,stop_name,lat,lng,county
 92057,Rancho Del Oro Dr & Hwy 76,33.228729,-117.318127,San Diego County
 92058,Los Arbolitos Blvd & Coconut Way,33.233148,-117.337508,San Diego County
 92058,Pala Rd & Fredricks Av,33.236153,-117.335342,San Diego County
-90257,Pala Rd & Christina Ct,33.237633,-117.329843,San Diego County
 92057,Pala Rd & Rio Vista Dr,33.237963,-117.324709,San Diego County
 92057,Pala Rd & Douglas Dr,33.238151,-117.323188,San Diego County
 92057,Pala Rd & Rio Vista Dr,33.238162,-117.32581,San Diego County
-90257,Pala Rd & School Entrance,33.238032,-117.329414,San Diego County
 92058,Pala Rd & Oakleaf Dr,33.236356,-117.334831,San Diego County
 92058,Los Arbolitos Bl & Orr St,33.233055,-117.337744,San Diego County
 92084,Townsite Dr & Santa Fe Av,33.211296,-117.244557,San Diego County
@@ -5971,10 +5319,8 @@ Zip Code,stop_name,lat,lng,county
 92029,Valley Pkwy & Claudan Rd,33.095308,-117.111926,San Diego County
 92027,Midway Dr & E. Grand Ave,33.134722,-117.049937,San Diego County
 92027,E. Grand Av & Rose St,33.13074,-117.057587,San Diego County
-92059,Hwy 76 & Pala Transfer Station,33.363844,-117.05983,San Diego County
 92027,Bear Valley Pkwy & Oak Hill Dr,33.132255,-117.045067,San Diego County
 92010,Vista Way & Italia Way,33.180613,-117.313576,San Diego County
-92061,Casino Pauma,33.329271,-116.991986,San Diego County
 92056,Avenida De La Plata & Across from Genentech,33.208415,-117.299027,San Diego County
 92029,Del Dios Hwy & Toyon Canyon Rd,33.061003,-117.124631,San Diego County
 92029,Del Dios Hwy & Mt Israel Rd,33.06325,-117.124086,San Diego County
@@ -5983,10 +5329,8 @@ Zip Code,stop_name,lat,lng,county
 92010,College Bl & Cannon Rd,33.155699,-117.2875,San Diego County
 92008,El Camino Real & Palomar Airport Rd,33.130174,-117.266918,San Diego County
 92010,Cannon Rd & College Bl,33.154678,-117.287806,San Diego County
-92055,Naval Hospital Camp Pendleton,33.220387,-117.389374,San Diego County
 92084,Arcadia Av & E Vista Way,33.224831,-117.225273,San Diego County
 92056,College Blvd & Silver Bluff Dr,33.23972,-117.290342,San Diego County
-92096,Mission Rd & Marcos St,33.144734,-117.170597,San Diego County
 92083,Olive Av & Plymouth Dr,33.204832,-117.250966,San Diego County
 92084,Eucalyptus Av & Crescent Dr,33.198155,-117.227352,San Diego County
 92057,San Luis Rey Transit Center  Stall 2,33.254522,-117.298539,San Diego County
@@ -5998,7 +5342,6 @@ Zip Code,stop_name,lat,lng,county
 92057,San Luis Rey Transit Center  Stall 10,33.254363,-117.298481,San Diego County
 92008,El Camino  Real & Lisa St,33.151434,-117.303655,San Diego County
 92029,Andreasen Dr & Enterprise St,33.111957,-117.116227,San Diego County
-92059,Hwy 76 & Magee Rd,33.363774,-117.057136,San Diego County
 92009,Rancho Santa Fe Rd & Via Mercato,33.083845,-117.23069,San Diego County
 92009,Rancho Santa Fe Rd & Paseo Lupino,33.084017,-117.232013,San Diego County
 92058,Mission Av & Roymar Rd,33.215452,-117.345107,San Diego County
@@ -6010,13 +5353,10 @@ Zip Code,stop_name,lat,lng,county
 92010,El Camino Real FS Cannon,33.149894,-117.297966,San Diego County
 92011,El Camino Real & Cassia Rd,33.114615,-117.271131,San Diego County
 92011,College Blvd & Faraday Av,33.135561,-117.285602,San Diego County
-90257,Rancho Del Oro Dr & Seagate Way (South),33.205844,-117.311398,San Diego County
 92056,Avenida De La Plata & Avenida De Oro,33.208634,-117.295056,San Diego County
-92039,Lebon Dr & La Jolla Village Dr,32.870621,-117.223926,San Diego County
 92083,S Santa Fe Av & Broadway,33.200655,-117.242669,San Diego County
 92083,Santa Fe Ave & Broadway,33.200402,-117.242762,San Diego County
 92078,Rancho Santa Fe & 9th St,33.144944,-117.201126,San Diego County
-92039,Lebon Dr & Nobel Dr,32.868777,-117.224714,San Diego County
 92025,Broadway & Mission Av,33.129977,-117.085316,San Diego County
 92084,N Santa Fe Ave & Adobe Estates Dr,33.228659,-117.247849,San Diego County
 92054,Oceanside Transit Center,33.190875,-117.37835,CAL Fire San Diego Unit
@@ -6029,30 +5369,22 @@ Zip Code,stop_name,lat,lng,county
 92083,Vista Transit Center,33.202788,-117.244731,San Diego County
 92083,Civic Center - Vista Station,33.190535,-117.237476,San Diego County
 92081,Buena Creek Station,33.1735,-117.207393,San Diego County
-92096,Palomar College Station,33.146953,-117.185314,San Diego County
-92096,San Marcos Civic Center Station,33.142267,-117.161995,San Diego County
-92096,Cal State San Marcos Station,33.134771,-117.153585,San Diego County
 92069,Nordahl Rd Station,33.131112,-117.124154,CAL Fire San Diego Unit
 92025,Escondido Transit Center,33.118419,-117.09216,San Diego County
-92055,WEST RING RD & WEST RING RD,33.220637,-117.389979,San Diego County
 92054,Oceanside Transit Center Platform 3,33.190552,-117.378206,San Diego County
 92008,Carlsbad Village Station,33.161787,-117.351867,San Diego County
 92011,Carlsbad Poinsettia Station,33.109794,-117.319613,San Diego County
 92024,Encinitas Station,33.047927,-117.293357,San Diego County
-92075,Solana Beach Station,32.994933,-117.272046,San Diego County
-92092,Sorrento Valley Station,32.903369,-117.225677,San Diego County
+92075,Solana Beach Station,32.994933,-117.272046,CAL Fire San Diego Unit
 92110,San Diego - Old Town,32.755277,-117.199754,San Diego County
 92101,San Diego - Santa Fe Depot,32.71887,-117.17007,San Diego County
 92054,Oceanside Transit Center,33.18856,-117.376487,San Diego County
 92008,Carlsbad Village Station,33.160539,-117.350616,San Diego County
 92011,Carlsbad Poinsettia Station,33.107188,-117.318487,San Diego County
 92024,Encinitas Station,33.046285,-117.293125,San Diego County
-92075,Solana Beach Station,32.9922,-117.271459,San Diego County
-92092,Sorrento Valley Station,32.902257,-117.224498,San Diego County
+92075,Solana Beach Station,32.9922,-117.271459,CAL Fire San Diego Unit
 92110,San Diego - Old Town,32.753434,-117.199258,San Diego County
 92101,San Diego - Santa Fe Depot,32.716895,-117.170069,San Diego County
-92093,VA Hospital,32.874894,-117.233477,San Diego County
-92161,VA Hospital,32.874753,-117.233834,San Diego County
 92054,Coast Hwy & Civic Center Dr,33.197516,-117.380767,San Diego County
 92008,Plaza Camino Real,33.178328,-117.336914,San Diego County
 92008,Plaza Camino Real Transit Center Stall 2,33.178329,-117.336735,San Diego County
@@ -6068,10 +5400,6 @@ Zip Code,stop_name,lat,lng,county
 92083,Vista Transit Center Stall 8,33.203523,-117.245451,San Diego County
 92083,Vista Transit Center Stall 9,33.2037,-117.245532,San Diego County
 92083,Vista Transit Center Stall 10,33.203828,-117.245593,San Diego County
-92969,Palomar College Transit Center Stall 1,33.147694,-117.185682,San Diego County
-92969,Palomar College Transit Center Stall 2,33.147747,-117.18589,San Diego County
-92969,Palomar College Transit Center Stall 3,33.147802,-117.186092,San Diego County
-92969,Palomar College Transit Center Stall 4,33.147913,-117.185931,San Diego County
 92069,Palomar College Transit Center Stall 5,33.14785,-117.185732,San Diego County
 92027,Washington Av & Ash St,33.133499,-117.067187,San Diego County
 92025,Mission Av & Broadway,33.130418,-117.084889,San Diego County
@@ -6086,7 +5414,6 @@ Zip Code,stop_name,lat,lng,county
 92054,Oceanside Transit Center Stall 8,33.193507,-117.379675,San Diego County
 92054,Oceanside Transit Center Stall 9,33.193655,-117.379791,San Diego County
 92054,Oceanside Transit Center Stall 10,33.193802,-117.379921,San Diego County
-96069,Center Dr & Avenida Ricardo,33.135926,-117.121602,San Diego County
 92027,El Norte Pkwy & E Valley Pkwy,33.149833,-117.03399,San Diego County
 92009,El Camino Real & Circle K,33.087286,-117.268791,San Diego County
 92027,El Norte Pkwy & Rose St,33.148104,-117.069504,CAL Fire San Diego Unit
@@ -6097,11 +5424,9 @@ Zip Code,stop_name,lat,lng,county
 92025,Valley Pkwy & Tulip St,33.117673,-117.093637,San Diego County
 92025,Del Lago Transit Station,33.072198,-117.070413,San Diego County
 92057,Rancho Del Oro Dr & Craven Rd,33.226374,-117.318144,San Diego County
-92039,UTC Transit Center,32.868324,-117.213439,San Diego County
 92024,El Camino Real & Encinitas Bl,33.044819,-117.259413,San Diego County
 92058,El Camino Real & Island Way,33.230611,-117.326895,San Diego County
 92024,El Camino Real & Encinitas Blvd,33.047423,-117.259778,CAL Fire San Diego Unit
-92161,Villa La Jolla Dr & La Jolla Village Dr,32.872489,-117.233946,San Diego County
 92010,College Bl & El Camino Real,33.142326,-117.283777,San Diego County
 92011,Palomar Airport Rd & El Fuerte St,33.129494,-117.251932,San Diego County
 92011,Carlsbad Poinsettia Station,33.10914,-117.31927,San Diego County
@@ -6109,9 +5434,7 @@ Zip Code,stop_name,lat,lng,county
 92024,Encinitas Station,33.045418,-117.292782,San Diego County
 92054,Oceanside Transit Center,33.193669,-117.379713,San Diego County
 92110,Old Town Transit Center,32.754665,-117.199654,San Diego County
-92969,Palomar College Transit Center,33.14781,-117.18582,San Diego County
 92008,Plaza Camino Real Transit Center,33.178276,-117.336525,San Diego County
 92057,San Luis Rey Transit Center,33.25441,-117.298129,San Diego County
 92075,Solana Beach Station,32.992937,-117.271067,San Diego County
-92092,Sorrento Valley Station,32.902813,-117.225088,San Diego County
 92083,Vista Transit Center,33.20324,-117.24507,San Diego County

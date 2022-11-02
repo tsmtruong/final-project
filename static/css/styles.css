@@ -39,3 +39,25 @@ body {
 #ML-header {
     text-align:center;
 }
+
+#ML-desc {
+    margin-left: 20px;
+}
+
+#ML-plot {
+    margin-right: 5px;
+}
+
+#Tableau-header {
+    text-align:center;
+}
+
+#ML-3D-desc {
+    text-align:center;
+}
+
+#ML-p {
+    margin-left: 100px ;
+    margin-right: 100px ;
+    text-align:center;
+}
