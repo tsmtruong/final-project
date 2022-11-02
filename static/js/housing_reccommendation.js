@@ -22,7 +22,7 @@ L.control.layers(baseMaps).addTo(map);
 
 // Add GeoJSON data.
 let sandiegoData = "https://raw.githubusercontent.com/tsmtruong/final-project/ATaylor/Resources/RAW/San_Diego_Zip_Codes.geojson"
-//let sandiegoAmenities = "https://raw.githubusercontent.com/tsmtruong/final-project/ATaylor/San_Diego_Amenities.geojson"
+// let sandiegoAmenities = "https://raw.githubusercontent.com/tsmtruong/final-project/ATaylor/San_Diego_Amenities.geojson"
 
 // Function that will determine the color of a neighborhood based on the class it belongs to
 function chooseColor(houseclass) {
