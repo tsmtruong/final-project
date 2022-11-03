@@ -17,12 +17,24 @@ let map = L.map('mapid', {
     layers: [satelliteStreet]
 });
 
+// Add layer grousp for the map.
+let allSD = new L.LayerGroup();
+let clusters = new L.LayerGroup();
+
+
+// Add a reference to the layer groups to the overlays object.
+let overlays = {
+  "San Deigo County": allSD,
+  "Recommended Build Areas": clusters,
+};
+
 // Pass our map layers into our layers control and add the layers control to the map.
-L.control.layers(baseMaps).addTo(map);
+L.control.layers(baseMaps, overlays).addTo(map);
 
 // Add GeoJSON data.
 let sandiegoData = "https://raw.githubusercontent.com/tsmtruong/final-project/ATaylor/Resources/RAW/San_Diego_Zip_Codes.geojson"
-// let sandiegoAmenities = "https://raw.githubusercontent.com/tsmtruong/final-project/ATaylor/San_Diego_Amenities.geojson"
+let cluster = "https://raw.githubusercontent.com/tsmtruong/final-project/CalebmKelly/clusters.geojson"
+let point = "https://raw.githubusercontent.com/tsmtruong/final-project/CalebmKelly/points.geojson"
 
 // Function that will determine the color of a neighborhood based on the class it belongs to
 function chooseColor(houseclass) {
@@ -59,7 +71,7 @@ function chooseOpacity(houseclass) {
     }
 }
 
-// Read JSON Data
+// Read San Diego Map
 d3.json(sandiegoData).then(function(data) {
     console.log(data);
     //Create GeoJSON layer with retrieved data
@@ -75,14 +87,44 @@ d3.json(sandiegoData).then(function(data) {
           },
         onEachFeature: function(feature, layer) {
             layer.bindPopup("<h3>Neighborhood: " + feature.properties.community + "<h4>Zip Code: " + feature.properties.zip + "<h4>Housing Class: " + feature.properties.class)}
-    }).addTo(map)
+    }).addTo(allSD);
+    allSD.addTo(map);
 });
 
-// // Read Amenities layer
-// d3.json(sandiegoAmenities).then(function(data2) {
-//   console.log(data2);
-//   //Create GeoJSON layer with retrieved data
-//   L.geoJSON(data2)
-//   // .bindPopup("<h2>Airport Code: " + data.properties.name + "</h2><hr><h3>Airport Name: " + data.properties.name + "</h3>")
-//   .addTo(map)
-// });
+/// Retrieve the earthquake GeoJSON data.
+d3.json(cluster).then(function(data2) {
+  function styleInfo(feature) {
+    return {
+      opacity: 1,
+      fillOpacity: 1,
+      fillColor: "#00CAB1",
+      color: "#000000",
+      radius: 15,
+      stroke: true,
+      weight: 0.5
+    };
+  }
+
+L.geoJson(data2, {
+  pointToLayer: function(feature, latlng) {
+    console.log(data2);
+    return L.circleMarker(latlng);
+  },
+  // We set the style for each circleMarker using our styleInfo function.
+  style: styleInfo,
+}).addTo(clusters);
+// Add the major earthquakes layer to the map.
+clusters.addTo(map);
+// Close the braces and parentheses for the major earthquake data.
+});
+
+// Read Amenities layer
+d3.json(point).then(function(data3) {
+  console.log(data3);
+  //Create GeoJSON layer with retrieved data
+  L.geoJSON(data3, {
+    // onEachFeature: function(feature, layer3) {
+    //   layer3.bindPopup("<h2>Amenity Type: " + data.properties.resource + "</h2><hr><h3>Amenity Name: " + data.properties.name + "</h3>")}
+    }).addTo(clusters);
+    clusters.addTo(map);
+});
