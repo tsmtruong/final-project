@@ -12,7 +12,7 @@ All our information can be found on [San Diego Housing Project](https://tsmtruon
 
 
 
-The Affordable housing storyboard can be found on [Our Tableau](https://public.tableau.com/views/AffordableHousingStoryboard/Story1?:language=en-US&:display_count=n&:origin=viz_share_link).
+The Affordable housing storyboard can be found on [Our Tableau](https://public.tableau.com/app/profile/rashaan3749/viz/AffordableHousingstoryslides/Story1?publish=yes).
 
 ## Results
 ### Data Gathering and Cleaning
