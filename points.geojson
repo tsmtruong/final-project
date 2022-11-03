@@ -1,0 +1,4835 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Sharp Grossmont Hospital",
+                "resource": "hospital"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0083968,
+                    32.7816526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Arts Academy",
+                "resource": "school"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0332828,
+                    32.7616635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Murdock Elementary School",
+                "resource": "school"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.9859264,
+                    32.7542454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Helix High School",
+                "resource": "school"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0362075,
+                    32.7564647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "The O'Farrell Charter School",
+                "resource": "school"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0665595,
+                    32.7030863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Nye Elementary School",
+                "resource": "school"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0730009,
+                    32.7077893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Bethune K-8",
+                "resource": "school"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0493652,
+                    32.6888572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Trader Joe's",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0056147,
+                    32.7792966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Sprouts Farmers Market",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0187199,
+                    32.7628174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Walmart Neighborhood Market",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0075528,
+                    32.7748551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Trader Joe's",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0056147,
+                    32.7792966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Sprouts Farmers Market",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0187199,
+                    32.7628174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Vine Ripe Market",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0197158,
+                    32.776085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Walmart Neighborhood Market",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0075528,
+                    32.7748551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Target Grocery",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0126681,
+                    32.7792719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Foodland Supermarket",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.026008,
+                    32.7156391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Smart & Final Extra!",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.9586728,
+                    32.746536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "FDAkaydi",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.9605212,
+                    32.74761050000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Trader Joe's",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0056147,
+                    32.7792966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Walmart Neighborhood Market",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0075528,
+                    32.7748551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Target Grocery",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0126681,
+                    32.7792719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Food Supermarket",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.057746,
+                    32.710228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Food Bargain Market",
+                "resource": "business"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0630531,
+                    32.7095145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Allison Av & Palm Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.019588,
+                    32.765915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & University Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.015427,
+                    32.767805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Glen St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.011003,
+                    32.769344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Jackson Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.008508,
+                    32.770425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Garfield St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.006042,
+                    32.772304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Olvera Av & Gwen St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.081531,
+                    32.697845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Olvera Av & San Onofre Ter",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.077711,
+                    32.698806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Olvera Av & Las Flores Ter",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.07491,
+                    32.699355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Roswell St & Kelton Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.075351,
+                    32.715818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Market St & Merlin Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.071626,
+                    32.71
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Radio Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.071097,
+                    32.70142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 62nd St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.064132,
+                    32.709673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 63rd St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.062558,
+                    32.709878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Detroit Pl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.059097,
+                    32.70123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & Woodman St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.055637,
+                    32.710718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Woodman St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.055391,
+                    32.701171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 68th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.051328,
+                    32.711255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 69th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.049539,
+                    32.711802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & 69th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.049584,
+                    32.702518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & 69th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.049622,
+                    32.755068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Buccaneer Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.044948,
+                    32.702751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Sychar Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.042949,
+                    32.703165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Siena St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.03731,
+                    32.70288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Lowell St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.037449,
+                    32.7574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Jamacha Rd & Glencoe Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.032011,
+                    32.715367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Maple Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.030408,
+                    32.761958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "University Av & La Mesa Bl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.027018,
+                    32.764145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Allison Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.025048,
+                    32.765777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "San Vicente St & Cardiff St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.024967,
+                    32.712157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Allison Av & Spring St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.021517,
+                    32.765964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Olvera Av & Euclid Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.084277,
+                    32.697459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Roswell St & 51st St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.084028,
+                    32.711708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & San Jacinto Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.082259,
+                    32.705789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Olvera Av & Santa Isabel Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.079747,
+                    32.698657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 54th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.078386,
+                    32.70708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Roswell St & Derby St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.077664,
+                    32.714997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 55th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.076077,
+                    32.707637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Euclid Av & Guymon St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.085145,
+                    32.712553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Pyramid St & Kenwood St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.073976,
+                    32.712084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Kelton Rd & Pyramid St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.073778,
+                    32.713858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "58th St & Mira Flores Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.073291,
+                    32.700314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Pitta St & Market St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.072796,
+                    32.710333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Madera St & Ramon St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.045652,
+                    32.723852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Connecticut Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.045072,
+                    32.775659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Meadowbrook Dr & Knollwood Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.032652,
+                    32.707337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Meadowbrook Dr & Gribble St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.03096,
+                    32.703489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Meadowbrook Dr & Brookhaven Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.029846,
+                    32.699884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Baltimore Dr & Parkway Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.027535,
+                    32.775551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "San Vicente St & Cardiff St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.024932,
+                    32.712289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Jackson Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.018511,
+                    32.793522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Grossmont Center Dr & Center Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.010148,
+                    32.780282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & Valencia Pkwy",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.072511,
+                    32.708683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & Linnet St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.070222,
+                    32.70905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 60th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.067546,
+                    32.709285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & 61st St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.067062,
+                    32.701328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & O'Meara St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.062075,
+                    32.701249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 65th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.057784,
+                    32.710459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Rio Lindo Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.052254,
+                    32.701909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Lois St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.047114,
+                    32.754964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Lisbon St & 71st St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.045034,
+                    32.711977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Massachusetts Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.042578,
+                    32.75515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Kiowa Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.039613,
+                    32.779336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Lisbon St & Tibbett St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.03958,
+                    32.712037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Lisbon St & Jamacha Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.038318,
+                    32.712045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Shasta Ln",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.035678,
+                    32.779828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "San Vicente St & Meadowbrook Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.03498,
+                    32.708798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Deerock Pl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.034709,
+                    32.702105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Jamacha Rd & Beacon Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.03483,
+                    32.71392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "San Vicente St & San Vicente Ct",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.033007,
+                    32.7096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Parks Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.03286,
+                    32.760434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "San Vicente St & Rytko St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.031649,
+                    32.710823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Brookhaven Rd & Woodway Ct",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.030388,
+                    32.699103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Randlett Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0127,
+                    32.768789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Grossmont Bl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.005438,
+                    32.773283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Olvera Av & Euclid Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.084657,
+                    32.697415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Roswell St & 51st St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.084143,
+                    32.711771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & San Jacinto Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.082555,
+                    32.705834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Roswell St & Hilltop Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.080582,
+                    32.714065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 54th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.078554,
+                    32.707224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Roswell St & Hanover St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.078608,
+                    32.714774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Olvera Av & San Onofre Ter",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.077345,
+                    32.698976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Roswell St & 56th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.075332,
+                    32.715961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Market St & Radio Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.072144,
+                    32.710117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Market St & Merlin Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.070967,
+                    32.710106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 63rd St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.062423,
+                    32.710129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 65th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.057874,
+                    32.710684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Leghorn Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.055432,
+                    32.701383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 68th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.051217,
+                    32.711503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Lisbon St & Imperial Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.048683,
+                    32.712105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Madera St & Primera St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.048986,
+                    32.720403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Madera St & Shirley Ln",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.043444,
+                    32.72601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Sychar Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.04267,
+                    32.703552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Siena St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.036569,
+                    32.702876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Lowell St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.036993,
+                    32.758014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "San Vicente St & Meadowbrook Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.035252,
+                    32.7087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Deerock Pl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.034727,
+                    32.702308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "San Vicente St & San Vicente Ct",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.033306,
+                    32.709631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Parks Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.032976,
+                    32.760691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "San Vicente St & Rytko St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.031806,
+                    32.710896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & El Cajon Bl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.029461,
+                    32.768099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Rosehedge Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.012556,
+                    32.769089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Olvera Av & Gwen St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.081597,
+                    32.697982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Olvera Av & Santa Isabel Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.080146,
+                    32.698567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Olvera Av & Las Flores Ter",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.075191,
+                    32.699452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & Merlin Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.071433,
+                    32.709157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Radio Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.070543,
+                    32.701555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 60th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0682,
+                    32.709421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Ozzie Way",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.068004,
+                    32.701547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 62nd St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.064242,
+                    32.709909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & O'Meara St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.063238,
+                    32.701502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Detroit Pl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.059535,
+                    32.701427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & 66th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.055841,
+                    32.710939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Rio Lindo Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.052956,
+                    32.701916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & 69th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.049505,
+                    32.70276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Skyline Dr & Tuther Way",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.044524,
+                    32.702996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Massachusetts Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.04369,
+                    32.755137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Yale Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.04049,
+                    32.755905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Maryland Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.038481,
+                    32.77972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Jamacha Rd & Joanna Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.037684,
+                    32.712354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Baltimore Dr & Lake Murray Bl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.032773,
+                    32.780229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Maple Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.030653,
+                    32.762102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Culowee St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.027704,
+                    32.767005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & La Mesa Bl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.026989,
+                    32.76453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Glen St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.010269,
+                    32.769857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Grossmont Bl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.004811,
+                    32.773744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Euclid Av & La Paz Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.084926,
+                    32.697726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Euclid Av & Trinidad Wy",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.084953,
+                    32.699878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Euclid Av & Guymon St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.084886,
+                    32.712285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Euclid Av & Hilltop Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.084848,
+                    32.714891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Kelton Rd & Bollenbacher St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.074125,
+                    32.714111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Madera St & Massachusetts Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.043178,
+                    32.726108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Meadowbrook Dr & Blackpool Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.031342,
+                    32.705496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Meadowbrook Dr & Skyline Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.03042,
+                    32.701928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Cardiff St & Wade St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.025026,
+                    32.71513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Madera St & Primera St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.048307,
+                    32.720858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Madera St & Ramon St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.045705,
+                    32.723569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Meadowbrook Dr & Knollwood Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.032896,
+                    32.707693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Meadowbrook Dr & Gribble St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.030747,
+                    32.703633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Deep Dell Rd & Paradise Valley Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.029714,
+                    32.696021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Baltimore Dr & Parkway Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.027185,
+                    32.775281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Jackson Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.018214,
+                    32.793464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Grant Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.015886,
+                    32.766664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Lake Aral Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.015747,
+                    32.796351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Grossmont Center Dr & Center Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.010465,
+                    32.780904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Baltimore Dr & Lake Murray Bl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.032946,
+                    32.78147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Jamacha Rd & 7629",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.036294,
+                    32.712885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Baltimore Dr & Aztec Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.029537,
+                    32.777438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Euclid Av & Trinidad Wy",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.085188,
+                    32.699967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Euclid Av & Unity Place Drwy",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.085117,
+                    32.708909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Euclid Av & Hilltop Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.085098,
+                    32.715164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Meadowbrook Dr & Blackpool Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.031492,
+                    32.705239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Lee Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.029645,
+                    32.768029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Meadowbrook Dr & Brookmeadow Pl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.02817,
+                    32.699329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Euclid Av & Manzanares Wy",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.08485,
+                    32.70368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Euclid Av & Naranja St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.084869,
+                    32.708487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Pyramid St & Kenwood St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.073871,
+                    32.711953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "58th St & Mira Flores Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.073173,
+                    32.700221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Lisbon St & Woodrow Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.041187,
+                    32.712194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "San Vicente St & Norm St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.028599,
+                    32.711461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "University Av & Yale Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.040377,
+                    32.755669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Baltimore Dr & Wellesley St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.031527,
+                    32.779552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Lisbon St & 7170",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.043973,
+                    32.712176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Baltimore Dr & Aztec Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.029325,
+                    32.777005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Culowee St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.02742,
+                    32.766213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & University Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.026556,
+                    32.765228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & Valencia Pkwy",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.073009,
+                    32.708776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Imperial Av & Valencia Pkwy",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.074378,
+                    32.708123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Allison Av & Date Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.022156,
+                    32.766155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Cowles Mountain Bl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.029641,
+                    32.782654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Allison Av & Pine St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.017699,
+                    32.766117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Bl & Wilson St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.006473,
+                    32.772183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Helix Ln",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.99833,
+                    32.750731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Kenwood Dr (9628)",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.988785,
+                    32.748112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Bonita St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.984833,
+                    32.748075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Calle Verde & Via Mercado",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.958405,
+                    32.747795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Bob St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.02513,
+                    32.786841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Marengo Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.026205,
+                    32.784794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Spring St & Palm Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.014801,
+                    32.755625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Marengo Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.025912,
+                    32.784741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Stadler St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.025161,
+                    32.786326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Spring St & Palm Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.013364,
+                    32.754924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Spring St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.00945,
+                    32.752574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Kenwood Dr (9631)",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.989053,
+                    32.747921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Conrad Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.986991,
+                    32.747906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Bonita St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.9842,
+                    32.747876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Baltimore Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.031763,
+                    32.781208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Aztec Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.028737,
+                    32.783058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & El Paso St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.021165,
+                    32.78999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Grossmont Center Dr & Healthcare Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.008326,
+                    32.77917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Bancroft Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.000923,
+                    32.751191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Helix Ln",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.997511,
+                    32.750379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & El Paso St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.021378,
+                    32.790179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Kenwood Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.007663,
+                    32.752802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Bancroft Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.000808,
+                    32.751395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Rogers Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.991947,
+                    32.748151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & Conrad Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.986736,
+                    32.748097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Calle Verde & Avocado Bl (Rancho Sd Vlg)",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.960633,
+                    32.748154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Roswell St & Hilltop Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.080535,
+                    32.713972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Campo Rd & 9400",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.994598,
+                    32.749347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Ava St & Division St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.06929,
+                    32.693689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Paradise Valley Rd & Deep Dell Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.029899,
+                    32.695242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Paradise Valley Rd & Briarwood Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.037363,
+                    32.691767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Spring Street Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.01725,
+                    32.756728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Spring Street Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.017197,
+                    32.756967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Amaya Drive Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.001863,
+                    32.78541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Amaya Drive Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.001606,
+                    32.785413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Grossmont Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.011267,
+                    32.781642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Grossmont Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.01147,
+                    32.781608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Blvd Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.020565,
+                    32.765137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Blvd Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.020531,
+                    32.764905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Spring Street Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.017385,
+                    32.756907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Spring Street Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.017531,
+                    32.756754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Encanto/62nd St Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.063361,
+                    32.71013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Encanto/62nd St Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.06311,
+                    32.710084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Paradise Valley Rd & Munda Rd",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.06287,
+                    32.689176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Bancroft Dr & Spring Valley Elementary",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.002249,
+                    32.748692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Euclid Av & Euclid Health Center",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.085114,
+                    32.707243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Grossmont Transit Center",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.011276,
+                    32.781735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Grossmont Transit Center",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.011251,
+                    32.781853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Akins Av & Encanto/62nd St Trolley Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.063781,
+                    32.710296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Woodman St & Skyline Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.054541,
+                    32.701716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Woodman St & Skyline Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.054781,
+                    32.700895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Encanto/62nd St Trolley Stn",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.063438,
+                    32.710178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Mariposa Pl & 5739",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.072374,
+                    32.689477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Division St & 58th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.073235,
+                    32.692957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bl & Baltimore Dr (Vons)",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.030894,
+                    32.781904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Brooklyn Av & 63rd St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.062371,
+                    32.713247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Brooklyn Av & Stork St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.060819,
+                    32.713119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Brooklyn Av & 65th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.05833,
+                    32.713246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "65th St & Brooklyn Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.057961,
+                    32.713427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Broadway & 65th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.057226,
+                    32.715963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Broadway & 65th St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.057541,
+                    32.715832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Broadway & Madera St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.053506,
+                    32.715839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Madera St & Bittern St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.052693,
+                    32.716559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Jamacha Rd & Cardiff St",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.024903,
+                    32.718193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "La Mesa Bl & University Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.015636,
+                    32.767812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Woodman St & Benson Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.05536,
+                    32.705245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Woodman St & Benson Av",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.055081,
+                    32.704939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Woodman St & Plaza Bl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.051846,
+                    32.696687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Woodman St & Plaza Bl",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.051891,
+                    32.696975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Woodman St & Bullock Dr",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.049832,
+                    32.695436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Encanto/62nd St Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.06321,
+                    32.710115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "70th Street Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.04247,
+                    32.772249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Amaya Drive Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.001723,
+                    32.785424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Encanto/62nd St Trolley Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.06365,
+                    32.710358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Grossmont Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.011062,
+                    32.781816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Grossmont Transit Center",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.011122,
+                    32.781934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Blvd Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.020552,
+                    32.765019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Spring Street Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.017458,
+                    32.756852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Spring Street Station",
+                "resource": "transit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.017215,
+                    32.75686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Mt. Helix Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.9825033,
+                    32.7669811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Collier Park / La Mesa Springs",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0148283,
+                    32.7593218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "MacArthur Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0154827,
+                    32.7696554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Eucalyptus County Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0007037,
+                    32.7595486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Collier Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0146277,
+                    32.7590035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Binder Lost\u2019s",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.9771969,
+                    32.7763108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "The Lookout",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0167837,
+                    32.76601840000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "La Mesita Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0056819,
+                    32.7895137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "San Diego RV Resort",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0372866,
+                    32.7727184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Mission Trails Regional Park Lake Murray",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0392978,
+                    32.7824529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "MacArthur Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0154827,
+                    32.7696554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Collier Park / La Mesa Springs",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0148283,
+                    32.7593218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "La Mesa Secret Stairs",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0226802,
+                    32.7580243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Aztec Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0266928,
+                    32.7786281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Sunset Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0376775,
+                    32.7819741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Collier Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0146277,
+                    32.7590035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "La Mesa Community Garden",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0167615,
+                    32.7709997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "THE PLAYGROUND",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0122,
+                    32.779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Jackson Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0201632,
+                    32.78554500000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "The Lookout",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0167837,
+                    32.76601840000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Briercrest Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0027176,
+                    32.7811529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Trail Head",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0399852,
+                    32.7812965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Lake Murray Bike Trailhead",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0400715,
+                    32.7810758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Junior Seau Sports Complex",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0038466,
+                    32.7896815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Northmont Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0002409,
+                    32.7882927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Vista La Mesa Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.047963,
+                    32.7487613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Dog Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0467751,
+                    32.7154038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Keiller Neighborhood Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0411971,
+                    32.71253129999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91941,
+                "name": "Mt. Helix Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.9825033,
+                    32.7669811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "La Mesita Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0056819,
+                    32.7895137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 91942,
+                "name": "Northmont Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0002409,
+                    32.7882927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "George L. Stevens Senior Center",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0587214,
+                    32.6985093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Emerald Hills Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0738919,
+                    32.7210091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Officer Christopher Wilson Memorial Park.",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0416195,
+                    32.7044937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Marie Widman Memorial Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.052967,
+                    32.7103891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Encanto Neighborhood Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0576032,
+                    32.7153368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Clubhouse",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0458683,
+                    32.70873330000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Martin Luther King jr. Recreation Center & Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0608286,
+                    32.69976560000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Dog Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0467751,
+                    32.7154038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Upper Radio Canyon Open Space",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0635969,
+                    32.7163938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Keiller Neighborhood Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0411971,
+                    32.71253129999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Radio Canyon Open Space",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0696611,
+                    32.7156392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Boone Neighborhood Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0376641,
+                    32.6975585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Emerald Hills Neighborhood Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0752706,
+                    32.7212904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "La Paz Mini Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0806432,
+                    32.6996937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Encanto Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0527444,
+                    32.7104005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "George L. Stevens Senior Center",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0587214,
+                    32.6985093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Boone Neighborhood Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0376641,
+                    32.6975585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "zipcode": 92114,
+                "name": "Martin Luther King jr. Recreation Center & Park",
+                "resource": "park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0608286,
+                    32.69976560000001
+                ]
+            }
+        }
+    ]
+}
