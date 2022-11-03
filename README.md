@@ -58,8 +58,7 @@ numbers.
 - This was achieved by utilizing the Google GeoCoding API, since the data that was given prior already contained street addresses we were able to fetch the latitudes and longitudes with the given address. Once the geo coordinates were acquired, it was time to load them into the machine learning model.
 - At first there were 200+ clusters, and clusters that were clustered on outliers, but with a few tweaks to the model we ended up with 13 clusters that more accurately depicted prime locations for housing. 
 
-![clusters](https://github.com/tsmtruong/final-project/blob/tsmtruong/static/images/clsuters.png)
-
+![clusters](https://github.com/tsmtruong/final-project/blob/main/Resources/Pictures/Clusters.png)
 
 
 ## Conclusion
