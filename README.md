@@ -12,7 +12,7 @@ All our information can be found on [San Diego Housing Project](https://tsmtruon
 
 
 
-A rough draft of our visuals can be found on [Our Tableau](https://public.tableau.com/app/profile/rashaan3749/viz/AffordableHousingStoryboard/Story1#guest=n&4).
+The Affordable housing storyboard can be found on [Our Tableau](https://public.tableau.com/app/profile/rashaan3749/viz/AffordableHousingstoryslides/Story1?publish=yes).
 
 ## Results
 ### Data Gathering and Cleaning
@@ -32,7 +32,7 @@ A rough draft of our visuals can be found on [Our Tableau](https://public.tablea
 - Python
 
 ### Unsupervised Machine Learning
-- For our project we decided to go woth unsupervised machine learning, specifically using K-means. 
+- For our project we decided to go with unsupervised machine learning, specifically using K-means. 
 #### Data Preprocessing
 - We gathered all the San Diego Housing information the Census Bureau published which was grouped by zip code. If a zip code was missing information such as households living in said zip code, we dropped the zip code. The census bureau also published values as a percentage of their categories, so we had to convert their percentages to workable whole
 numbers.
