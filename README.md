@@ -52,6 +52,15 @@ numbers.
 
 ![3D Scatter](https://github.com/tsmtruong/final-project/blob/tsmtruong/Resources/Pictures/3D_Scatter.jpg)
 
+#### DBSCAN
+- DBSCAN, a machine learning model to process high resource areas into clusters that will outline key areas that affordable housing would benefit the most from.
+- a crucial component for the model was to gather the latitudes and longitudes for each Resource.
+- This was achieved by utilizing the Google GeoCoding API, since the data that was given prior already contained street addresses we were able to fetch the latitudes and longitudes with the given address. Once the geo coordinates were acquired, it was time to load them into the machine learning model.
+- At first there were 200+ clusters, and clusters that were clustered on outliers, but with a few tweaks to the model we ended up with 13 clusters that more accurately depicted prime locations for housing. 
+
+![clusters](https://github.com/tsmtruong/final-project/blob/tsmtruong/static/images/clsuters.png)
+
+
 
 ## Conclusion
 
