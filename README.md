@@ -5,6 +5,11 @@ The purpose and goal of this project is to determine where is San Diego would re
 
 ## Websites
 
+
+
+Our presentation slides can be found [HERE](https://docs.google.com/presentation/d/1OCs_Wxn8r2Oqt4n0LE-w1oS4UMFryct7r1KTf5uLS3w/edit?usp=sharing)
+
+
 All our information can be found on [San Diego Housing Project](https://tsmtruong.github.io/final-project/index.html).
 
 
