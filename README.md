@@ -57,6 +57,8 @@ numbers.
       - 91932, 91941, 91942, 91945, 92008,92019, 92025, 92026, 92027, 92028, 92040, 92054, 92056, 92057, 92058, 92065, 92069, 92071, 92078, 92081, 92083,         92084, 92102, 92107, 92108, 92110, 92111, 92117,92120, 92123, 92124, 92139, 92173,92672
   - Using these two lists of zipcode we compared them to the resources/amenities list and found that the zipcodes 91941, 91942, and 92114 have the best       accessibility to resources and high ranking schools. We have concluded that these are the zipcodes that would benefit the most from affordable           housing. 
 
-![Class 4](https://github.com/tsmtruong/final-project/blob/tsmtruong/Resources/Pictures/Class_4.jpg)
+![Top 3](https://github.com/tsmtruong/final-project/blob/main/Resources/Pictures/top_3_tableau.jpg)
 
-![Class 0](https://github.com/tsmtruong/final-project/blob/tsmtruong/Resources/Pictures/Class_0.jpg)
+![markets](https://github.com/tsmtruong/final-project/blob/main/Resources/Pictures/markets_tableau.jpg)
+
+![schools](https://github.com/tsmtruong/final-project/blob/main/Resources/Pictures/school_ratings_tableau.jpg)
